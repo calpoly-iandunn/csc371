@@ -8,6 +8,14 @@ body {
   font-weight: bold;
 }
 
+.no-top-margin {
+  margin-top: 0;
+}
+
 .week-label {
   padding-top: 75px;
+}
+
+p {
+  font-size: 1.1em;
 }

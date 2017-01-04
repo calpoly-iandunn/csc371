@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -9,10 +10,10 @@
 
     <!-- Bootstrap -->
     <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/flatly/bootstrap.min.css" rel="stylesheet">
-    <link href="jumbotron.css" rel="stylesheet">
+    <link href="{{ "/jumbotron.css" | prepend: site.baseurl }}" rel="stylesheet">
 
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="favicon.png" />
+    <link rel="icon" type="image/png" href="{{ "/favicon.png" | prepend: site.baseurl }}" />
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -32,12 +33,12 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="index.html">CSC 371</a>
+        <a class="navbar-brand" href="{{ "/index.html" | prepend: site.baseurl }}">CSC 371</a>
       </div>
 
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right">
-          <li class="active"><a href="index.html">Home</a></li>
+          <li class="active"><a href="{{ "/index.html" | prepend: site.baseurl }}">Home</a></li>
           <li><a href="https://docs.google.com/document/d/1qv5fV8pXKiVEMqQTNmCIf5GaHZYB7WngnXoqs-cUHLE/edit?usp=sharing">Syllabus</a></li>
           <li><a href="https://polylearn.calpoly.edu/AY_2016-2017/course/view.php?id=11137">PolyLearn</a></li>
         </ul>

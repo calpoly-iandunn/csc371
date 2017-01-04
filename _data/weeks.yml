@@ -8,8 +8,11 @@
     lecture:
       - Introduction
       - Enrollment/Waitlist
+      - Class Survey
     assignment:
-      - None
+      - title: Think of a Game
+        link: /assignments/1/
+        due: 1/13
 
   - name: Wednesday 1/11
     reading:
@@ -17,7 +20,7 @@
     lecture:
       - TBA
     assignment:
-      - TBA
+      - text: TBA
 
   - name: Friday 1/13
     reading:
@@ -25,7 +28,7 @@
     lecture:
       - TBA
     assignment:
-      - TBA
+      - text: TBA
 
 
 ###############################################################################
@@ -38,7 +41,7 @@
     lecture:
       - TBA
     assignment:
-      - TBA
+      - text: TBA
 
   - name: Wednesday 1/18
     reading:
@@ -46,7 +49,7 @@
     lecture:
       - TBA
     assignment:
-      - TBA
+      - text: TBA
 
   - name: Friday 1/20
     reading:
@@ -54,4 +57,4 @@
     lecture:
       - TBA
     assignment:
-      - TBA
+      - text: TBA

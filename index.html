@@ -18,7 +18,7 @@ layout: default
   </div>
 </div>
 
-<div class="container" id="course-content">
+<div class="container" id="content">
 
   <div class="panel panel-success">
     <div class="panel-heading">
@@ -27,11 +27,29 @@ layout: default
     <div class="panel-body">
       <div class="row">
         <div class="col-md-12">
+          <h3 class="no-top-margin">Course Schedule</h3>
+          <p>
+            The course schedule is below.
+            For each day, the due <span class="bold">Reading</span>, <span class="bold">Lecture</span> content, and assigned <span class="bold">Assignment</span>s are shown.
+          </p>
+          <p>
+            <span class="text-danger">You are responsible for having completed all required reading when you show up for class.</span>
+            For example, Chapter 1 is the reading for Wednesday 1/11, so you should have read that chapter by 3:10pm on Wednesday 1/11.
+            There may be a quiz on any assigned reading material!
+          </p>
+          <p>
+            <span class="text-warning">However, the listed assignments for any given day are the assignments that are <span class="bold">assigned</span> that day.</span>
+            They will be due at some later date.
+            Click on each assignment to see additional details.
+          </p>
+
+          <h3>Textbook</h3>
           <p>
             The textbook for this course is <a href="https://www.amazon.com/Game-Design-Workshop-Playcentric-Innovative/dp/0240809742">Game Design Workshop: A Playcentric Approach to Creating Innovative Games</a> by Tracy Fullerton.
             I have the <span class="bold">2nd Edition</span> so try to get that version.
           </p>
 
+          <h3>Class Engine</h3>
           <p>
             We will be learning and using <a href="https://www.unrealengine.com/">Unreal Engine</a> in this course.
           </p>
@@ -77,7 +95,11 @@ layout: default
             <h4>Assignments</h4>
             <ul>
 {% for assignment in day.assignment %}
-              <li>{{ assignment }}</li>
+{% if assignment.link %}
+              <li><a href="{{ assignment.link | prepend: site.baseurl }}">{{ assignment.title }}</a> due {{ assignment.due }}</li>
+{% else %}
+              <li>{{ assignment.text }}</li>
+{% endif %}
 {% endfor %}
             </ul>
           </div>
