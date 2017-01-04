@@ -40,11 +40,15 @@ layout: default
     </div>
   </div>
 
-  <h2>Week 1</h2>
+{% for week in site.data.weeks %}
+
+  <h2 class="week-label">Week {{ week.number }}</h2>
+
+{% for day in week.days %}
 
   <div class="panel panel-primary">
     <div class="panel-heading">
-      <h3 class="panel-title">Monday 1/3</h3>
+      <h3 class="panel-title">{{ day.name }}</h3>
     </div>
     <div class="panel-body">
       <div class="row">
@@ -52,7 +56,9 @@ layout: default
           <div class="well well-sm">
             <h4>Reading</h4>
             <ul>
-              <li>None</li>
+{% for reading in day.reading %}
+              <li>{{ reading }}</li>
+{% endfor %}
             </ul>
           </div>
         </div>
@@ -60,8 +66,9 @@ layout: default
           <div class="well well-sm">
             <h4>Lecture</h4>
             <ul>
-              <li>Introduction</li>
-              <li>Enrollment/Waitlist</li>
+{% for lecture in day.lecture %}
+              <li>{{ lecture }}</li>
+{% endfor %}
             </ul>
           </div>
         </div>
@@ -69,7 +76,9 @@ layout: default
           <div class="well well-sm">
             <h4>Assignments</h4>
             <ul>
-              <li>None</li>
+{% for assignment in day.assignment %}
+              <li>{{ assignment }}</li>
+{% endfor %}
             </ul>
           </div>
         </div>
@@ -80,5 +89,9 @@ layout: default
       </div>
     </div>
   </div>
+
+{% endfor %}
+
+{% endfor %}
 
 </div>

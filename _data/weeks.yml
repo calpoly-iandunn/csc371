@@ -1,0 +1,57 @@
+###############################################################################
+
+- number: 1
+  days:
+  - name: Monday 1/9
+    reading:
+      - None
+    lecture:
+      - Introduction
+      - Enrollment/Waitlist
+    assignment:
+      - None
+
+  - name: Wednesday 1/11
+    reading:
+      - Chapter 1
+    lecture:
+      - TBA
+    assignment:
+      - TBA
+
+  - name: Friday 1/13
+    reading:
+      - None
+    lecture:
+      - TBA
+    assignment:
+      - TBA
+
+
+###############################################################################
+
+- number: 2
+  days:
+  - name: Monday 1/16
+    reading:
+      - TBA
+    lecture:
+      - TBA
+    assignment:
+      - TBA
+
+  - name: Wednesday 1/18
+    reading:
+      - TBA
+    lecture:
+      - TBA
+    assignment:
+      - TBA
+
+  - name: Friday 1/20
+    reading:
+      - TBA
+    lecture:
+      - TBA
+    assignment:
+      - TBA
