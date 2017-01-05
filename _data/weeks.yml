@@ -9,6 +9,8 @@
       - Introduction
       - Enrollment/Waitlist
       - Class Survey
+    lab:
+      - text: UE4 Setup
     assignment:
       - title: Think of a Game
         link: /assignments/1/
@@ -18,15 +20,19 @@
     reading:
       - None
     lecture:
-      - TBA
+      - Broken Games Workshop
+    lab:
+      - text: UE4 Tutorial
     assignment:
-      - text: TBA
+      - text: None
 
   - name: Friday 1/13
     reading:
       - None
     lecture:
       - TBA
+    lab:
+      - text: UE4 Tutorial
     assignment:
       - text: TBA
 
