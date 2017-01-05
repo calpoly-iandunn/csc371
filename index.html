@@ -27,7 +27,13 @@ layout: default
             <h4>Reading</h4>
             <ul>
 {% for reading in day.reading %}
+{% if reading == "TBA" %}
+              <li><span class="text-warning">TBA</span></li>
+{% elsif reading == "None" %}
+              <li><span class="text-info">None</span></li>
+{% else %}
               <li>{{ reading }}</li>
+{% endif %}
 {% endfor %}
             </ul>
           </div>
@@ -39,7 +45,13 @@ layout: default
             <h4>Lecture / Workshop</h4>
             <ul>
 {% for lecture in day.lecture %}
+{% if lecture == "TBA" %}
+              <li><span class="text-warning">TBA</span></li>
+{% elsif lecture == "None" %}
+              <li><span class="text-info">None</span></li>
+{% else %}
               <li>{{ lecture }}</li>
+{% endif %}
 {% endfor %}
             </ul>
           </div>
@@ -54,7 +66,13 @@ layout: default
 {% if lab.link %}
               <li><a href="{{ lab.link | prepend: site.baseurl }}">{{ lab.title }}</a> due {{ lab.due }}</li>
 {% else %}
+{% if lab.text == "TBA" %}
+              <li><span class="text-warning">TBA</span></li>
+{% elsif lab.text == "None" %}
+              <li><span class="text-info">None</span></li>
+{% else %}
               <li>{{ lab.text }}</li>
+{% endif %}
 {% endif %}
 {% endfor %}
             </ul>
@@ -69,8 +87,14 @@ layout: default
 {% for assignment in day.assignment %}
 {% if assignment.link %}
               <li><a href="{{ assignment.link | prepend: site.baseurl }}">{{ assignment.title }}</a> due {{ assignment.due }}</li>
+{% elsif assignment.text %}
+{% if assignment.text == "TBA" %}
+              <li><span class="text-warning">TBA</span></li>
+{% elsif assignment.text == "None" %}
+              <li><span class="text-info">None</span></li>
 {% else %}
               <li>{{ assignment.text }}</li>
+{% endif %}
 {% endif %}
 {% endfor %}
             </ul>
