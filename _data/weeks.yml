@@ -5,6 +5,9 @@
   - name: Monday 1/9
     reading:
       - None
+    slides:
+      title: Introduction
+      link: https://docs.google.com/presentation/d/1ANTg6abA1mFHO2UnLQAzObMJV8L9GutCy4sRlCgGvDI/edit?usp=sharing
     lecture:
       - Introduction
       - Enrollment/Waitlist
