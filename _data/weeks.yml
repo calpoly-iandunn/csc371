@@ -45,18 +45,11 @@
 - number: 2
   days:
   - name: Monday 1/16
-    reading:
-      - TBA
-    lecture:
-      - TBA
-    lab:
-      - text: TBA
-    assignment:
-      - text: TBA
+    holiday: true
 
   - name: Wednesday 1/18
     reading:
-      - TBA
+      - Chapter 1
     lecture:
       - TBA
     lab:

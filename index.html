@@ -19,8 +19,14 @@ layout: default
       <h3 class="panel-title">{{ day.name }}</h3>
     </div>
     <div class="panel-body">
+{% if day.holiday %}
       <div class="row">
-
+        <div class="col-xs-12">
+          <p>Holiday!</p>
+        </div>
+      </div>
+{% else %}
+      <div class="row">
         <!-- Reading -->
         <div class="col-lg-3 col-sm-6">
           <div class="well well-sm">
@@ -105,6 +111,7 @@ layout: default
         </div>
 
       </div>
+{% endif %}
       <div class="row">
 
         <!-- Notes -->
