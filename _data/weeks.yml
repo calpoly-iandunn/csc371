@@ -23,7 +23,7 @@
     reading:
       - None
     lecture:
-      - Game Design (Formal Definitions)
+      - Broken Games Workshop
     lab:
       - text: UE4 Tutorial 1
     assignment:
@@ -33,11 +33,11 @@
     reading:
       - None
     lecture:
-      - Broken Games Workshop
+      - Game Design (Formal Definitions)
     lab:
       - text: UE4 Tutorial 2
     assignment:
-      - text: TBA
+      - text: Think about project ideas!
 
 
 ###############################################################################
