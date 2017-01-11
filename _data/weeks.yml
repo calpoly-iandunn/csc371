@@ -25,7 +25,9 @@
     lecture:
       - Broken Games Workshop
     lab:
-      - text: UE4 Tutorial 1
+      - title: Blueprints Quick Start Guide
+        outbound: https://docs.unrealengine.com/latest/INT/Engine/Blueprints/QuickStart/index.html
+        due: 1/13
     assignment:
       - text: None
 
