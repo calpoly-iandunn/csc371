@@ -40,6 +40,8 @@
     reading:
       - None
     slides:
+      - title: Day 3
+        link: https://docs.google.com/presentation/d/1tkbhAJMr5vZc19AIxkEM5GvFa_RGmMzQshSGT1lgwfI/edit?usp=sharing
       - title: Game Design (Formal Definitions)
         link: https://docs.google.com/presentation/d/18NHbHuP2DJK636Q-A50QF6cCbemPoxAOGUOBuZkOVZE/edit?usp=sharing
     lecture:
@@ -48,6 +50,7 @@
       - text: UE4 Tutorial 2
     assignment:
       - text: Think about project ideas!
+      - text: Game pitches are Wednesday 1/18!
 
 
 ###############################################################################
