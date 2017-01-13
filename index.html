@@ -49,9 +49,9 @@ layout: default
         <div class="col-lg-3 col-sm-6">
           <div class="well well-sm">
             <h4>Lecture / Workshop</h4>
-{% if day.slides %}
-            <p>Slides: <a href="{{ day.slides.link }}">{{ day.slides.title }}</a></p>
-{% endif %}
+{% for slides in day.slides %}
+            <p>Slides: <a href="{{ slides.link }}">{{ slides.title }}</a></p>
+{% endfor %}
             <ul>
 {% for lecture in day.lecture %}
 {% if lecture == "TBA" %}
