@@ -47,7 +47,9 @@
     lecture:
       - Game Design (Formal Definitions)
     lab:
-      - text: UE4 Tutorial 2
+      - title: Blueprint Lift Tutorial
+        link: /labs/2/
+        due: 1/20
     assignment:
       - text: Think about project ideas!
       - text: Game pitches are Wednesday 1/18!
