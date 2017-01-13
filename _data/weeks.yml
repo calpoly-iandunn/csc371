@@ -39,6 +39,9 @@
   - name: Friday 1/13
     reading:
       - None
+    slides:
+      - title: Game Design (Formal Definitions)
+        link: https://docs.google.com/presentation/d/18NHbHuP2DJK636Q-A50QF6cCbemPoxAOGUOBuZkOVZE/edit?usp=sharing
     lecture:
       - Game Design (Formal Definitions)
     lab:
