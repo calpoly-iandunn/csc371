@@ -50,7 +50,7 @@ layout: default
           <div class="well well-sm">
             <h4>Lecture / Workshop</h4>
 {% for slides in day.slides %}
-            <p>Slides: <a href="{{ slides.link }}">{{ slides.title }}</a></p>
+            <p>Slides: <a href="{{ slides.link }}">{{ slides.text }}</a></p>
 {% endfor %}
             <ul>
 {% for lecture in day.lecture %}
@@ -73,9 +73,9 @@ layout: default
             <ul>
 {% for lab in day.lab %}
 {% if lab.link %}
-              <li><a href="{{ lab.link | prepend: site.baseurl }}">{{ lab.title }}</a> due {{ lab.due }}</li>
+              <li><a href="{{ lab.link | prepend: site.baseurl }}">{{ lab.text }}</a> due {{ lab.due }}</li>
 {% elsif lab.outbound %}
-              <li><a href="{{ lab.outbound }}">{{ lab.title }}</a> due {{ lab.due }}</li>
+              <li><a href="{{ lab.outbound }}">{{ lab.text }}</a> due {{ lab.due }}</li>
 {% else %}
 {% if lab.text == "TBA" %}
               <li><span class="text-warning">TBA</span></li>
@@ -97,7 +97,9 @@ layout: default
             <ul>
 {% for assignment in day.assignment %}
 {% if assignment.link %}
-              <li><a href="{{ assignment.link | prepend: site.baseurl }}">{{ assignment.title }}</a> due {{ assignment.due }}</li>
+              <li><a href="{{ assignment.link | prepend: site.baseurl }}">{{ assignment.text }}</a> due {{ assignment.due }}</li>
+{% elsif assignment.outbound %}
+              <li><a href="{{ assignment.outbound }}">{{ assignment.text }}</a> due {{ assignment.due }}</li>
 {% elsif assignment.text %}
 {% if assignment.text == "TBA" %}
               <li><span class="text-warning">TBA</span></li>
