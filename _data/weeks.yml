@@ -66,8 +66,9 @@
     reading:
       - Chapter 1
     lecture:
-      - Game Pitches
+      - Iterative Prototyping
     lab:
+      - text: Game Pitches
       - text: First Team Meetings
       - text: Project Planning
     assignment:
