@@ -73,7 +73,7 @@ layout: default
             <ul>
 {% for lab in day.lab %}
 {% if lab.link %}
-              <li><a href="{{ lab.link | prepend: site.baseurl }}">{{ lab.text }}</a> due {{ lab.due }}</li>
+              <li><a href="{{ lab.link | prepend: site.baseurl }}">{{ lab.text }}</a>{% if lab.due %} due {{ lab.due }}{% endif %}</li>
 {% elsif lab.outbound %}
               <li><a href="{{ lab.outbound }}">{{ lab.text }}</a> due {{ lab.due }}</li>
 {% else %}
