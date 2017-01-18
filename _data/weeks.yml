@@ -65,17 +65,60 @@
   - name: Wednesday 1/18
     reading:
       - Chapter 1
+    slides:
+      - text: Day 4
+        link: https://docs.google.com/presentation/d/1yZHQ_Zpu-LZa--rhjTC1LuwkmKyMFqTutZSfI8TgeP0/edit?usp=sharing
+      - text: Iterative Design
+        link: https://docs.google.com/presentation/d/1MBxp0GzTHL8Rwu2f3RcKgsNmdZlQSKU5kZ6ldnTc33k/edit?usp=sharing
+      - text: Brainstorming 1
+        link: https://docs.google.com/presentation/d/11aYgKAt34W501l_5LmReY7WCimePhblF_46zIzUFmNc/edit?usp=sharing
     lecture:
       - Iterative Prototyping
+      - "Game Maker's Toolkit - Nintendo"
+      - Brainstorming Exercise
     lab:
       - text: Game Pitches
         link: /project/pitches.html
       - text: First Team Meetings
       - text: Project Planning
     assignment:
-      - text: TBA
+      - text: None
 
   - name: Friday 1/20
+    reading:
+      - Chapter 7
+    lecture:
+      - Physical Prototyping
+    lab:
+      - text: TBA
+    assignment:
+      - text: TBA
+
+###############################################################################
+
+- number: 3
+  days:
+  - name: Monday 1/23
+    reading:
+      - Chapter 2
+    lecture:
+      - TBA
+    lab:
+      - text: TBA
+    assignment:
+      - text: TBA
+
+  - name: Wednesday 1/25
+    reading:
+      - TBA
+    lecture:
+      - TBA
+    lab:
+      - text: TBA
+    assignment:
+      - text: TBA
+
+  - name: Friday 1/27
     reading:
       - TBA
     lecture:
