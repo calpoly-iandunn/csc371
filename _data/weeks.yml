@@ -87,6 +87,9 @@
   - name: Friday 1/20
     reading:
       - Chapter 7
+    slides:
+      - text: Physical Prototyping
+        link: https://docs.google.com/presentation/d/1AybpLl8f9lBNq48DyZVuJLDtDlWwE7O1brhajayApEU/edit?usp=sharing
     lecture:
       - Physical Prototyping
     lab:
@@ -102,9 +105,9 @@
     reading:
       - Chapter 2
     lecture:
-      - TBA
+      - Physical Prototype Refinement
     lab:
-      - text: TBA
+      - text: Physical Prototype Writeup
     assignment:
       - text: TBA
 
