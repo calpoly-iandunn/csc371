@@ -97,7 +97,9 @@
     lab:
       - text: Physical Prototype Playtesting
     assignment:
-      - text: TBA
+      - text: Diagramming Core Gameplay
+        link: /assignments/2/
+        due: 1/27
 
 ###############################################################################
 
