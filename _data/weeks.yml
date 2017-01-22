@@ -107,24 +107,24 @@
   days:
   - name: Monday 1/23
     reading:
-      - Chapter 2
+      - None
     lecture:
       - Physical Prototype Refinement
     lab:
       - text: Physical Prototype Playtesting
         link: /project/1/
     assignment:
-      - text: TBA
+      - text: None
 
   - name: Wednesday 1/25
     reading:
-      - TBA
+      - Chapter 2
     lecture:
       - TBA
     lab:
-      - text: TBA
+      - text: Lab 3 (writeup coming soon)
     assignment:
-      - text: TBA
+      - text: None
 
   - name: Friday 1/27
     reading:
