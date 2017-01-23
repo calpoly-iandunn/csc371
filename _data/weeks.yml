@@ -120,13 +120,49 @@
     reading:
       - Chapter 2
     lecture:
-      - TBA
+      - Software Engineering
+      - Collision Detection
     lab:
       - text: Lab 3 (writeup coming soon)
     assignment:
       - text: None
 
   - name: Friday 1/27
+    reading:
+      - Chapter 8
+    lecture:
+      - Software Prototyping
+      - Team work time
+    lab:
+      - text: None
+    assignment:
+      - text: TBA
+
+###############################################################################
+
+- number: 4
+  days:
+  - name: Monday 1/30
+    reading:
+      - TBA
+    lecture:
+      - TBA
+    lab:
+      - text: Lab 4 (writeup coming soon)
+    assignment:
+      - text: TBA
+
+  - name: Wednesday 2/1
+    reading:
+      - TBA
+    lecture:
+      - TBA
+    lab:
+      - text: TBA
+    assignment:
+      - text: TBA
+
+  - name: Friday 2/3
     reading:
       - TBA
     lecture:
