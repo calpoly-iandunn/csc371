@@ -108,6 +108,9 @@
   - name: Monday 1/23
     reading:
       - None
+    slides:
+      - text: Day 6
+        link: https://docs.google.com/presentation/d/1lpLoKT5K1vKYb6zoybm8BbulyvJNQvrxqh99SYeRcig/edit?usp=sharing
     lecture:
       - Physical Prototype Refinement
     lab:
@@ -119,9 +122,16 @@
   - name: Wednesday 1/25
     reading:
       - Chapter 2
+    slides:
+      - text: Day 7
+        link: https://docs.google.com/presentation/d/1ydwgfbU5VJt_8OU0LIp3yLlMDhbd3TMUFEBYtgD3GVk/edit?usp=sharing
+      - text: Collision Detection
+        link: https://docs.google.com/presentation/d/181I7LYsvtPRIhQQ1-1LC9-jv1byaOAwiRqCW_E2caBI/edit?usp=sharing
+      - text: Software Development
+        link: https://docs.google.com/presentation/d/1dr63EcK2mMas-s5PY9KkFXv98O7pupGBMbgS1lm0Ohs/edit?usp=sharing
     lecture:
-      - Software Engineering
       - Collision Detection
+      - Software Engineering
     lab:
       - text: "Lab 3: Hitscan Weapon"
         link: /labs/3/
