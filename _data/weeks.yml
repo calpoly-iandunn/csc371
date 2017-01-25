@@ -123,7 +123,9 @@
       - Software Engineering
       - Collision Detection
     lab:
-      - text: Lab 3 (writeup coming soon)
+      - text: "Lab 3: Hitscan Weapon"
+        link: /labs/3/
+        due: 2/1
     assignment:
       - text: None
 
