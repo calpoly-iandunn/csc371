@@ -115,7 +115,6 @@
       - Physical Prototype Refinement
     lab:
       - text: Physical Prototype Playtesting
-        link: /project/1/
     assignment:
       - text: None
 
@@ -132,6 +131,7 @@
     lecture:
       - Collision Detection
       - Software Engineering
+      - Team work time
     lab:
       - text: "Lab 3: Hitscan Weapon"
         link: /labs/3/
@@ -148,7 +148,7 @@
     lab:
       - text: None
     assignment:
-      - text: TBA
+      - text: None
 
 ###############################################################################
 
@@ -156,11 +156,12 @@
   days:
   - name: Monday 1/30
     reading:
-      - TBA
+      - Chapter 3
     lecture:
       - TBA
     lab:
       - text: Lab 4 (writeup coming soon)
+        due: 2/3
     assignment:
       - text: TBA
 
@@ -178,7 +179,7 @@
     reading:
       - TBA
     lecture:
-      - TBA
+      - Midterm Exam 1
     lab:
       - text: TBA
     assignment:
