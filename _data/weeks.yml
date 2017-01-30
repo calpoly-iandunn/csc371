@@ -140,6 +140,9 @@
       - text: None
 
   - name: Friday 1/27
+    slides:
+      - text: Day 8
+        link: https://docs.google.com/presentation/d/1DD_KfeufpVnzhohiywnskwyOd27FL5LSwmICBrWpU8A/edit?usp=sharing
     reading:
       - Chapter 8
     lecture:
@@ -157,28 +160,37 @@
   - name: Monday 1/30
     reading:
       - Chapter 3
+    slides:
+      - text: Day 9
+        link: https://docs.google.com/presentation/d/1ggL1UmE32s3kbH2uPCpOYu5cCFnqPMeYWWGa-oG-B_A/edit?usp=sharing
+      - text: BattleBattle! Workshop
+        link: https://docs.google.com/presentation/d/1bSC7CFEoGDs0-1CjR2QitnXMXQqghwom36x9Qn-W_k8/edit?usp=sharing
     lecture:
-      - TBA
+      - Game Balancing Workshop
     lab:
       - text: "Lab 4: UMG UI Designer Quick Start Guide"
         outbound: https://docs.unrealengine.com/latest/INT/Engine/UMG/QuickStart/index.html
         due: 2/6
     assignment:
-      - text: TBA
+      - text: None
 
   - name: Wednesday 2/1
     reading:
-      - TBA
+      - None
     lecture:
-      - TBA
+      - Midterm Review
+      - Juice it or lose it
     lab:
-      - text: TBA
+      - text: None
     assignment:
-      - text: TBA
+      - text: None
 
   - name: Friday 2/3
     reading:
-      - TBA
+      - None
+    slides:
+      - text: Study Guide
+        link: https://docs.google.com/document/d/10XajC7b0zpgMQYT6BqxDmassOfRSuxLoQSGy1edcr5E/edit?usp=sharing
     lecture:
       - Midterm Exam 1
     lab:
