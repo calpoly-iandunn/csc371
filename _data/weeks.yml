@@ -160,8 +160,9 @@
     lecture:
       - TBA
     lab:
-      - text: Lab 4 (writeup coming soon)
-        due: 2/3
+      - text: "Lab 4: UMG UI Designer Quick Start Guide"
+        outbound: https://docs.unrealengine.com/latest/INT/Engine/UMG/QuickStart/index.html
+        due: 2/6
     assignment:
       - text: TBA
 
