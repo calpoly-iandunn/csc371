@@ -270,7 +270,7 @@
 
 - number: 7
   days:
-  - name: Monday 2/20
+  - name: Tuesday 2/21
     reading:
       - TBA
     lecture:
@@ -299,3 +299,119 @@
       - text: TBA
     assignment:
       - text: TBA
+
+###############################################################################
+
+- number: 8
+  days:
+  - name: Monday 2/27
+    reading:
+      - TBA
+    lecture:
+      - TBA
+    lab:
+      - text: TBA
+    assignment:
+      - text: TBA
+
+  - name: Wednesday 3/1
+    reading:
+      - TBA
+    lecture:
+      - TBA
+    lab:
+      - text: TBA
+    assignment:
+      - text: TBA
+
+  - name: Friday 3/3
+    reading:
+      - TBA
+    lecture:
+      - TBA
+    lab:
+      - text: TBA
+    assignment:
+      - text: TBA
+
+###############################################################################
+
+- number: 9
+  days:
+  - name: Monday 3/6
+    reading:
+      - TBA
+    lecture:
+      - TBA
+    lab:
+      - text: TBA
+    assignment:
+      - text: TBA
+
+  - name: Wednesday 3/8
+    reading:
+      - TBA
+    lecture:
+      - TBA
+    lab:
+      - text: TBA
+    assignment:
+      - text: TBA
+
+  - name: Friday 3/10
+    reading:
+      - TBA
+    lecture:
+      - TBA
+    lab:
+      - text: TBA
+    assignment:
+      - text: TBA
+
+###############################################################################
+
+- number: 10
+  days:
+  - name: Monday 3/13
+    reading:
+      - TBA
+    lecture:
+      - TBA
+    lab:
+      - text: TBA
+    assignment:
+      - text: TBA
+
+  - name: Wednesday 3/15
+    reading:
+      - TBA
+    lecture:
+      - TBA
+    lab:
+      - text: TBA
+    assignment:
+      - text: TBA
+
+  - name: Friday 3/17
+    reading:
+      - TBA
+    lecture:
+      - TBA
+    lab:
+      - text: TBA
+    assignment:
+      - text: TBA
+
+###############################################################################
+
+- number: 11
+  days:
+  - name: Final Exam - Monday 3/20
+    reading:
+      - None
+    lecture:
+      - None
+    lab:
+      - text: None
+    assignment:
+      - text: None
