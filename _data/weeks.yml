@@ -169,7 +169,7 @@
       - Game Balancing Workshop
     lab:
       - text: "Lab 4: UMG UI Designer Quick Start Guide"
-        outbound: https://docs.unrealengine.com/latest/INT/Engine/UMG/QuickStart/index.html
+        link: /labs/4/
         due: 2/6
     assignment:
       - text: None
