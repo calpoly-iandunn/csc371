@@ -218,19 +218,20 @@
     lecture:
       - Hand back midterms
     lab:
-      - text: TBA
+      - text: None
     assignment:
-      - text: TBA
+      - text: None
 
   - name: Friday 2/10
     reading:
-      - TBA
+      - None
     lecture:
-      - TBA
+      - None
     lab:
-      - text: TBA
+      - text: "Lab 5: Behavior Tree Quick Start Guide"
+        outbound: https://docs.unrealengine.com/latest/INT/Engine/AI/BehaviorTrees/QuickStart/index.html
     assignment:
-      - text: TBA
+      - text: None
 
 ###############################################################################
 
@@ -238,7 +239,7 @@
   days:
   - name: Monday 2/13
     reading:
-      - TBA
+      - Chapter 4
     lecture:
       - TBA
     lab:
@@ -248,7 +249,7 @@
 
   - name: Wednesday 2/15
     reading:
-      - TBA
+      - Chapter 5
     lecture:
       - TBA
     lab:
