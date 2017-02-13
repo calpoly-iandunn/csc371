@@ -245,10 +245,11 @@
     reading:
       - Chapter 4
     lecture:
-      - Behavior Trees and Related AI
-      - Git Introduction
+      - "Mark Brown: Telling Stories With Systems"
     lab:
-      - text: None
+      - text: Learn Git
+        link: /labs/git/
+        due: 2/17
     assignment:
       - text: None
 
@@ -256,7 +257,7 @@
     reading:
       - Chapter 5
     lecture:
-      - TBA
+      - Behavior Trees and Other AI
     lab:
       - text: TBA
     assignment:
@@ -266,7 +267,7 @@
     reading:
       - None
     lecture:
-      - TBA
+      - Game Genres
     lab:
       - text: TBA
     assignment:
