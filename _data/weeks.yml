@@ -229,7 +229,8 @@
       - None
     lab:
       - text: "Lab 5: Behavior Tree Quick Start Guide"
-        outbound: https://docs.unrealengine.com/latest/INT/Engine/AI/BehaviorTrees/QuickStart/index.html
+        link: /labs/5/
+        due: 2/17
     assignment:
       - text: None
 
@@ -241,11 +242,12 @@
     reading:
       - Chapter 4
     lecture:
-      - TBA
+      - Behavior Trees and Related AI
+      - Git Introduction
     lab:
-      - text: TBA
+      - text: None
     assignment:
-      - text: TBA
+      - text: None
 
   - name: Wednesday 2/15
     reading:
@@ -259,7 +261,7 @@
 
   - name: Friday 2/17
     reading:
-      - TBA
+      - None
     lecture:
       - TBA
     lab:
