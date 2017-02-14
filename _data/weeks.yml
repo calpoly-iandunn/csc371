@@ -279,7 +279,7 @@
   days:
   - name: Tuesday 2/21
     reading:
-      - TBA
+      - Chapter 6
     lecture:
       - TBA
     lab:
@@ -289,7 +289,7 @@
 
   - name: Wednesday 2/22
     reading:
-      - TBA
+      - None
     lecture:
       - TBA
     lab:
@@ -299,7 +299,7 @@
 
   - name: Friday 2/24
     reading:
-      - TBA
+      - Chapter 9
     lecture:
       - TBA
     lab:
@@ -313,7 +313,7 @@
   days:
   - name: Monday 2/27
     reading:
-      - TBA
+      - Chapter 10
     lecture:
       - TBA
     lab:
@@ -323,7 +323,7 @@
 
   - name: Wednesday 3/1
     reading:
-      - TBA
+      - None
     lecture:
       - TBA
     lab:
@@ -333,7 +333,7 @@
 
   - name: Friday 3/3
     reading:
-      - TBA
+      - Chapter 11
     lecture:
       - TBA
     lab:
@@ -347,7 +347,7 @@
   days:
   - name: Monday 3/6
     reading:
-      - TBA
+      - Chapter 12
     lecture:
       - TBA
     lab:
@@ -357,7 +357,7 @@
 
   - name: Wednesday 3/8
     reading:
-      - TBA
+      - Chapter 13
     lecture:
       - TBA
     lab:
@@ -369,7 +369,7 @@
     reading:
       - TBA
     lecture:
-      - TBA
+      - Midterm 2
     lab:
       - text: TBA
     assignment:
@@ -381,7 +381,7 @@
   days:
   - name: Monday 3/13
     reading:
-      - TBA
+      - None
     lecture:
       - TBA
     lab:
@@ -391,7 +391,7 @@
 
   - name: Wednesday 3/15
     reading:
-      - TBA
+      - Chapter 15
     lecture:
       - TBA
     lab:
@@ -401,7 +401,7 @@
 
   - name: Friday 3/17
     reading:
-      - TBA
+      - Chapter 16
     lecture:
       - TBA
     lab:
