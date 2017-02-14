@@ -245,7 +245,8 @@
     reading:
       - Chapter 4
     lecture:
-      - "Mark Brown: Telling Stories With Systems"
+      - text: "Mark Brown: Telling Stories With Systems"
+        outbound: https://www.youtube.com/watch?v=NyMndWpihTM
     lab:
       - text: Learn Git
         link: /labs/git/

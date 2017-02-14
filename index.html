@@ -54,12 +54,18 @@ layout: default
 {% endfor %}
             <ul>
 {% for lecture in day.lecture %}
+{% if lecture.link %}
+              <li><a href="{{ lecture.link | prepend: site.baseurl }}">{{ lecture.text }}</a></li>
+{% elsif lecture.outbound %}
+              <li><a href="{{ lecture.outbound }}">{{ lecture.text }}</a></li>
+{% else %}
 {% if lecture == "TBA" %}
               <li><span class="text-warning">TBA</span></li>
 {% elsif lecture == "None" %}
               <li><span class="text-info">None</span></li>
 {% else %}
               <li>{{ lecture }}</li>
+{% endif %}
 {% endif %}
 {% endfor %}
             </ul>
