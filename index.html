@@ -19,10 +19,10 @@ layout: default
       <h3 class="panel-title">{{ day.name }}</h3>
     </div>
     <div class="panel-body">
-{% if day.holiday %}
+{% if day.override %}
       <div class="row">
         <div class="col-xs-12">
-          <p>Holiday!</p>
+          <p>{{ day.override }}</p>
         </div>
       </div>
 {% else %}

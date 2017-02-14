@@ -60,7 +60,7 @@
 - number: 2
   days:
   - name: Monday 1/16
-    holiday: true
+    override: "Holiday!"
 
   - name: Wednesday 1/18
     reading:
@@ -203,14 +203,7 @@
 - number: 5
   days:
   - name: Monday 2/6
-    reading:
-      - None
-    lecture:
-      - None
-    lab:
-      - text: None
-    assignment:
-      - text: None
+    override: "Class was cancelled"
 
   - name: Wednesday 2/8
     reading:
