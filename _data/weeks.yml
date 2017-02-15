@@ -251,11 +251,12 @@
     reading:
       - Chapter 5
     lecture:
-      - Behavior Trees and Other AI
+      - text: Behavior Trees and Other AI
+        outbound: https://docs.google.com/presentation/d/1rRMyWm3TmAe_NZHeMvZE3H-1bAMXITxf-vZxGDVp0t8/edit?usp=sharing
     lab:
-      - text: TBA
+      - text: None
     assignment:
-      - text: TBA
+      - text: None
 
   - name: Friday 2/17
     reading:
