@@ -408,11 +408,4 @@
 - number: 11
   days:
   - name: Final Exam - Monday 3/20
-    reading:
-      - None
-    lecture:
-      - None
-    lab:
-      - text: None
-    assignment:
-      - text: None
+    override: "Final Project Displays"
