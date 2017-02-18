@@ -237,6 +237,9 @@
   - name: Monday 2/13
     reading:
       - Chapter 4
+    slides:
+      - text: Day 15
+        link: https://docs.google.com/presentation/d/1XaeOvhEIcirPPW3y-kiqH6p6EQfpxTkkqOxjDLLWbb4/edit?usp=sharing
     lecture:
       - text: "Mark Brown: Telling Stories With Systems"
         outbound: https://www.youtube.com/watch?v=NyMndWpihTM
@@ -261,6 +264,9 @@
   - name: Friday 2/17
     reading:
       - None
+    slides:
+      - text: Day 17
+        link: https://docs.google.com/presentation/d/1M-9Dg28q78hDlMVdC35fTp736afcZ9qbRSDoAf9EqRc/edit?usp=sharing
     lecture:
       - Sprint 1 Planning
     lab:
