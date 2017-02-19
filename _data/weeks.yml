@@ -280,7 +280,7 @@
   days:
   - name: Tuesday 2/21
     reading:
-      - Chapter 6
+      - "Chapter 6: Conceptualization"
     lecture:
       - Game Genres
     lab:
@@ -292,7 +292,7 @@
     reading:
       - None
     lecture:
-      - TBA
+      - Jesse Schell's Lens Workshop 1
     lab:
       - text: TBA
     assignment:
@@ -300,9 +300,9 @@
 
   - name: Friday 2/24
     reading:
-      - Chapter 9
+      - "Chapter 9: Playtesting"
     lecture:
-      - TBA
+      - Sprint 1 Checkins
     lab:
       - text: TBA
     assignment:
