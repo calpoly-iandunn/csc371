@@ -302,7 +302,8 @@
     reading:
       - "Chapter 9: Playtesting"
     lecture:
-      - Sprint 1 Checkins
+      - text: Sprint 1 Checkins
+        link: /project/SprintCheckins/
     lab:
       - text: TBA
     assignment:
