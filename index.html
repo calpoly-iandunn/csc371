@@ -6,10 +6,26 @@ layout: default
 
 <div class="container" id="content">
 
+
+<div class="panel panel-info">
+  <div class="panel-heading">
+    <h3 class="panel-title">Quick Links</h3>
+  </div>
+  <div class="panel-body">
+    <ul>
+      <li><a href="#course_info">Course Info</a></li>
+{% for week in site.data.weeks %}
+      <li><a href="#week_{{ week.number }}">Week {{ week.number }}</a></li>
+{% endfor %}
+    </ul>
+  </div>
+</div>
+
 {% include course_info.html %}
 
 {% for week in site.data.weeks %}
 
+  <a name="week_{{ week.number }}"></a>
   <h2 class="week-label">Week {{ week.number }}</h2>
 
 {% for day in week.days %}
