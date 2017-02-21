@@ -282,7 +282,8 @@
     reading:
       - "Chapter 6: Conceptualization"
     lecture:
-      - Game Genres
+      - text: Game Genres
+        outbound: https://docs.google.com/presentation/d/1QTcLQuI9F27_C20IUjtFivywWK756IxrTUmqevixYzw/edit?usp=sharing
     lab:
       - text: None
     assignment:
@@ -292,7 +293,8 @@
     reading:
       - None
     lecture:
-      - Jesse Schell's Lens Workshop 1
+      - text: Jesse Schell's Lens Workshop 1
+        link: /workshops/SchellLenses/
     lab:
       - text: TBA
     assignment:
