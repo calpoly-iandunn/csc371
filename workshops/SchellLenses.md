@@ -50,8 +50,8 @@ yourself to fill your game with interesting surprises. Ask yourself these questi
 Surprise is a crucial part of all entertainment — it is at the root of humor,
 strategy, and problem solving. Our brains are hardwired to enjoy surprises.
 In an experiment where participants received sprays of sugar water or plain
-water into their mouths, the participants who received random sprays consid-
-ered the experience much more pleasurable than participants who received
+water into their mouths, the participants who received random sprays considered
+the experience much more pleasurable than participants who received
 the sprays according to a fixed pattern, even though the same amount of sugar
 was delivered. In other experiments, brain scans revealed that even during
 unpleasant surprises, the pleasure centers of the brain are triggered.
@@ -91,3 +91,12 @@ Remember, the value of the items and score in the game is a direct reflection
 of how much players care about succeeding in your game. By thinking about
 what the players really care about and why, you can often get insights about
 how your game can improve.
+
+### Lens #6: The Lens of Problem Solving
+To use this lens, think about the problems your players must solve to succeed at
+your game, for every game has problems to solve. Ask yourself these
+questions:
+
+- What problems does my game ask the player to solve?
+- Are there hidden problems to solve that arise as part of gameplay?
+- How can my game generate new problems so that players keep coming back?
