@@ -64,7 +64,7 @@
 
   - name: Wednesday 1/18
     reading:
-      - Chapter 1
+      - "Chapter 1: The Role of the Game Designer"
     slides:
       - text: Day 4
         link: https://docs.google.com/presentation/d/1yZHQ_Zpu-LZa--rhjTC1LuwkmKyMFqTutZSfI8TgeP0/edit?usp=sharing
@@ -86,7 +86,7 @@
 
   - name: Friday 1/20
     reading:
-      - Chapter 7
+      - "Chapter 7: Prototyping"
     slides:
       - text: Day 5
         link: https://docs.google.com/presentation/d/1d_okrdbPFuz0y6pEPu5QwulmdFxwt3W48nRx8zHsUNY/edit?usp=sharing
@@ -120,7 +120,7 @@
 
   - name: Wednesday 1/25
     reading:
-      - Chapter 2
+      - "Chapter 2: The Structure of Games"
     slides:
       - text: Day 7
         link: https://docs.google.com/presentation/d/1ydwgfbU5VJt_8OU0LIp3yLlMDhbd3TMUFEBYtgD3GVk/edit?usp=sharing
@@ -144,7 +144,7 @@
       - text: Day 8
         link: https://docs.google.com/presentation/d/1DD_KfeufpVnzhohiywnskwyOd27FL5LSwmICBrWpU8A/edit?usp=sharing
     reading:
-      - Chapter 8
+      - "Chapter 8: Digital Prototyping"
     lecture:
       - Software Prototyping
       - Team work time
@@ -159,7 +159,7 @@
   days:
   - name: Monday 1/30
     reading:
-      - Chapter 3
+      - "Chapter 3: Working with Formal Elements"
     slides:
       - text: Day 9
         link: https://docs.google.com/presentation/d/1ggL1UmE32s3kbH2uPCpOYu5cCFnqPMeYWWGa-oG-B_A/edit?usp=sharing
@@ -203,11 +203,11 @@
 - number: 5
   days:
   - name: Monday 2/6
-    override: "Class was cancelled"
+    override: "Class was canceled"
 
   - name: Wednesday 2/8
     reading:
-      - Chapter 14
+      - "Chapter 14: The Design Document"
     lecture:
       - Hand back midterms
     lab:
@@ -236,7 +236,7 @@
   days:
   - name: Monday 2/13
     reading:
-      - Chapter 4
+      - "Chapter 4: Working with Dramatic Elements"
     slides:
       - text: Day 15
         link: https://docs.google.com/presentation/d/1XaeOvhEIcirPPW3y-kiqH6p6EQfpxTkkqOxjDLLWbb4/edit?usp=sharing
@@ -252,7 +252,7 @@
 
   - name: Wednesday 2/15
     reading:
-      - Chapter 5
+      - "Chapter 5: Working with System Dynamics"
     lecture:
       - text: Behavior Trees and Other AI
         outbound: https://docs.google.com/presentation/d/1rRMyWm3TmAe_NZHeMvZE3H-1bAMXITxf-vZxGDVp0t8/edit?usp=sharing
@@ -296,9 +296,9 @@
       - text: Jesse Schell's Lens Workshop 1
         link: /workshops/SchellLenses/
     lab:
-      - text: TBA
+      - text: None
     assignment:
-      - text: TBA
+      - text: None
 
   - name: Friday 2/24
     reading:
@@ -309,7 +309,7 @@
     lab:
       - text: TBA
     assignment:
-      - text: TBA
+      - text: "Assignment 3: Feature Design (writeup coming soon)"
 
 ###############################################################################
 
@@ -317,7 +317,7 @@
   days:
   - name: Monday 2/27
     reading:
-      - Chapter 10
+      - "Chapter 10: Functionality, Completeness, and Balance"
     lecture:
       - TBA
     lab:
@@ -337,7 +337,7 @@
 
   - name: Friday 3/3
     reading:
-      - Chapter 11
+      - "Chapter 11: Fun and Accessibility"
     lecture:
       - TBA
     lab:
@@ -351,7 +351,7 @@
   days:
   - name: Monday 3/6
     reading:
-      - Chapter 12
+      - "Chapter 12: Team Structures"
     lecture:
       - TBA
     lab:
@@ -361,7 +361,7 @@
 
   - name: Wednesday 3/8
     reading:
-      - Chapter 13
+      - "Chapter 13: Stages of Development"
     lecture:
       - TBA
     lab:
@@ -395,7 +395,7 @@
 
   - name: Wednesday 3/15
     reading:
-      - Chapter 15
+      - "Chapter 15: Understanding the Game Industry"
     lecture:
       - TBA
     lab:
@@ -405,7 +405,7 @@
 
   - name: Friday 3/17
     reading:
-      - Chapter 16
+      - "Chapter 16: Selling Yourself and Your Ideas to the Game Industry"
     lecture:
       - TBA
     lab:
