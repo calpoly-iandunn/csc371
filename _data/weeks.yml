@@ -307,9 +307,11 @@
       - text: Sprint 1 Checkins
         link: /project/SprintCheckins/
     lab:
-      - text: TBA
+      - text: Sprint 1 Checkins
     assignment:
-      - text: "Assignment 3: Feature Design (writeup coming soon)"
+      - text: "Assignment 3: Feature Design"
+        link: /assignments/3/
+        due: 3/6
 
 ###############################################################################
 
@@ -339,9 +341,10 @@
     reading:
       - "Chapter 11: Fun and Accessibility"
     lecture:
-      - TBA
+      - text: Sprint 2 Checkins
+        link: /project/SprintCheckins/
     lab:
-      - text: TBA
+      - text: Sprint 2 Checkins
     assignment:
       - text: TBA
 
