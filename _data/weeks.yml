@@ -321,11 +321,16 @@
     reading:
       - "Chapter 10: Functionality, Completeness, and Balance"
     lecture:
-      - TBA
+      - text: Game Balance
+        outbound: https://docs.google.com/presentation/d/1XChdcJT6nEpVT5f4z3hy32nG_h0odyzwQUU0dzc_1ww/edit?usp=sharing
+      - text: "Mark Brown: Should Dark Souls Have An Easy Mode?"
+        outbound: https://www.youtube.com/watch?v=K5tPJDZv_VE
+      - text: Game Balance Workshop
+        link: /workshops/GameBalance/
     lab:
-      - text: TBA
+      - text: Work on Sprint 2
     assignment:
-      - text: TBA
+      - text: None
 
   - name: Wednesday 3/1
     reading:
