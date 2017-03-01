@@ -336,11 +336,12 @@
     reading:
       - None
     lecture:
-      - TBA
+      - text: Prisoner's Dilemma
+      - text: Free Work Time for Sprint 2
     lab:
-      - text: TBA
+      - text: Work on Sprint 2
     assignment:
-      - text: TBA
+      - text: None
 
   - name: Friday 3/3
     reading:
