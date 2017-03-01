@@ -336,7 +336,8 @@
     reading:
       - None
     lecture:
-      - Prisoner's Dilemma
+      - text: Prisoner's Dilemma
+        outbound: https://docs.google.com/presentation/d/1ZmMEVur8WDK9tSzvqh7Y0LHCOKrf1mkNjyyoWDLY7LY/edit?usp=sharing
       - Free Work Time for Sprint 2
     lab:
       - text: Work on Sprint 2
