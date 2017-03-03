@@ -308,6 +308,7 @@
         link: /project/SprintCheckins/
     lab:
       - text: Sprint 1 Checkins
+        link: /project/SprintCheckins/
     assignment:
       - text: "Assignment 3: Feature Design"
         link: /assignments/3/
@@ -352,6 +353,7 @@
         link: /project/SprintCheckins/
     lab:
       - text: Sprint 2 Checkins
+        link: /project/SprintCheckins/
     assignment:
       - text: None
 
@@ -363,9 +365,9 @@
     reading:
       - "Chapter 12: Team Structures"
     lecture:
-      - TBA
+      - Playtesting 1
     lab:
-      - text: TBA
+      - text: Playtesting 1
     assignment:
       - text: TBA
 
@@ -373,7 +375,9 @@
     reading:
       - "Chapter 13: Stages of Development"
     lecture:
-      - TBA
+      - Midterm 2 Review
+      - VR Discussion (Planned)
+      - Storytelling Concepts (Planned)
     lab:
       - text: TBA
     assignment:
@@ -397,9 +401,11 @@
     reading:
       - None
     lecture:
-      - TBA
+      - text: Sprint 3 Checkins
+        link: /project/SprintCheckins/
     lab:
-      - text: TBA
+      - text: Sprint 3 Checkins
+        link: /project/SprintCheckins/
     assignment:
       - text: TBA
 
@@ -407,9 +413,9 @@
     reading:
       - "Chapter 15: Understanding the Game Industry"
     lecture:
-      - TBA
+      - Playtesting 2
     lab:
-      - text: TBA
+      - text: Playtesting 2
     assignment:
       - text: TBA
 
@@ -417,9 +423,11 @@
     reading:
       - "Chapter 16: Selling Yourself and Your Ideas to the Game Industry"
     lecture:
-      - TBA
+      - text: Sprint 4 Checkins
+        link: /project/SprintCheckins/
     lab:
-      - text: TBA
+      - text: Sprint 4 Checkins
+        link: /project/SprintCheckins/
     assignment:
       - text: TBA
 
