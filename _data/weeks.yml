@@ -365,9 +365,11 @@
     reading:
       - "Chapter 12: Team Structures"
     lecture:
-      - Playtesting 1
+      - text: Playtesting 1
+        link: /project/5/
     lab:
       - text: Playtesting 1
+        link: /project/5/
     assignment:
       - text: TBA
 
@@ -413,9 +415,11 @@
     reading:
       - "Chapter 15: Understanding the Game Industry"
     lecture:
-      - Playtesting 2
+      - text: Playtesting 2
+        link: /project/5/
     lab:
       - text: Playtesting 2
+        link: /project/5/
     assignment:
       - text: TBA
 
