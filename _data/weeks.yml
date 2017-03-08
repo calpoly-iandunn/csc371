@@ -386,9 +386,12 @@
     reading:
       - "Chapter 13: Stages of Development"
     lecture:
-      - Midterm 2 Review
+      - text: Midterm 2 Study Guide
+        outbound: https://docs.google.com/document/d/1ZucF_YO-hpZHAGznojwVMcQGd4-HPVYbO46cykqmvFg/edit?usp=sharing
       - text: VR Overview
         outbound: https://docs.google.com/presentation/d/19tO57BFHZw67KERCO0udJBwVf5EPWuuCLYuOgAhFFwI/edit?usp=sharing
+      - text: Game of Life
+        outbound: http://pmav.eu/stuff/javascript-game-of-life-v3.1.1/
     lab:
       - text: Work on Sprint 3
     assignment:
@@ -399,6 +402,8 @@
       - None
     lecture:
       - Midterm 2
+      - text: Midterm 2 Study Guide
+        outbound: https://docs.google.com/document/d/1ZucF_YO-hpZHAGznojwVMcQGd4-HPVYbO46cykqmvFg/edit?usp=sharing
     lab:
       - text: TBA
     assignment:
