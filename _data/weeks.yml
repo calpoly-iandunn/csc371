@@ -387,7 +387,8 @@
       - "Chapter 13: Stages of Development"
     lecture:
       - Midterm 2 Review
-      - VR Overview
+      - text: VR Overview
+        outbound: https://docs.google.com/presentation/d/19tO57BFHZw67KERCO0udJBwVf5EPWuuCLYuOgAhFFwI/edit?usp=sharing
     lab:
       - text: Work on Sprint 3
     assignment:
