@@ -32,12 +32,12 @@
     lecture:
       - text: Game Design (Formal Definitions)
         outbound: https://docs.google.com/presentation/d/18NHbHuP2DJK636Q-A50QF6cCbemPoxAOGUOBuZkOVZE/edit?usp=sharing
+      - text: Think about project ideas!
+      - text: Game pitches are Monday 4/10!
     lab:
       - text: Blueprint Lift Tutorial
         link: /labs/2/
         due: 4/12
-      - text: Think about project ideas!
-      - text: Game pitches are Monday 4/10!
     assignment:
       - text: Think of a Game
         link: /assignments/1/
@@ -86,9 +86,6 @@
     lab:
       - text: Physical Prototyping Workshop 2
     assignment:
-      - text: Diagramming Core Gameplay
-        link: /assignments/2/
-        due: 1/27
 
 ###############################################################################
 
@@ -142,7 +139,8 @@
     lab:
       - text: None
     assignment:
-      - text: None
+      - text: Diagramming Core Gameplay
+        link: /assignments/2/
 
 ###############################################################################
 
