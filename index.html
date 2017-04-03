@@ -24,6 +24,7 @@ layout: default
 {% include course_info.html %}
 
 {% for week in site.data.weeks %}
+{% if week.hide == nil or week.hide == false %}
 
   <a name="week_{{ week.number }}"></a>
   <h2 class="week-label">{{ week.name }}</h2>
@@ -48,6 +49,7 @@ layout: default
           <div class="well well-sm">
             <h4>Reading</h4>
             <ul>
+{% if day.reading %}
 {% for reading in day.reading %}
 {% if reading == "TBA" %}
               <li><span class="text-warning">TBA</span></li>
@@ -57,6 +59,9 @@ layout: default
               <li>{{ reading }}</li>
 {% endif %}
 {% endfor %}
+{% else %}
+              <li><span class="text-info">None</span></li>
+{% endif %}
             </ul>
           </div>
         </div>
@@ -97,7 +102,7 @@ layout: default
 {% if lab.link %}
               <li><a href="{{ lab.link | prepend: site.baseurl }}">{{ lab.text }}</a>{% if lab.due %} due {{ lab.due }}{% endif %}</li>
 {% elsif lab.outbound %}
-              <li><a href="{{ lab.outbound }}">{{ lab.text }}</a> due {{ lab.due }}</li>
+              <li><a href="{{ lab.outbound }}">{{ lab.text }}</a>{% if lab.due %} due {{ lab.due }}{% endif %}</li>
 {% else %}
 {% if lab.text == "TBA" %}
               <li><span class="text-warning">TBA</span></li>
@@ -117,11 +122,12 @@ layout: default
           <div class="well well-sm">
             <h4>Assignments</h4>
             <ul>
+{% if day.assignment %}
 {% for assignment in day.assignment %}
 {% if assignment.link %}
-              <li><a href="{{ assignment.link | prepend: site.baseurl }}">{{ assignment.text }}</a> due {{ assignment.due }}</li>
+              <li><a href="{{ assignment.link | prepend: site.baseurl }}">{{ assignment.text }}</a>{% if lab.due %} due {{ lab.due }}{% endif %}</li>
 {% elsif assignment.outbound %}
-              <li><a href="{{ assignment.outbound }}">{{ assignment.text }}</a> due {{ assignment.due }}</li>
+              <li><a href="{{ assignment.outbound }}">{{ assignment.text }}</a>{% if lab.due %} due {{ lab.due }}{% endif %}</li>
 {% elsif assignment.text %}
 {% if assignment.text == "TBA" %}
               <li><span class="text-warning">TBA</span></li>
@@ -132,6 +138,9 @@ layout: default
 {% endif %}
 {% endif %}
 {% endfor %}
+{% else %}
+              <li><span class="text-info">None</span></li>
+{% endif %}
             </ul>
           </div>
         </div>
@@ -150,6 +159,7 @@ layout: default
 
 {% endfor %}
 
+{% endif %}
 {% endfor %}
 
 </div>

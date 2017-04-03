@@ -3,7 +3,6 @@ layout: page
 title: Project Pitches
 ---
 
-On Wednesday 1/18 we will be doing project pitches in Lab.
 This time is for all of you to seek additional team members.
 
 - If you’ve already formed a team and don’t need more people, you don’t have to pitch.
