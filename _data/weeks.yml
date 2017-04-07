@@ -21,7 +21,7 @@
       - text: Broken Games Workshop
         outbound: https://docs.google.com/presentation/d/1PH75zJ737AYc7SWMprnixFeh4ag37s1WG4XMed4_XkE/edit?usp=sharing
     lab:
-      - text: Blueprints Quick Start Guide
+      - text: "Lab 1: Blueprints Quick Start Guide"
         outbound: https://docs.unrealengine.com/latest/INT/Engine/Blueprints/QuickStart/index.html
         due: 4/7
     assignment:
@@ -35,7 +35,7 @@
       - text: Think about project ideas!
       - text: Game pitches are Monday 4/10!
     lab:
-      - text: Blueprint Lift Tutorial
+      - text: "Lab 2: Blueprint Lift Tutorial"
         link: /labs/2/
         due: 4/12
     assignment:
@@ -68,8 +68,7 @@
       - text: "Game Maker's Toolkit - Nintendo"
         outbound: https://docs.google.com/presentation/d/1yZHQ_Zpu-LZa--rhjTC1LuwkmKyMFqTutZSfI8TgeP0/edit?usp=sharing
     lab:
-      - text: First Team Meetings
-      - text: Project Planning
+      - text: Physical Prototyping Workshop 1
     assignment:
       - text: None
 
@@ -82,7 +81,7 @@
       - text: Physical Prototyping
         link: https://docs.google.com/presentation/d/1AybpLl8f9lBNq48DyZVuJLDtDlWwE7O1brhajayApEU/edit?usp=sharing
     lecture:
-      - Physical Prototyping Workshop 1
+      - text: Physical Prototyping Workshop 2
     lab:
       - text: Physical Prototyping Workshop 2
     assignment:
