@@ -22,7 +22,7 @@
         outbound: https://docs.google.com/presentation/d/1PH75zJ737AYc7SWMprnixFeh4ag37s1WG4XMed4_XkE/edit?usp=sharing
     lab:
       - text: "Lab 1: Blueprints Quick Start Guide"
-        outbound: https://docs.unrealengine.com/latest/INT/Engine/Blueprints/QuickStart/index.html
+        link: /labs/1/
         due: 4/7
     assignment:
 
