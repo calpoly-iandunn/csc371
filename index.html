@@ -15,7 +15,9 @@ layout: default
     <ul>
       <li><a href="#course_info">Course Info</a></li>
 {% for week in site.data.weeks %}
+{% if week.hide == nil or week.hide == false %}
       <li><a href="#week_{{ week.number }}">{{ week.name }}</a></li>
+{% endif %}
 {% endfor %}
     </ul>
   </div>
