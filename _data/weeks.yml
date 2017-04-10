@@ -41,6 +41,7 @@
     assignment:
       - text: Think of a Game
         link: /assignments/1/
+        due: tonight by midnight
 
 
 ###############################################################################
@@ -57,7 +58,6 @@
     lab:
       - text: Brainstorming
     assignment:
-      - text: None
 
   - name: Wednesday 4/12
     reading:
@@ -70,34 +70,26 @@
     lab:
       - text: Physical Prototyping Workshop 1
     assignment:
-      - text: None
 
   - name: Friday 4/14
     reading:
       - "Chapter 7: Prototyping"
-    slides:
-      - text: Day 5
-        link: https://docs.google.com/presentation/d/1d_okrdbPFuz0y6pEPu5QwulmdFxwt3W48nRx8zHsUNY/edit?usp=sharing
-      - text: Physical Prototyping
-        link: https://docs.google.com/presentation/d/1AybpLl8f9lBNq48DyZVuJLDtDlWwE7O1brhajayApEU/edit?usp=sharing
     lecture:
       - text: Physical Prototyping Workshop 2
     lab:
-      - text: Physical Prototyping Workshop 2
+      - text: "Lab 3: Hitscan Weapon"
+        link: /labs/3/
+        due: 4/21
     assignment:
 
 ###############################################################################
 
 - number: 3
-  hide: true
   name: Week 3
   days:
   - name: Monday 4/17
     reading:
-      - None
-    slides:
-      - text: Day 6
-        link: https://docs.google.com/presentation/d/1lpLoKT5K1vKYb6zoybm8BbulyvJNQvrxqh99SYeRcig/edit?usp=sharing
+      - "Chapter 9: Playtesting"
     lecture:
       - Physical Prototype Refinement
     lab:
@@ -107,86 +99,59 @@
 
   - name: Wednesday 4/19
     reading:
-      - "Chapter 2: The Structure of Games"
-    slides:
-      - text: Day 7
-        link: https://docs.google.com/presentation/d/1ydwgfbU5VJt_8OU0LIp3yLlMDhbd3TMUFEBYtgD3GVk/edit?usp=sharing
-      - text: Collision Detection
-        link: https://docs.google.com/presentation/d/181I7LYsvtPRIhQQ1-1LC9-jv1byaOAwiRqCW_E2caBI/edit?usp=sharing
-      - text: Software Development
-        link: https://docs.google.com/presentation/d/1dr63EcK2mMas-s5PY9KkFXv98O7pupGBMbgS1lm0Ohs/edit?usp=sharing
     lecture:
-      - Collision Detection
-      - Software Engineering
-      - Team work time
+      - text: Collision Detection
+        outbound: https://docs.google.com/presentation/d/181I7LYsvtPRIhQQ1-1LC9-jv1byaOAwiRqCW_E2caBI/edit?usp=sharing
+      - text: Software Engineering
+        outbound: https://docs.google.com/presentation/d/1dr63EcK2mMas-s5PY9KkFXv98O7pupGBMbgS1lm0Ohs/edit?usp=sharing
     lab:
-      - text: "Lab 3: Hitscan Weapon"
-        link: /labs/3/
-        due: 2/1
     assignment:
-      - text: None
 
   - name: Friday 4/21
-    slides:
-      - text: Day 8
-        link: https://docs.google.com/presentation/d/1DD_KfeufpVnzhohiywnskwyOd27FL5LSwmICBrWpU8A/edit?usp=sharing
     reading:
-      - "Chapter 8: Digital Prototyping"
+      - "Chapter 2: The Structure of Games"
     lecture:
       - Software Prototyping
-      - Team work time
+      - Team work time (probably a worksheet)
     lab:
-      - text: None
+      - text: "Lab 4: UMG UI Designer Quick Start Guide"
+        link: /labs/4/
+        due: 4/28
     assignment:
       - text: Diagramming Core Gameplay
         link: /assignments/2/
+        due: tonight by midnight
 
 ###############################################################################
 
 - number: 4
-  hide: true
   name: Week 4
   days:
   - name: Monday 4/24
     reading:
       - "Chapter 3: Working with Formal Elements"
-    slides:
-      - text: Day 9
-        link: https://docs.google.com/presentation/d/1ggL1UmE32s3kbH2uPCpOYu5cCFnqPMeYWWGa-oG-B_A/edit?usp=sharing
-      - text: BattleBattle! Workshop
-        link: https://docs.google.com/presentation/d/1bSC7CFEoGDs0-1CjR2QitnXMXQqghwom36x9Qn-W_k8/edit?usp=sharing
     lecture:
-      - Game Balancing Workshop
+      - text: BattleBattle! Game Balancing Workshop
+        outbound: https://docs.google.com/presentation/d/1bSC7CFEoGDs0-1CjR2QitnXMXQqghwom36x9Qn-W_k8/edit?usp=sharing
     lab:
-      - text: "Lab 4: UMG UI Designer Quick Start Guide"
-        link: /labs/4/
-        due: 2/8
     assignment:
-      - text: None
 
   - name: Wednesday 4/26
     reading:
-      - None
     lecture:
-      - Midterm Review
-      - Juice it or lose it
+      - text: Midterm Review (study guide coming soon)
+        fix: https://docs.google.com/document/d/10XajC7b0zpgMQYT6BqxDmassOfRSuxLoQSGy1edcr5E/edit?usp=sharing
+      - text: Juice it or Lose it
+        outbound: http://www.gdcvault.com/play/1016487/Juice-It-or-Lose
     lab:
-      - text: None
     assignment:
-      - text: None
 
   - name: Friday 4/28
     reading:
-      - None
-    slides:
-      - text: Study Guide
-        link: https://docs.google.com/document/d/10XajC7b0zpgMQYT6BqxDmassOfRSuxLoQSGy1edcr5E/edit?usp=sharing
     lecture:
       - Midterm Exam 1
     lab:
-      - text: None
     assignment:
-      - text: None
 
 ###############################################################################
 
@@ -196,7 +161,7 @@
   days:
   - name: Monday 5/1
     reading:
-      - None
+      - "Chapter 4: Working with Dramatic Elements"
     lecture:
       - None
     lab:
@@ -237,7 +202,7 @@
   days:
   - name: Monday 5/8
     reading:
-      - "Chapter 4: Working with Dramatic Elements"
+      - "Chapter 8: Digital Prototyping"
     slides:
       - text: Day 15
         link: https://docs.google.com/presentation/d/1XaeOvhEIcirPPW3y-kiqH6p6EQfpxTkkqOxjDLLWbb4/edit?usp=sharing
@@ -304,7 +269,6 @@
 
   - name: Friday 5/19
     reading:
-      - "Chapter 9: Playtesting"
     lecture:
       - text: Sprint 1 Checkins
         link: /project/SprintCheckins/
