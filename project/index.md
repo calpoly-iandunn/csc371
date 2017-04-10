@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Projects"
+active: projects
 ---
 
 ## Project 1: Physical Game
@@ -10,6 +11,8 @@ In this project we will consider some of the more pure aspects of game design, d
 The advantage of a physical game is that the iteration time in terms of making design changes can be quite short.
 When making digital games, you acquire a lot of technical debt and there can be huge development hurdles when making changes.
 
+1. [Physical Prototyping Writeup](1/1/) due Friday 4/21.
+    [(Rubric)](https://docs.google.com/document/d/1eiFSCYGXVRFIgNMIANjYw9nIQquyIj9FS7R3xNQ80rk/edit?usp=sharing)
 
 ## Project 2: Unreal Engine Game
 
