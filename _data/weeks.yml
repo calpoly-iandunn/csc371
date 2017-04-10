@@ -57,6 +57,7 @@
         link: /project/pitches.html
     lab:
       - text: Brainstorming
+        outbound: https://docs.google.com/document/d/1uBzAEzTRKy1jU5scGvkELFsAmFsjdWaXgTB8KRIQKZY/edit?usp=sharing
     assignment:
 
   - name: Wednesday 4/12
