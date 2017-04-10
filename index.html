@@ -100,6 +100,7 @@ layout: default
           <div class="well well-sm">
             <h4>Lab</h4>
             <ul>
+{% if day.lab %}
 {% for lab in day.lab %}
 {% if lab.link %}
               <li><a href="{{ lab.link | prepend: site.baseurl }}">{{ lab.text }}</a>{% if lab.due %} due {{ lab.due }}{% endif %}</li>
@@ -115,6 +116,9 @@ layout: default
 {% endif %}
 {% endif %}
 {% endfor %}
+{% else %}
+              <li><span class="text-info">None</span></li>
+{% endif %}
             </ul>
           </div>
         </div>
