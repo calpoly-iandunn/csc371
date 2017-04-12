@@ -66,17 +66,18 @@
     lecture:
       - text: Iterative Prototyping
         outbound: https://docs.google.com/presentation/d/1MBxp0GzTHL8Rwu2f3RcKgsNmdZlQSKU5kZ6ldnTc33k/edit?usp=sharing
-      - text: "Game Maker's Toolkit - Nintendo"
-        outbound: https://docs.google.com/presentation/d/1yZHQ_Zpu-LZa--rhjTC1LuwkmKyMFqTutZSfI8TgeP0/edit?usp=sharing
+      - text: Physical Prototyping Workshop
     lab:
-      - text: Physical Prototyping Workshop 1
+      - text: Physical Prototyping Workshop
     assignment:
 
   - name: Friday 4/14
     reading:
       - "Chapter 7: Prototyping"
     lecture:
-      - text: Physical Prototyping Workshop 2
+      - text: "Game Maker's Toolkit - Nintendo"
+        outbound: https://docs.google.com/presentation/d/1yZHQ_Zpu-LZa--rhjTC1LuwkmKyMFqTutZSfI8TgeP0/edit?usp=sharing
+      - text: Physical Prototyping Workshop
     lab:
       - text: "Lab 3: Hitscan Weapon"
         link: /labs/3/
