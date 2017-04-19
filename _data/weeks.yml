@@ -120,9 +120,6 @@
         link: /labs/4/
         due: 4/28
     assignment:
-      - text: Diagramming Core Gameplay
-        link: /assignments/2/
-        due: tonight by midnight
 
 ###############################################################################
 
@@ -147,6 +144,9 @@
         outbound: http://www.gdcvault.com/play/1016487/Juice-It-or-Lose
     lab:
     assignment:
+      - text: Diagramming Core Gameplay
+        link: /assignments/2/
+        due: tonight by midnight
 
   - name: Friday 4/28
     reading:
