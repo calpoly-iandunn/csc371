@@ -113,8 +113,7 @@
     reading:
       - "Chapter 2: The Structure of Games"
     lecture:
-      - Software Prototyping
-      - Team work time (probably a worksheet)
+      - Board Game Production
     lab:
       - text: "Lab 4: UMG UI Designer Quick Start Guide"
         link: /labs/4/
@@ -140,8 +139,7 @@
     lecture:
       - text: Midterm Review (study guide coming soon)
         fix: https://docs.google.com/document/d/10XajC7b0zpgMQYT6BqxDmassOfRSuxLoQSGy1edcr5E/edit?usp=sharing
-      - text: Juice it or Lose it
-        outbound: http://www.gdcvault.com/play/1016487/Juice-It-or-Lose
+      - text: BattleBattle! Phase 2
     lab:
     assignment:
       - text: Diagramming Core Gameplay
@@ -165,7 +163,8 @@
     reading:
       - "Chapter 4: Working with Dramatic Elements"
     lecture:
-      - None
+      - text: Juice it or Lose it
+        outbound: http://www.gdcvault.com/play/1016487/Juice-It-or-Lose
     lab:
       - text: None
     assignment:
