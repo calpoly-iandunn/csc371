@@ -108,13 +108,15 @@ layout: default
               <li><a href="{{ lab.link | prepend: site.baseurl }}">{{ lab.text }}</a>{% if lab.due %} due {{ lab.due }}{% endif %}</li>
 {% elsif lab.outbound %}
               <li><a href="{{ lab.outbound }}">{{ lab.text }}</a>{% if lab.due %} due {{ lab.due }}{% endif %}</li>
+{% elsif lab.text %}
+              <li>{{ lab.text }}</li>
 {% else %}
-{% if lab.text == "TBA" %}
+{% if lab == "TBA" %}
               <li><span class="text-warning">TBA</span></li>
-{% elsif lab.text == "None" %}
+{% elsif lab == "None" %}
               <li><span class="text-info">None</span></li>
 {% else %}
-              <li>{{ lab.text }}</li>
+              <li>{{ lab }}</li>
 {% endif %}
 {% endif %}
 {% endfor %}

@@ -107,6 +107,7 @@
       - text: Software Engineering
         outbound: https://docs.google.com/presentation/d/1dr63EcK2mMas-s5PY9KkFXv98O7pupGBMbgS1lm0Ohs/edit?usp=sharing
     lab:
+      - Lab Work Time
     assignment:
 
   - name: Friday 4/21
@@ -129,17 +130,17 @@
     reading:
       - "Chapter 3: Working with Formal Elements"
     lecture:
-      - text: BattleBattle! Game Balancing Workshop
-        outbound: https://docs.google.com/presentation/d/1bSC7CFEoGDs0-1CjR2QitnXMXQqghwom36x9Qn-W_k8/edit?usp=sharing
+      - Board Game Production
     lab:
+      - Board Game Production
     assignment:
 
   - name: Wednesday 4/26
     reading:
     lecture:
       - text: Midterm Review (study guide coming soon)
+      - text: Board Game Playtesting
         fix: https://docs.google.com/document/d/10XajC7b0zpgMQYT6BqxDmassOfRSuxLoQSGy1edcr5E/edit?usp=sharing
-      - text: BattleBattle! Phase 2
     lab:
     assignment:
       - text: Diagramming Core Gameplay
@@ -156,27 +157,28 @@
 ###############################################################################
 
 - number: 5
-  hide: true
   name: Week 5
   days:
   - name: Monday 5/1
     reading:
       - "Chapter 4: Working with Dramatic Elements"
     lecture:
-      - text: Juice it or Lose it
-        outbound: http://www.gdcvault.com/play/1016487/Juice-It-or-Lose
+      - text: "Mark Brown: Telling Stories With Systems"
+        outbound: https://www.youtube.com/watch?v=NyMndWpihTM
+      - Unreal Game Pitches
     lab:
-      - text: None
+      - Unreal Game Team Formation & Brainstorming
     assignment:
       - text: None
 
   - name: Wednesday 5/3
     reading:
-      - "Chapter 14: The Design Document"
+      - "Chapter 8: Digital Prototyping"
     lecture:
       - Hand back midterms
+      - Unreal Game Physical Prototyping
     lab:
-      - text: None
+      - Unreal Game Physical Prototyping
     assignment:
       - text: None
 
@@ -184,36 +186,34 @@
     reading:
       - None
     slides:
-      - text: AI Pathfinding
-        link: https://docs.google.com/presentation/d/1l0_CrxgTSnueyKt7ZvJRCLDqwZpW6CnmX0A1VoUUiMI/edit?usp=sharing
     lecture:
-      - AI Pathfinding
+      - Unreal Game Physical Prototyping
     lab:
-      - text: "Lab 5: Behavior Tree Quick Start Guide"
-        link: /labs/5/
-        due: 2/17
+      - Unreal Game Physical Prototyping
     assignment:
       - text: None
 
 ###############################################################################
 
 - number: 6
-  hide: true
   name: Week 6
   days:
   - name: Monday 5/8
     reading:
-      - "Chapter 8: Digital Prototyping"
+      - "Chapter 14: The Design Document"
     slides:
-      - text: Day 15
-        link: https://docs.google.com/presentation/d/1XaeOvhEIcirPPW3y-kiqH6p6EQfpxTkkqOxjDLLWbb4/edit?usp=sharing
     lecture:
-      - text: "Mark Brown: Telling Stories With Systems"
-        outbound: https://www.youtube.com/watch?v=NyMndWpihTM
+      - text: AI Pathfinding
+        link: https://docs.google.com/presentation/d/1l0_CrxgTSnueyKt7ZvJRCLDqwZpW6CnmX0A1VoUUiMI/edit?usp=sharing
+      - text: Behavior Trees and Other AI
+        outbound: https://docs.google.com/presentation/d/1rRMyWm3TmAe_NZHeMvZE3H-1bAMXITxf-vZxGDVp0t8/edit?usp=sharing
     lab:
+      - text: "Lab 5: Behavior Tree Quick Start Guide"
+        link: /labs/5/
+        due: 5/15
       - text: Learn Git
         link: /labs/git/
-        due: 2/17
+        due: 5/8
     assignment:
       - text: None
 
@@ -221,8 +221,10 @@
     reading:
       - "Chapter 5: Working with System Dynamics"
     lecture:
-      - text: Behavior Trees and Other AI
-        outbound: https://docs.google.com/presentation/d/1rRMyWm3TmAe_NZHeMvZE3H-1bAMXITxf-vZxGDVp0t8/edit?usp=sharing
+      - text: Juice it or Lose it
+        outbound: http://www.gdcvault.com/play/1016487/Juice-It-or-Lose
+      - text: Game of Life
+        outbound: http://pmav.eu/stuff/javascript-game-of-life-v3.1.1/
     lab:
       - text: None
     assignment:
@@ -231,9 +233,6 @@
   - name: Friday 5/12
     reading:
       - None
-    slides:
-      - text: Day 17
-        link: https://docs.google.com/presentation/d/1M-9Dg28q78hDlMVdC35fTp736afcZ9qbRSDoAf9EqRc/edit?usp=sharing
     lecture:
       - Sprint 1 Planning
     lab:
@@ -249,18 +248,21 @@
   days:
   - name: Tuesday 5/15
     reading:
+      - "Chapter 10: Functionality, Completeness, and Balance"
     lecture:
+      - text: BattleBattle! Game Balancing Workshop
+        outbound: https://docs.google.com/presentation/d/1bSC7CFEoGDs0-1CjR2QitnXMXQqghwom36x9Qn-W_k8/edit?usp=sharing
       - text: Game Genres
         outbound: https://docs.google.com/presentation/d/1QTcLQuI9F27_C20IUjtFivywWK756IxrTUmqevixYzw/edit?usp=sharing
     lab:
-      - text: None
+      - text: BattleBattle! Battle Royale
     assignment:
       - text: None
 
   - name: Wednesday 5/17
     reading:
-      - None
     lecture:
+      - text: BattleBattle! Battle Revisited
       - text: Jesse Schell's Lens Workshop 1
         link: /workshops/SchellLenses/
     lab:
@@ -270,6 +272,7 @@
 
   - name: Friday 5/19
     reading:
+      - "Chapter 11: Fun and Accessibility"
     lecture:
       - text: Sprint 1 Checkins
         link: /project/SprintCheckins/
@@ -279,7 +282,7 @@
     assignment:
       - text: "Assignment 3: Feature Design"
         link: /assignments/3/
-        due: 3/6
+        due: tonight by midnight
 
 ###############################################################################
 
@@ -289,7 +292,7 @@
   days:
   - name: Monday 5/22
     reading:
-      - "Chapter 10: Functionality, Completeness, and Balance"
+      - "Chapter 12: Team Structures"
     lecture:
       - text: Game Balance
         outbound: https://docs.google.com/presentation/d/1XChdcJT6nEpVT5f4z3hy32nG_h0odyzwQUU0dzc_1ww/edit?usp=sharing
@@ -304,11 +307,12 @@
 
   - name: Wednesday 5/24
     reading:
-      - None
+      - "Chapter 13: Stages of Development"
     lecture:
       - text: Prisoner's Dilemma
         outbound: https://docs.google.com/presentation/d/1ZmMEVur8WDK9tSzvqh7Y0LHCOKrf1mkNjyyoWDLY7LY/edit?usp=sharing
-      - Free Work Time for Sprint 2
+      - text: Midterm 2 Review (Study Guide Coming Soon)
+        fix: https://docs.google.com/document/d/1ZucF_YO-hpZHAGznojwVMcQGd4-HPVYbO46cykqmvFg/edit?usp=sharing
     lab:
       - text: Work on Sprint 2
     assignment:
@@ -316,7 +320,6 @@
 
   - name: Friday 5/26
     reading:
-      - "Chapter 11: Fun and Accessibility"
     lecture:
       - text: Sprint 2 Checkins
         link: /project/SprintCheckins/
@@ -335,7 +338,6 @@
   - name: Monday 5/29
     override: "Holiday - Memorial Day"
     reading:
-      - "Chapter 12: Team Structures"
     lecture:
       - text: Playtesting 1
         link: /project/5/
@@ -347,14 +349,8 @@
 
   - name: Wednesday 5/31
     reading:
-      - "Chapter 13: Stages of Development"
     lecture:
-      - text: Midterm 2 Study Guide
-        outbound: https://docs.google.com/document/d/1ZucF_YO-hpZHAGznojwVMcQGd4-HPVYbO46cykqmvFg/edit?usp=sharing
-      - text: VR Overview
-        outbound: https://docs.google.com/presentation/d/19tO57BFHZw67KERCO0udJBwVf5EPWuuCLYuOgAhFFwI/edit?usp=sharing
-      - text: Game of Life
-        outbound: http://pmav.eu/stuff/javascript-game-of-life-v3.1.1/
+      - Midterm 2
     lab:
       - text: Work on Sprint 3
     assignment:
@@ -364,11 +360,11 @@
     reading:
       - None
     lecture:
-      - Midterm 2
-      - text: Midterm 2 Study Guide
-        outbound: https://docs.google.com/document/d/1ZucF_YO-hpZHAGznojwVMcQGd4-HPVYbO46cykqmvFg/edit?usp=sharing
+      - text: Sprint 3 Checkins
+        link: /project/SprintCheckins/
     lab:
-      - text: TBA
+      - text: Sprint 3 Checkins
+        link: /project/SprintCheckins/
     assignment:
       - text: TBA
 
@@ -382,11 +378,9 @@
     reading:
       - None
     lecture:
-      - text: Sprint 3 Checkins
-        link: /project/SprintCheckins/
+      - text: VR Overview
+        outbound: https://docs.google.com/presentation/d/19tO57BFHZw67KERCO0udJBwVf5EPWuuCLYuOgAhFFwI/edit?usp=sharing
     lab:
-      - text: Sprint 3 Checkins
-        link: /project/SprintCheckins/
     assignment:
       - text: TBA
 
