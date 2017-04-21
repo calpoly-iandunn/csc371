@@ -252,7 +252,6 @@
 ###############################################################################
 
 - number: 7
-  hide: true
   name: Week 7
   days:
   - name: Tuesday 5/15
@@ -261,8 +260,6 @@
     lecture:
       - text: BattleBattle! Game Balancing Workshop
         outbound: https://docs.google.com/presentation/d/1bSC7CFEoGDs0-1CjR2QitnXMXQqghwom36x9Qn-W_k8/edit?usp=sharing
-      - text: Game Genres
-        outbound: https://docs.google.com/presentation/d/1QTcLQuI9F27_C20IUjtFivywWK756IxrTUmqevixYzw/edit?usp=sharing
     lab:
       - text: BattleBattle! Battle Royale
     assignment:
@@ -270,18 +267,21 @@
 
   - name: Wednesday 5/17
     reading:
+      - "Chapter 11: Fun and Accessibility"
     lecture:
-      - text: BattleBattle! Battle Revisited
-      - text: Jesse Schell's Lens Workshop 1
-        link: /workshops/SchellLenses/
+      - text: Prisoner's Dilemma
+        outbound: https://docs.google.com/presentation/d/1ZmMEVur8WDK9tSzvqh7Y0LHCOKrf1mkNjyyoWDLY7LY/edit?usp=sharing
+      - text: Game Balance
+        outbound: https://docs.google.com/presentation/d/1XChdcJT6nEpVT5f4z3hy32nG_h0odyzwQUU0dzc_1ww/edit?usp=sharing
+      - text: "Mark Brown: Should Dark Souls Have An Easy Mode?"
+        outbound: https://www.youtube.com/watch?v=K5tPJDZv_VE
     lab:
-      - text: None
+      - text: BattleBattle! Battle Revisited
     assignment:
       - text: None
 
   - name: Friday 5/19
     reading:
-      - "Chapter 11: Fun and Accessibility"
     lecture:
       - text: Sprint 1 Checkins
         link: /project/SprintCheckins/
@@ -293,19 +293,14 @@
 ###############################################################################
 
 - number: 8
-  hide: true
   name: Week 8
   days:
   - name: Monday 5/22
     reading:
       - "Chapter 12: Team Structures"
     lecture:
-      - text: Game Balance
-        outbound: https://docs.google.com/presentation/d/1XChdcJT6nEpVT5f4z3hy32nG_h0odyzwQUU0dzc_1ww/edit?usp=sharing
-      - text: "Mark Brown: Should Dark Souls Have An Easy Mode?"
-        outbound: https://www.youtube.com/watch?v=K5tPJDZv_VE
-      - text: Game Balance Workshop
-        link: /workshops/GameBalance/
+      - text: Game Genres
+        outbound: https://docs.google.com/presentation/d/1QTcLQuI9F27_C20IUjtFivywWK756IxrTUmqevixYzw/edit?usp=sharing
     lab:
       - text: Work on Sprint 2
     assignment:
@@ -315,12 +310,13 @@
     reading:
       - "Chapter 13: Stages of Development"
     lecture:
-      - text: Prisoner's Dilemma
-        outbound: https://docs.google.com/presentation/d/1ZmMEVur8WDK9tSzvqh7Y0LHCOKrf1mkNjyyoWDLY7LY/edit?usp=sharing
       - text: Midterm 2 Review (Study Guide Coming Soon)
         fix: https://docs.google.com/document/d/1ZucF_YO-hpZHAGznojwVMcQGd4-HPVYbO46cykqmvFg/edit?usp=sharing
+      - text: Playtesting Session 1
+        link: /project/5/
     lab:
-      - text: Work on Sprint 2
+      - text: Playtesting Session 1
+        link: /project/5/
     assignment:
       - text: None
 
@@ -338,20 +334,10 @@
 ###############################################################################
 
 - number: 9
-  hide: true
   name: Week 9
   days:
   - name: Monday 5/29
     override: "Holiday - Memorial Day"
-    reading:
-    lecture:
-      - text: Playtesting 1
-        link: /project/5/
-    lab:
-      - text: Playtesting 1
-        link: /project/5/
-    assignment:
-      - text: None
 
   - name: Wednesday 5/31
     reading:
@@ -372,12 +358,11 @@
       - text: Sprint 3 Checkins
         link: /project/SprintCheckins/
     assignment:
-      - text: TBA
+      - text: Assignment 4 Coming Soon
 
 ###############################################################################
 
 - number: 10
-  hide: true
   name: Week 10
   days:
   - name: Monday 6/5
@@ -394,10 +379,10 @@
     reading:
       - "Chapter 15: Understanding the Game Industry"
     lecture:
-      - text: Playtesting 2
+      - text: Playtesting Session 2
         link: /project/5/
     lab:
-      - text: Playtesting 2
+      - text: Playtesting Session 2
         link: /project/5/
     assignment:
       - text: TBA
