@@ -145,6 +145,7 @@
       - text: Board Game Playtesting
         fix: https://docs.google.com/document/d/10XajC7b0zpgMQYT6BqxDmassOfRSuxLoQSGy1edcr5E/edit?usp=sharing
     lab:
+      - text: Board Game Playtesting
     assignment:
       - text: Diagramming Core Gameplay
         link: /assignments/2/
@@ -155,6 +156,7 @@
     lecture:
       - Midterm Exam 1
     lab:
+      - Lab Work Time
     assignment:
 
 ###############################################################################
@@ -231,7 +233,7 @@
       - text: Game of Life
         outbound: http://pmav.eu/stuff/javascript-game-of-life-v3.1.1/
     lab:
-      - text: None
+      - Lab Work Time
     assignment:
       - text: None
 
@@ -241,9 +243,11 @@
     lecture:
       - Sprint 1 Planning
     lab:
-      - text: None
+      - Digital Prototyping
     assignment:
-      - text: None
+      - text: "Assignment 3: Feature Design"
+        link: /assignments/3/
+        due: tonight by midnight
 
 ###############################################################################
 
@@ -285,9 +289,6 @@
       - text: Sprint 1 Checkins
         link: /project/SprintCheckins/
     assignment:
-      - text: "Assignment 3: Feature Design"
-        link: /assignments/3/
-        due: tonight by midnight
 
 ###############################################################################
 
