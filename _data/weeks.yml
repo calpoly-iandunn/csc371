@@ -134,6 +134,9 @@
     lab:
       - Board Game Production
     assignment:
+      - text: Project Writeup 1.1
+        link: /project/1/1/
+        due: tonight by midnight
 
   - name: Wednesday 4/26
     reading:
@@ -169,7 +172,9 @@
     lab:
       - Unreal Game Team Formation & Brainstorming
     assignment:
-      - text: None
+      - text: Project Writeup 1.2
+        link: /project/1/2/
+        due: tonight by midnight
 
   - name: Wednesday 5/3
     reading:
