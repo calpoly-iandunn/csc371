@@ -13,7 +13,7 @@ When making digital games, you acquire a lot of technical debt and there can be 
 
 1. [Physical Prototyping Writeup](1/1/) due Monday 4/24.
     [(Rubric)](https://docs.google.com/document/d/1eiFSCYGXVRFIgNMIANjYw9nIQquyIj9FS7R3xNQ80rk/edit?usp=sharing)
-2. [Production Writeup](1/2/) due Friday 4/21.
+2. [Production Writeup](1/2/) due Monday 5/1.
     [(Rubric)](https://docs.google.com/document/d/1eiFSCYGXVRFIgNMIANjYw9nIQquyIj9FS7R3xNQ80rk/edit?usp=sharing)
 
 ## Project 2: Unreal Engine Game
