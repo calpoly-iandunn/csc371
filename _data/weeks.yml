@@ -141,9 +141,9 @@
   - name: Wednesday 4/26
     reading:
     lecture:
-      - text: Midterm Review (study guide coming soon)
+      - text: Midterm Review (Study Guide)
       - text: Board Game Playtesting
-        fix: https://docs.google.com/document/d/10XajC7b0zpgMQYT6BqxDmassOfRSuxLoQSGy1edcr5E/edit?usp=sharing
+        outbound: https://docs.google.com/document/d/10XajC7b0zpgMQYT6BqxDmassOfRSuxLoQSGy1edcr5E/edit?usp=sharing
     lab:
       - text: Board Game Playtesting
     assignment:
