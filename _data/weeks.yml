@@ -118,7 +118,7 @@
     lab:
       - text: "Lab 4: UMG UI Designer Quick Start Guide"
         link: /labs/4/
-        due: 4/28
+        due: 5/1
     assignment:
 
 ###############################################################################
@@ -170,9 +170,8 @@
     lecture:
       - text: "Emergent Storytelling"
         outbound: https://docs.google.com/presentation/d/1HA1uEbZvm9tiSaKYGTH9NPJAuzug2Bcjh1DOWC4N0q8/edit?usp=sharing
-      - Unreal Game Pitches
     lab:
-      - Unreal Game Team Formation & Brainstorming
+      - Lab Work Time
     assignment:
       - text: Project Writeup 1.2
         link: /project/1/2/
@@ -180,20 +179,19 @@
 
   - name: Wednesday 5/3
     reading:
-      - "Chapter 8: Digital Prototyping"
     lecture:
-      - Hand back midterms
-      - Unreal Game Physical Prototyping
+      - Unreal Game Pitches
     lab:
-      - Unreal Game Physical Prototyping
+      - Unreal Game Team Formation & Brainstorming
     assignment:
       - text: None
 
   - name: Friday 5/5
     reading:
-      - None
+      - "Chapter 8: Digital Prototyping"
     slides:
     lecture:
+      - Hand back midterms
       - Unreal Game Physical Prototyping
     lab:
       - Unreal Game Physical Prototyping
@@ -215,12 +213,7 @@
       - text: Behavior Trees and Other AI
         outbound: https://docs.google.com/presentation/d/1rRMyWm3TmAe_NZHeMvZE3H-1bAMXITxf-vZxGDVp0t8/edit?usp=sharing
     lab:
-      - text: "Lab 5: Behavior Tree Quick Start Guide"
-        link: /labs/5/
-        due: 5/15
-      - text: Learn Git
-        link: /labs/git/
-        due: 5/8
+      - Unreal Game Physical Prototyping
     assignment:
       - text: None
 
@@ -233,7 +226,12 @@
       - text: Game of Life
         outbound: http://pmav.eu/stuff/javascript-game-of-life-v3.1.1/
     lab:
-      - Lab Work Time
+      - text: Learn Git
+        link: /labs/git/
+        due: 5/10
+      - text: "Lab 5: Behavior Tree Quick Start Guide"
+        link: /labs/5/
+        due: 5/17
     assignment:
       - text: None
 
@@ -244,6 +242,7 @@
       - Sprint 1 Planning
     lab:
       - Digital Prototyping
+      - Lab work time
     assignment:
       - text: "Assignment 3: Feature Design"
         link: /assignments/3/
