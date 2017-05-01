@@ -233,16 +233,18 @@
         link: /labs/5/
         due: 5/17
     assignment:
-      - text: None
+      - text: Project Writeup 2.1
+        link: /project/2/1/
+        due: tonight by midnight
 
   - name: Friday 5/12
     reading:
       - None
     lecture:
-      - Sprint 1 Planning
-    lab:
       - Digital Prototyping
+    lab:
       - Lab work time
+      - Digital Prototyping
     assignment:
       - text: "Assignment 3: Feature Design"
         link: /assignments/3/
@@ -268,12 +270,12 @@
     reading:
       - "Chapter 11: Fun and Accessibility"
     lecture:
-      - text: Prisoner's Dilemma
-        outbound: https://docs.google.com/presentation/d/1ZmMEVur8WDK9tSzvqh7Y0LHCOKrf1mkNjyyoWDLY7LY/edit?usp=sharing
       - text: Game Balance
         outbound: https://docs.google.com/presentation/d/1XChdcJT6nEpVT5f4z3hy32nG_h0odyzwQUU0dzc_1ww/edit?usp=sharing
       - text: "Mark Brown: Should Dark Souls Have An Easy Mode?"
         outbound: https://www.youtube.com/watch?v=K5tPJDZv_VE
+      - text: Prisoner's Dilemma
+        outbound: https://docs.google.com/presentation/d/1ZmMEVur8WDK9tSzvqh7Y0LHCOKrf1mkNjyyoWDLY7LY/edit?usp=sharing
     lab:
       - text: BattleBattle! Battle Revisited
     assignment:
@@ -282,12 +284,13 @@
   - name: Friday 5/19
     reading:
     lecture:
-      - text: Sprint 1 Checkins
-        link: /project/SprintCheckins/
+      - Digital Prototyping
     lab:
-      - text: Sprint 1 Checkins
-        link: /project/SprintCheckins/
+      - Lab work time
     assignment:
+      - text: Project Writeup 2.2
+        link: /project/2/1/
+        due: tonight by midnight
 
 ###############################################################################
 
@@ -301,7 +304,7 @@
       - text: Game Genres
         outbound: https://docs.google.com/presentation/d/1QTcLQuI9F27_C20IUjtFivywWK756IxrTUmqevixYzw/edit?usp=sharing
     lab:
-      - text: Work on Sprint 2
+      - text: Work on Sprint 1
     assignment:
       - text: None
 
@@ -311,22 +314,20 @@
     lecture:
       - text: Midterm 2 Review (Study Guide Coming Soon)
         fix: https://docs.google.com/document/d/1ZucF_YO-hpZHAGznojwVMcQGd4-HPVYbO46cykqmvFg/edit?usp=sharing
-      - text: Playtesting Session 1
-        link: /project/5/
     lab:
       - text: Playtesting Session 1
-        link: /project/5/
+        link: /project/2/3/
     assignment:
       - text: None
 
   - name: Friday 5/26
     reading:
     lecture:
-      - text: Sprint 2 Checkins
-        link: /project/SprintCheckins/
+      - text: Sprint 1 Checkins
+        link: /project/2/3/
     lab:
-      - text: Sprint 2 Checkins
-        link: /project/SprintCheckins/
+      - text: Sprint 1 Checkins
+        link: /project/2/3/
     assignment:
       - text: None
 
@@ -343,21 +344,21 @@
     lecture:
       - Midterm 2
     lab:
-      - text: Work on Sprint 3
+      - text: Work on Sprint 2
     assignment:
-      - text: TBA
 
   - name: Friday 6/2
     reading:
       - None
     lecture:
-      - text: Sprint 3 Checkins
-        link: /project/SprintCheckins/
+      - text: Sprint 2 Checkins
+        link: /project/2/3/
     lab:
-      - text: Sprint 3 Checkins
-        link: /project/SprintCheckins/
+      - text: Sprint 2 Checkins
+        link: /project/2/3/
     assignment:
-      - text: Assignment 4 Coming Soon
+      - text: Assignment 4 (Coming Soon)
+        due: tonight by midnight
 
 ###############################################################################
 
@@ -372,31 +373,31 @@
         outbound: https://docs.google.com/presentation/d/19tO57BFHZw67KERCO0udJBwVf5EPWuuCLYuOgAhFFwI/edit?usp=sharing
     lab:
     assignment:
-      - text: TBA
 
   - name: Wednesday 6/7
     reading:
       - "Chapter 15: Understanding the Game Industry"
     lecture:
       - text: Playtesting Session 2
-        link: /project/5/
+        link: /project/2/3/
     lab:
       - text: Playtesting Session 2
-        link: /project/5/
+        link: /project/2/3/
     assignment:
-      - text: TBA
 
   - name: Friday 6/9
     reading:
       - "Chapter 16: Selling Yourself and Your Ideas to the Game Industry"
     lecture:
-      - text: Sprint 4 Checkins
-        link: /project/SprintCheckins/
+      - text: Sprint 3 Checkins
+        link: /project/2/3/
     lab:
-      - text: Sprint 4 Checkins
-        link: /project/SprintCheckins/
+      - text: Sprint 3 Checkins
+        link: /project/2/3/
     assignment:
-      - text: TBA
+      - text: Project Writeup 2.4
+        link: /project/2/4/
+        due: tonight by midnight
 
 ###############################################################################
 

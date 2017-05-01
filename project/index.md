@@ -22,16 +22,13 @@ It can be tricky to make things like puzzle games using Blueprints.
 
 ### Deliverables:
 
-1. [Physical Prototyping Writeup](2/1/) due date TBA.
+1. [Physical Prototyping Writeup](2/1/) due Wednesday 5/10.
 
-2. [Software Prototype](2/2/) due date TBA.
+2. [Software Prototype](2/2/) due Friday 5/19.
 
-3. [Design Document](2/3/) due date TBA.
-    [(Rubric)](https://docs.google.com/document/d/1Hkjcd4ArfcE06aCpJBz2N9cyycsbK9SFlsFJsKgQH2Q/edit?usp=sharing)
+3. [Production](2/3/) (completed in four sprints with individual due-dates).
 
-4. [Production](2/4/) (completed in four sprints with individual due-dates).
-    [(Rubric)](https://docs.google.com/document/d/13nfU5f3_lZKRYp10-n3tR8MhPJlIISMw2C1JfINM6Oo/edit?usp=sharing)
+4. [Design Document](2/4/) due Friday 6/8.
 
-5. [Playtesting](2/5/) (two occasions, dates TBA).
+5. [Team Evaluations](2/5/) due Wednesday 6/14.
 
-6. [Team Evaluations](TeamEvaluation)
