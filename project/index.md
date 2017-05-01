@@ -25,7 +25,6 @@ It can be tricky to make things like puzzle games using Blueprints.
 1. [Physical Prototyping Writeup](2/1/) due date TBA.
 
 2. [Software Prototype](2/2/) due date TBA.
-    [(Rubric)](https://docs.google.com/document/d/1itJBvR6t02GZJhDzY2U-ntmK4ivkP6VIEAJmBbzzEk8/edit?usp=sharing)
 
 3. [Design Document](2/3/) due date TBA.
     [(Rubric)](https://docs.google.com/document/d/1Hkjcd4ArfcE06aCpJBz2N9cyycsbK9SFlsFJsKgQH2Q/edit?usp=sharing)
