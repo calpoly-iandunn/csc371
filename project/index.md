@@ -23,7 +23,6 @@ It can be tricky to make things like puzzle games using Blueprints.
 ### Deliverables:
 
 1. [Physical Prototyping Writeup](2/1/) due date TBA.
-    [(Rubric)](https://docs.google.com/document/d/1eiFSCYGXVRFIgNMIANjYw9nIQquyIj9FS7R3xNQ80rk/edit?usp=sharing)
 
 2. [Software Prototype](2/2/) due date TBA.
     [(Rubric)](https://docs.google.com/document/d/1itJBvR6t02GZJhDzY2U-ntmK4ivkP6VIEAJmBbzzEk8/edit?usp=sharing)
