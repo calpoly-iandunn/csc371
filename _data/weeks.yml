@@ -191,7 +191,6 @@
       - "Chapter 8: Digital Prototyping"
     slides:
     lecture:
-      - Hand back midterms
       - Unreal Game Physical Prototyping
     lab:
       - Unreal Game Physical Prototyping
@@ -208,6 +207,7 @@
       - "Chapter 14: The Design Document"
     slides:
     lecture:
+      - Hand back midterms
       - text: AI Pathfinding
         link: https://docs.google.com/presentation/d/1l0_CrxgTSnueyKt7ZvJRCLDqwZpW6CnmX0A1VoUUiMI/edit?usp=sharing
       - text: Behavior Trees and Other AI
