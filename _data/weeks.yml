@@ -203,28 +203,22 @@
   name: Week 6
   days:
   - name: Monday 5/8
+    override: Class was cancelled
+    reading:
+    slides:
+    lecture:
+    lab:
+    assignment:
+
+  - name: Wednesday 5/10
     reading:
       - "Chapter 14: The Design Document"
-    slides:
     lecture:
       - Hand back midterms
       - text: AI Pathfinding
         link: https://docs.google.com/presentation/d/1l0_CrxgTSnueyKt7ZvJRCLDqwZpW6CnmX0A1VoUUiMI/edit?usp=sharing
       - text: Behavior Trees and Other AI
         outbound: https://docs.google.com/presentation/d/1rRMyWm3TmAe_NZHeMvZE3H-1bAMXITxf-vZxGDVp0t8/edit?usp=sharing
-    lab:
-      - Unreal Game Physical Prototyping
-    assignment:
-      - text: None
-
-  - name: Wednesday 5/10
-    reading:
-      - "Chapter 5: Working with System Dynamics"
-    lecture:
-      - text: Juice it or Lose it
-        outbound: http://www.gdcvault.com/play/1016487/Juice-It-or-Lose
-      - text: Game of Life
-        outbound: http://pmav.eu/stuff/javascript-game-of-life-v3.1.1/
     lab:
       - text: Learn Git
         link: /labs/git/
@@ -239,9 +233,12 @@
 
   - name: Friday 5/12
     reading:
-      - None
+      - "Chapter 5: Working with System Dynamics"
     lecture:
-      - Digital Prototyping
+      - text: Juice it or Lose it
+        outbound: http://www.gdcvault.com/play/1016487/Juice-It-or-Lose
+      - text: Game of Life
+        outbound: http://pmav.eu/stuff/javascript-game-of-life-v3.1.1/
     lab:
       - Lab work time
       - Digital Prototyping
