@@ -216,7 +216,7 @@
     lecture:
       - Hand back midterms
       - text: AI Pathfinding
-        link: https://docs.google.com/presentation/d/1l0_CrxgTSnueyKt7ZvJRCLDqwZpW6CnmX0A1VoUUiMI/edit?usp=sharing
+        outbound: https://docs.google.com/presentation/d/1l0_CrxgTSnueyKt7ZvJRCLDqwZpW6CnmX0A1VoUUiMI/edit?usp=sharing
       - text: Behavior Trees and Other AI
         outbound: https://docs.google.com/presentation/d/1rRMyWm3TmAe_NZHeMvZE3H-1bAMXITxf-vZxGDVp0t8/edit?usp=sharing
     lab:
