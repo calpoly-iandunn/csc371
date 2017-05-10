@@ -220,16 +220,10 @@
       - text: Behavior Trees and Other AI
         outbound: https://docs.google.com/presentation/d/1rRMyWm3TmAe_NZHeMvZE3H-1bAMXITxf-vZxGDVp0t8/edit?usp=sharing
     lab:
-      - text: Learn Git
-        link: /labs/git/
-        due: 5/10
       - text: "Lab 5: Behavior Tree Quick Start Guide"
         link: /labs/5/
-        due: 5/17
+        due: 5/19
     assignment:
-      - text: Project Writeup 2.1
-        link: /project/2/1/
-        due: tonight by midnight
 
   - name: Friday 5/12
     reading:
@@ -242,9 +236,12 @@
     lab:
       - Lab work time
       - Digital Prototyping
+      - text: Learn Git
+        link: /labs/git/
+        due: 5/15
     assignment:
-      - text: "Assignment 3: Feature Design"
-        link: /assignments/3/
+      - text: Project Writeup 2.1
+        link: /project/2/1/
         due: tonight by midnight
 
 ###############################################################################
@@ -252,7 +249,7 @@
 - number: 7
   name: Week 7
   days:
-  - name: Tuesday 5/15
+  - name: Monday 5/15
     reading:
       - "Chapter 10: Functionality, Completeness, and Balance"
     lecture:
@@ -261,7 +258,9 @@
     lab:
       - text: BattleBattle! Battle Royale
     assignment:
-      - text: None
+      - text: "Assignment 3: Feature Design"
+        link: /assignments/3/
+        due: tonight by midnight
 
   - name: Wednesday 5/17
     reading:
