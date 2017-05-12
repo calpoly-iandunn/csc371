@@ -258,9 +258,6 @@
     lab:
       - text: BattleBattle! Battle Royale
     assignment:
-      - text: "Assignment 3: Feature Design"
-        link: /assignments/3/
-        due: tonight by midnight
 
   - name: Wednesday 5/17
     reading:
@@ -275,7 +272,9 @@
     lab:
       - text: BattleBattle! Battle Revisited
     assignment:
-      - text: None
+      - text: "Assignment 3: Feature Design"
+        link: /assignments/3/
+        due: tonight by midnight
 
   - name: Friday 5/19
     reading:
