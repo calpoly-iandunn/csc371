@@ -253,24 +253,24 @@
     reading:
       - "Chapter 10: Functionality, Completeness, and Balance"
     lecture:
-      - text: BattleBattle! Game Balancing Workshop
-        outbound: https://docs.google.com/presentation/d/1bSC7CFEoGDs0-1CjR2QitnXMXQqghwom36x9Qn-W_k8/edit?usp=sharing
+      - text: Game Balance
+        outbound: https://docs.google.com/presentation/d/1XChdcJT6nEpVT5f4z3hy32nG_h0odyzwQUU0dzc_1ww/edit?usp=sharing
+      - text: "Mark Brown: Should Dark Souls Have An Easy Mode?"
+        outbound: https://www.youtube.com/watch?v=K5tPJDZv_VE
     lab:
-      - text: BattleBattle! Battle Royale
+      - Lab work time
     assignment:
 
   - name: Wednesday 5/17
     reading:
       - "Chapter 11: Fun and Accessibility"
     lecture:
-      - text: Game Balance
-        outbound: https://docs.google.com/presentation/d/1XChdcJT6nEpVT5f4z3hy32nG_h0odyzwQUU0dzc_1ww/edit?usp=sharing
-      - text: "Mark Brown: Should Dark Souls Have An Easy Mode?"
-        outbound: https://www.youtube.com/watch?v=K5tPJDZv_VE
+      - text: BattleBattle! Game Balancing Workshop
+        outbound: https://docs.google.com/presentation/d/1bSC7CFEoGDs0-1CjR2QitnXMXQqghwom36x9Qn-W_k8/edit?usp=sharing
       - text: Prisoner's Dilemma
         outbound: https://docs.google.com/presentation/d/1ZmMEVur8WDK9tSzvqh7Y0LHCOKrf1mkNjyyoWDLY7LY/edit?usp=sharing
     lab:
-      - text: BattleBattle! Battle Revisited
+      - text: BattleBattle! Battle Royale
     assignment:
       - text: "Assignment 3: Feature Design"
         link: /assignments/3/
@@ -279,9 +279,9 @@
   - name: Friday 5/19
     reading:
     lecture:
-      - Digital Prototyping
+      - text: BattleBattle! Battle Revisited
     lab:
-      - Lab work time
+      - Digital Prototyping
     assignment:
       - text: Project Writeup 2.2
         link: /project/2/1/
