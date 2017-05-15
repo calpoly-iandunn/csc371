@@ -265,10 +265,10 @@
     reading:
       - "Chapter 11: Fun and Accessibility"
     lecture:
-      - text: BattleBattle! Game Balancing Workshop
-        outbound: https://docs.google.com/presentation/d/1bSC7CFEoGDs0-1CjR2QitnXMXQqghwom36x9Qn-W_k8/edit?usp=sharing
       - text: Prisoner's Dilemma
         outbound: https://docs.google.com/presentation/d/1ZmMEVur8WDK9tSzvqh7Y0LHCOKrf1mkNjyyoWDLY7LY/edit?usp=sharing
+      - text: BattleBattle! Game Balancing Workshop
+        outbound: https://docs.google.com/presentation/d/1bSC7CFEoGDs0-1CjR2QitnXMXQqghwom36x9Qn-W_k8/edit?usp=sharing
     lab:
       - text: BattleBattle! Battle Royale
     assignment:
