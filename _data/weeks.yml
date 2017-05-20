@@ -222,7 +222,7 @@
     lab:
       - text: "Lab 5: Behavior Tree Quick Start Guide"
         link: /labs/5/
-        due: 5/19
+        due: 5/22
     assignment:
 
   - name: Friday 5/12
@@ -279,13 +279,10 @@
   - name: Friday 5/19
     reading:
     lecture:
-      - text: BattleBattle! Battle Revisited
+      - text: BattleBattle! Battle Royale Final Showdown
     lab:
       - Digital Prototyping
     assignment:
-      - text: Project Writeup 2.2
-        link: /project/2/1/
-        due: tonight by midnight
 
 ###############################################################################
 
@@ -299,9 +296,12 @@
       - text: Game Genres
         outbound: https://docs.google.com/presentation/d/1QTcLQuI9F27_C20IUjtFivywWK756IxrTUmqevixYzw/edit?usp=sharing
     lab:
+      - text: Digital Prototyping
       - text: Work on Sprint 1
     assignment:
-      - text: None
+      - text: Project Writeup 2.2
+        link: /project/2/1/
+        due: tonight by midnight
 
   - name: Wednesday 5/24
     reading:
@@ -344,7 +344,6 @@
 
   - name: Friday 6/2
     reading:
-      - None
     lecture:
       - text: Sprint 2 Checkins
         link: /project/2/3/
@@ -362,7 +361,6 @@
   days:
   - name: Monday 6/5
     reading:
-      - None
     lecture:
       - text: VR Overview
         outbound: https://docs.google.com/presentation/d/19tO57BFHZw67KERCO0udJBwVf5EPWuuCLYuOgAhFFwI/edit?usp=sharing
