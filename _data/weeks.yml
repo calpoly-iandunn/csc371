@@ -307,8 +307,8 @@
     reading:
       - "Chapter 13: Stages of Development"
     lecture:
-      - text: Midterm 2 Review (Study Guide Coming Soon)
-        fix: https://docs.google.com/document/d/1ZucF_YO-hpZHAGznojwVMcQGd4-HPVYbO46cykqmvFg/edit?usp=sharing
+      - text: Midterm 2 Review
+        outbound: https://docs.google.com/document/d/1ZucF_YO-hpZHAGznojwVMcQGd4-HPVYbO46cykqmvFg/edit?usp=sharing
     lab:
       - text: Playtesting Session 1
         link: /project/2/3/
