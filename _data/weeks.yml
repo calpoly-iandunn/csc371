@@ -310,8 +310,7 @@
       - text: Midterm 2 Review
         outbound: https://docs.google.com/document/d/1ZucF_YO-hpZHAGznojwVMcQGd4-HPVYbO46cykqmvFg/edit?usp=sharing
     lab:
-      - text: Playtesting Session 1
-        link: /project/2/3/
+      - text: Work on Sprint 1
     assignment:
       - text: None
 
@@ -371,10 +370,10 @@
     reading:
       - "Chapter 15: Understanding the Game Industry"
     lecture:
-      - text: Playtesting Session 2
+      - text: Playtesting Session
         link: /project/2/3/
     lab:
-      - text: Playtesting Session 2
+      - text: Playtesting Session
         link: /project/2/3/
     assignment:
 
