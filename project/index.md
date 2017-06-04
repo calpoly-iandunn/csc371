@@ -32,7 +32,7 @@ It can be tricky to make things like puzzle games using Blueprints.
 
 3. [Production](2/3/) (completed in four sprints with individual due-dates).
 
-4. [Design Document](2/4/) due Friday 6/8.
+4. [Design Document](2/4/) due Friday 6/9.
 
 5. [Team Evaluations](2/5/) due Wednesday 6/14.
 
