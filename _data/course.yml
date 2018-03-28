@@ -1,0 +1,53 @@
+
+number: 371
+title: "Game Design"
+
+tabs:
+  - name: home
+    title: Home
+    link: /index.html
+
+  - name: lectures
+    title: Lectures
+    link: /lectures
+
+  - name: projects
+    title: Projects
+    link: /project
+
+  - name: workshops
+    title: Workshops
+    link: /workshops
+
+  - name: assignments
+    title: Assignments
+    link: /assignments
+
+  - name: calendar
+    title: Calendar
+    link: /calendar.html
+
+links:
+  - name: syllabus
+    title: Syllabus
+    link: /syllabus.html
+
+  - name: polylearn
+    title: PolyLearn
+    outbound: "https://polylearn.calpoly.edu/AY_2017-2018/course/view.php?id=13651"
+
+  - name: piazza
+    title: Piazza
+    outbound: "http://piazza.com/calpoly/winter2018/csc471"
+
+schedule_columns:
+  - name: lecture
+    title: Lecture
+    class: "col-sm-6"
+
+meetings:
+  lecture:
+    when: "12:10pm - 1:00pm"
+  lab:
+    when: "1:10pm - 2:00pm"
+    in: 14-255

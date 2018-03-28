@@ -1,0 +1,27 @@
+
+
+
+asgn01:
+  title:    Assignment 1
+  subtitle: "Think of a Game"
+  type:     assignment
+  individual: true
+  assigned: Monday 1/8
+  due:      Friday 1/12
+
+asgn02:
+  title:    Assignment 2
+  subtitle: "Diagramming Core Gameplay"
+  type:     assignment
+  individual: true
+  assigned: Friday 1/12
+  due:      Wednesday 1/17
+
+asgn03:
+  title:    Assignment 3
+  subtitle: Feature Design Exercise
+  type:     assignment
+  individual: true
+  assigned: Friday 1/12
+  due:      Monday 1/22
+

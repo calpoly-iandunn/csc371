@@ -2,6 +2,7 @@
 layout: page
 title: "Projects"
 active: projects
+auto-title: true
 ---
 
 
