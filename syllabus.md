@@ -20,7 +20,7 @@ Textbook: Game Design Workshop: A Playcentric Approach to Creating Innovative Ga
 
 ## Catalog Description:
 
-In‐depth study of game design including rules, player interaction, and storytelling. Exploration of effective use of sound, art, and game controls in creating meaningful play. Development of fully functioning and engaging games, following standard domain‐specific software development processes and using physical prototyping and playtesting. Current, industry‐tested game engines. 3 lectures, 1 laboratory. Prerequisite: CSC 103.
+In-depth study of game design including rules, player interaction, and storytelling. Exploration of effective use of sound, art, and game controls in creating meaningful play. Development of fully functioning and engaging games, following standard domain-specific software development processes and using physical prototyping and playtesting. Current, industry-tested game engines. 3 lectures, 1 laboratory. Prerequisite: CSC 102 & 103, or CSC 202 & 203.
 
 ## Course Overview:
 
