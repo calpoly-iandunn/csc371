@@ -3,7 +3,7 @@
 - number: 1
   name: Week 1
   days:
-  - name: Monday 4/3
+  - name: Monday 4/2
     reading:
     lecture:
       - Enrollment/Waitlist
@@ -14,7 +14,7 @@
       - text: UE4 Setup
     assignment:
 
-  - name: Wednesday 4/5
+  - name: Wednesday 4/4
     reading:
       - None
     lecture:
@@ -26,7 +26,7 @@
         due: 4/7
     assignment:
 
-  - name: Friday 4/7
+  - name: Friday 4/6
     reading:
       - "Chapter 1: The Role of the Game Designer"
     lecture:
@@ -49,7 +49,7 @@
 - number: 2
   name: Week 2
   days:
-  - name: Monday 4/10
+  - name: Monday 4/9
     reading:
       - "Chapter 6: Conceptualization"
     lecture:
@@ -60,7 +60,7 @@
         outbound: https://docs.google.com/document/d/1uBzAEzTRKy1jU5scGvkELFsAmFsjdWaXgTB8KRIQKZY/edit?usp=sharing
     assignment:
 
-  - name: Wednesday 4/12
+  - name: Wednesday 4/11
     reading:
       - None
     lecture:
@@ -71,7 +71,7 @@
       - text: Physical Prototyping Workshop
     assignment:
 
-  - name: Friday 4/14
+  - name: Friday 4/13
     reading:
       - "Chapter 7: Prototyping"
     lecture:
@@ -89,7 +89,7 @@
 - number: 3
   name: Week 3
   days:
-  - name: Monday 4/17
+  - name: Monday 4/16
     reading:
       - "Chapter 9: Playtesting"
     lecture:
@@ -99,7 +99,7 @@
     assignment:
       - text: None
 
-  - name: Wednesday 4/19
+  - name: Wednesday 4/18
     reading:
     lecture:
       - text: Collision Detection
@@ -110,7 +110,7 @@
       - Lab Work Time
     assignment:
 
-  - name: Friday 4/21
+  - name: Friday 4/20
     reading:
       - "Chapter 2: The Structure of Games"
     lecture:
@@ -126,7 +126,7 @@
 - number: 4
   name: Week 4
   days:
-  - name: Monday 4/24
+  - name: Monday 4/23
     reading:
       - "Chapter 3: Working with Formal Elements"
     lecture:
@@ -138,7 +138,7 @@
         link: /project/1/1/
         due: tonight by midnight
 
-  - name: Wednesday 4/26
+  - name: Wednesday 4/25
     reading:
     lecture:
       - text: Midterm Review (Study Guide)
@@ -151,7 +151,7 @@
         link: /assignments/2/
         due: tonight by midnight
 
-  - name: Friday 4/28
+  - name: Friday 4/27
     reading:
     lecture:
       - Midterm Exam 1
@@ -164,7 +164,7 @@
 - number: 5
   name: Week 5
   days:
-  - name: Monday 5/1
+  - name: Monday 4/30
     reading:
       - "Chapter 4: Working with Dramatic Elements"
     lecture:
@@ -177,7 +177,7 @@
         link: /project/1/2/
         due: tonight by midnight
 
-  - name: Wednesday 5/3
+  - name: Wednesday 5/2
     reading:
     lecture:
       - Unreal Game Pitches
@@ -186,7 +186,7 @@
     assignment:
       - text: None
 
-  - name: Friday 5/5
+  - name: Friday 5/4
     reading:
       - "Chapter 8: Digital Prototyping"
     slides:
@@ -202,15 +202,14 @@
 - number: 6
   name: Week 6
   days:
-  - name: Monday 5/8
-    override: Class was cancelled
+  - name: Monday 5/7
     reading:
     slides:
     lecture:
     lab:
     assignment:
 
-  - name: Wednesday 5/10
+  - name: Wednesday 5/9
     reading:
       - "Chapter 14: The Design Document"
     lecture:
@@ -225,7 +224,7 @@
         due: 5/22
     assignment:
 
-  - name: Friday 5/12
+  - name: Friday 5/11
     reading:
       - "Chapter 5: Working with System Dynamics"
     lecture:
@@ -249,7 +248,7 @@
 - number: 7
   name: Week 7
   days:
-  - name: Monday 5/15
+  - name: Monday 5/14
     reading:
       - "Chapter 10: Functionality, Completeness, and Balance"
     lecture:
@@ -261,7 +260,7 @@
       - Lab work time
     assignment:
 
-  - name: Wednesday 5/17
+  - name: Wednesday 5/15
     reading:
       - "Chapter 11: Fun and Accessibility"
     lecture:
@@ -276,7 +275,7 @@
         link: /assignments/3/
         due: tonight by midnight
 
-  - name: Friday 5/19
+  - name: Friday 5/17
     reading:
     lecture:
       - text: BattleBattle! Battle Royale Final Showdown
@@ -289,7 +288,7 @@
 - number: 8
   name: Week 8
   days:
-  - name: Monday 5/22
+  - name: Monday 5/21
     reading:
       - "Chapter 12: Team Structures"
     lecture:
@@ -303,7 +302,7 @@
         link: /project/2/2/
         due: tonight by midnight
 
-  - name: Wednesday 5/24
+  - name: Wednesday 5/23
     reading:
       - "Chapter 13: Stages of Development"
     lecture:
@@ -314,7 +313,7 @@
     assignment:
       - text: None
 
-  - name: Friday 5/26
+  - name: Friday 5/25
     reading:
     lecture:
       - text: Sprint 1 Checkins
@@ -330,10 +329,10 @@
 - number: 9
   name: Week 9
   days:
-  - name: Monday 5/29
-    override: "Holiday - Memorial Day"
+  - name: Monday 5/28
+    override: "Academic holiday - Memorial Day observed"
 
-  - name: Wednesday 5/31
+  - name: Wednesday 5/30
     reading:
     lecture:
       - Midterm 2
@@ -341,7 +340,7 @@
       - text: Work on Sprint 2
     assignment:
 
-  - name: Friday 6/2
+  - name: Friday 6/1
     reading:
     lecture:
       - text: Sprint 2 Checkins
@@ -356,7 +355,7 @@
 - number: 10
   name: Week 10
   days:
-  - name: Monday 6/5
+  - name: Monday 6/4
     reading:
     lecture:
       - text: VR Overview
@@ -364,7 +363,7 @@
     lab:
     assignment:
 
-  - name: Wednesday 6/7
+  - name: Wednesday 6/6
     reading:
       - "Chapter 15: Understanding the Game Industry"
     lecture:
@@ -375,7 +374,7 @@
         link: /project/2/3/
     assignment:
 
-  - name: Friday 6/9
+  - name: Friday 6/8
     reading:
       - "Chapter 16: Selling Yourself and Your Ideas to the Game Industry"
     lecture:
