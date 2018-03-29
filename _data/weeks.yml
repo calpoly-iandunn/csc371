@@ -394,5 +394,5 @@
 - number: 11
   name: Finals Week
   days:
-  - name: Final Exam - Wednesday 6/14 @ 10am
-    override: "Final Project Displays: 10:00am - 1:00pm"
+  - name: Monday 6/11
+    override: "Final Project Displays: Monday 6/11 10:10am - 1:00pm"
