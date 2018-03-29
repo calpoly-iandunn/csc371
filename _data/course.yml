@@ -34,11 +34,11 @@ links:
 
   - name: polylearn
     title: PolyLearn
-    outbound: "https://polylearn.calpoly.edu/AY_2017-2018/course/view.php?id=13651"
+    outbound: "https://polylearn.calpoly.edu/AY_2017-2018/course/view.php?id=18526"
 
   - name: piazza
     title: Piazza
-    outbound: "http://piazza.com/calpoly/winter2018/csc471"
+    outbound: "http://piazza.com/calpoly/spring2018/csc371"
 
 schedule_columns:
   - name: lecture
