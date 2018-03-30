@@ -21,6 +21,7 @@ auto-title: true
 
 ### Technology
 
+* C\# Programming
 * Object-Oriented in Game Programming
 * Compoment-Entity Systems
 * Basic 3D Transforms
