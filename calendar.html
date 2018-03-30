@@ -17,7 +17,7 @@ auto-title: true
 
 <table class="tbl-outline">
 
-<tr><th>Week</th><th>Day</th><th>Topics</th>
+<tr><th>Week</th><th>Day</th><th>Reading</th><th>Lecture</th>
 
 {% for pair in site.data.assignments %}
   {% assign name = pair[0] %}
@@ -39,7 +39,7 @@ auto-title: true
 
 
 {% if day.override %}
-    <td><ul><li>{{ day.override }}</li></ul></td>
+    <td><ul><li>{{ day.override }}</li></ul></td><td></td>
 {% else %}
 
     <!-- Columns -->

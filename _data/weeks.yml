@@ -13,7 +13,6 @@
 
   - name: Wednesday 4/4
     reading:
-      - None
     lecture:
       - text: Broken Games Workshop
         outbound: https://docs.google.com/presentation/d/1PH75zJ737AYc7SWMprnixFeh4ag37s1WG4XMed4_XkE/edit?usp=sharing
@@ -22,7 +21,7 @@
     reading:
       - "Chapter 1: The Role of the Game Designer"
     lecture:
-      - text: Game Design (Formal Definitions)
+      - text: Game Design Definitions
         outbound: https://docs.google.com/presentation/d/18NHbHuP2DJK636Q-A50QF6cCbemPoxAOGUOBuZkOVZE/edit?usp=sharing
       - text: Think about project ideas!
       - text: Game pitches are Monday 4/9!
@@ -46,7 +45,6 @@
 
   - name: Wednesday 4/11
     reading:
-      - None
     lecture:
       - text: Iterative Prototyping
         outbound: https://docs.google.com/presentation/d/1MBxp0GzTHL8Rwu2f3RcKgsNmdZlQSKU5kZ6ldnTc33k/edit?usp=sharing
