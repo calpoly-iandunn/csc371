@@ -2,35 +2,24 @@
 layout: page
 active: assignments
 title: "Assignments"
+auto-title: true
 ---
 
-# {{ page.title }}
-
-## Labs
-
-{% for pair in site.data.assignments %}
-  {% assign name = pair[0] %}
-  {% assign assignment = pair[1] %}
-
-  {% if assignment.type == 'lab' %}
-- [{{ assignment.title }} - {{ assignment.subtitle }}]({{ name }}) due {{ assignment.due }}
-  {% endif %}
-{% endfor %}
+<div class="alert alert-dismissible alert-danger">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+  <strong>Warning:</strong> Assignment details will be changing soon - some assignments will be removed,
+  and new assignments added.
+</div>
 
 
-## Programs
+## Written Assignments
 
 {% for pair in site.data.assignments %}
   {% assign name = pair[0] %}
   {% assign assignment = pair[1] %}
 
-  {% if assignment.type == 'program' %}
+  {% if assignment.type == 'assignment' %}
 - [{{ assignment.title }} - {{ assignment.subtitle }}]({{ name }}) due {{ assignment.due }}
   {% endif %}
 {% endfor %}
-
-
-## Final Project
-
-[Final Project](final) due at scheduled final exam time
 
