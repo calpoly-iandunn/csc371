@@ -6,6 +6,12 @@ auto-title: true
 ---
 
 
+<div class="alert alert-dismissible alert-danger">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+  <strong>Warning:</strong> Project details will be changing soon.
+</div>
+
+
 ## Project 1: Physical Game
 
 Work in teams of 1-6 to create a physical game such as a board game or trading-card game.
