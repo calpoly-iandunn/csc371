@@ -19,11 +19,9 @@ When making digital games, you acquire a lot of technical debt and there can be 
 
 
 
-## Project 2: Unreal Engine Game
+## Project 2: Digital Game
 
-Work in teams of 2-6 to create a digital game using Unreal Engine.
-Note that UnrealEngine is particularly suited to making certain types of games, such as action-adventure games and FPSs.
-It can be tricky to make things like puzzle games using Blueprints.
+Work in teams of 2-6 to create a digital game using Unity.
 
 ### Deliverables:
 
