@@ -1,6 +1,7 @@
 
 number: 371
 title: "Game Design"
+week_limit: 1
 
 tabs:
   - name: home

@@ -47,7 +47,9 @@ active: home
     <ul>
       <li><a href="#course_info">Course Info</a></li>
 {% for week in site.data.weeks %}
+{% if week.number <= site.data.course.week_limit %}
       <li><a href="#week_{{ week.number }}">{{ week.name }}</a></li>
+{% endif %}
 {% endfor %}
     </ul>
   </div>
@@ -78,6 +80,7 @@ active: home
 <!-- //////// -->
 
 {% for week in site.data.weeks %}
+{% if week.number <= site.data.course.week_limit %}
 
 <a name="week_{{ week.number }}"></a>
 <h2 class="week-label">{{ week.name }}</h2>
@@ -179,4 +182,5 @@ active: home
 
 </div> <!-- .row -->
 
+{% endif %}
 {% endfor %} {% comment %} weeks {% endcomment %}
