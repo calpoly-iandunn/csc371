@@ -42,9 +42,10 @@ links:
     outbound: "http://piazza.com/calpoly/spring2018/csc371"
 
 schedule_columns:
+  - name: reading
+    title: Reading
   - name: lecture
     title: Lecture
-    class: "col-sm-6"
 
 meetings:
   lecture:

@@ -1,13 +1,16 @@
 
 
+#########################
+## Written Assignments ##
+#########################
 
 asgn01:
-  title:    Assignment 1
-  subtitle: "Think of a Game"
-  type:     assignment
+  title:      Assignment 1
+  subtitle:   Think of a Game
+  type:       assignment
   individual: true
-  assigned: Monday 1/8
-  due:      Friday 1/12
+  assigned:   Monday 4/2
+  due:        Friday 4/6
 
 asgn02:
   title:    Assignment 2
@@ -24,4 +27,26 @@ asgn03:
   individual: true
   assigned: Friday 1/12
   due:      Monday 1/22
+
+
+##########
+## Labs ##
+##########
+
+lab01:
+  title:      Lab 1
+  subtitle:   Unity Editor
+  type:       lab
+  individual: true
+  assigned:   Monday 4/2
+  due:        Wednesday 4/4
+
+
+lab02:
+  title:      Lab 2
+  subtitle:   Game Objects
+  type:       lab
+  individual: true
+  assigned:   Wednesday 4/4
+  due:        Monday 4/9
 

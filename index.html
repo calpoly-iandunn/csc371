@@ -120,6 +120,10 @@ active: home
         {% endif %}
       {% endfor %}  {% comment %} items {% endcomment %}
 
+      {% if day[column.name] == nil %}
+        <li>None</li>
+      {% endif %}
+
       {% for pair in site.data.assignments %}
         {% assign name = pair[0] %}
         {% assign assignment = pair[1] %}

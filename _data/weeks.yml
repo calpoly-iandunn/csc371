@@ -10,9 +10,6 @@
       - text: Introduction
         outbound: https://docs.google.com/presentation/d/1ANTg6abA1mFHO2UnLQAzObMJV8L9GutCy4sRlCgGvDI/edit?usp=sharing
       - Class Survey
-    lab:
-      - text: UE4 Setup
-    assignment:
 
   - name: Wednesday 4/4
     reading:
@@ -20,11 +17,6 @@
     lecture:
       - text: Broken Games Workshop
         outbound: https://docs.google.com/presentation/d/1PH75zJ737AYc7SWMprnixFeh4ag37s1WG4XMed4_XkE/edit?usp=sharing
-    lab:
-      - text: "Lab 1: Blueprints Quick Start Guide"
-        link: /labs/1/
-        due: 4/7
-    assignment:
 
   - name: Friday 4/6
     reading:
@@ -33,15 +25,7 @@
       - text: Game Design (Formal Definitions)
         outbound: https://docs.google.com/presentation/d/18NHbHuP2DJK636Q-A50QF6cCbemPoxAOGUOBuZkOVZE/edit?usp=sharing
       - text: Think about project ideas!
-      - text: Game pitches are Monday 4/10!
-    lab:
-      - text: "Lab 2: Blueprint Lift Tutorial"
-        link: /labs/2/
-        due: 4/12
-    assignment:
-      - text: Think of a Game
-        link: /assignments/1/
-        due: tonight by midnight
+      - text: Game pitches are Monday 4/9!
 
 
 ###############################################################################
