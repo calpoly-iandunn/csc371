@@ -8,6 +8,10 @@ tabs:
     title: Home
     link: /index.html
 
+  - name: references
+    title: References
+    link: /references
+
   - name: lectures
     title: Lectures
     link: /lectures
@@ -24,11 +28,11 @@ tabs:
     title: Assignments
     link: /assignments
 
+links:
   - name: calendar
     title: Calendar
     link: /calendar.html
 
-links:
   - name: syllabus
     title: Syllabus
     link: /syllabus.html
