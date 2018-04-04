@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Project Pitches
+auto-title: true
 ---
 
 This time is for all of you to seek additional team members.

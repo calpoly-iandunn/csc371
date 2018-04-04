@@ -19,7 +19,7 @@
 
   - name: Friday 4/6
     reading:
-      - "Chapter 1: The Role of the Game Designer"
+      - text: "Chapter 1: The Role of the Game Designer"
     lecture:
       - text: Game Design Definitions
         outbound: https://docs.google.com/presentation/d/18NHbHuP2DJK636Q-A50QF6cCbemPoxAOGUOBuZkOVZE/edit?usp=sharing
@@ -41,17 +41,14 @@
     lab:
       - text: Brainstorming
         outbound: https://docs.google.com/document/d/1uBzAEzTRKy1jU5scGvkELFsAmFsjdWaXgTB8KRIQKZY/edit?usp=sharing
-    assignment:
 
   - name: Wednesday 4/11
     reading:
     lecture:
       - text: Iterative Prototyping
         outbound: https://docs.google.com/presentation/d/1MBxp0GzTHL8Rwu2f3RcKgsNmdZlQSKU5kZ6ldnTc33k/edit?usp=sharing
-      - text: Physical Prototyping Workshop
     lab:
       - text: Physical Prototyping Workshop
-    assignment:
 
   - name: Friday 4/13
     reading:
@@ -59,12 +56,8 @@
     lecture:
       - text: "Game Maker's Toolkit - Nintendo"
         outbound: https://docs.google.com/presentation/d/1yZHQ_Zpu-LZa--rhjTC1LuwkmKyMFqTutZSfI8TgeP0/edit?usp=sharing
-      - text: Physical Prototyping Workshop
     lab:
-      - text: "Lab 3: Hitscan Weapon"
-        link: /labs/3/
-        due: 4/21
-    assignment:
+      - text: Physical Prototyping Workshop
 
 ###############################################################################
 

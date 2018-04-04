@@ -1,7 +1,7 @@
 
 number: 371
 title: "Game Design"
-week_limit: 1
+week_limit: 2
 
 tabs:
   - name: home
@@ -46,6 +46,8 @@ schedule_columns:
     title: Reading
   - name: lecture
     title: Lecture
+  - name: lab
+    title: Lab
 
 meetings:
   lecture:

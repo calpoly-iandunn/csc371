@@ -105,6 +105,7 @@ active: home
 
         <!-- Columns -->
     {% for column in site.data.course.schedule_columns %}
+      {% if day[column.name] %}
         <h4>{{ column.title }}</h4>
         <ul>
 
@@ -120,21 +121,8 @@ active: home
         {% endif %}
       {% endfor %}  {% comment %} items {% endcomment %}
 
-      {% if day[column.name] == nil %}
-        <li>None</li>
-      {% endif %}
-
-      {% for pair in site.data.assignments %}
-        {% assign name = pair[0] %}
-        {% assign assignment = pair[1] %}
-        {% if assignment.type == 'workshop' %}
-          {% if day.name == assignment.date %}
-          <li><a href="{{ site.baseurl }}/assignments/{{ name }}">{{ assignment.title }} - {{ assignment.subtitle }}</a></li>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-
         </ul>
+      {% endif %}
     {% endfor %} {% comment %} columns {% endcomment %}
 
         <!-- Assignments -->
