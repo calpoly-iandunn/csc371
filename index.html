@@ -135,11 +135,11 @@ active: home
 
       {% if day.name == assignment.due %}
         {% assign anything = true %}
-          <li><a href="{{ site.baseurl }}/assignments/{{ name }}">{{ assignment.title }}</a> is due <span class="text-danger">today!</span></li>
+          <li><a href="{{ site.baseurl }}/{{ assignment.type }}s/{{ name }}">{{ assignment.title }}</a> is due <span class="text-danger">today!</span></li>
       {% endif %}
       {% if day.weekend == assignment.due %}
         {% assign anything = true %}
-          <li><a href="{{ site.baseurl }}/assignments/{{ name }}">{{ assignment.title }}</a> is due soon, on <span class="text-danger">{{ assignment.due }}!</span></li>
+          <li><a href="{{ site.baseurl }}/{{ assignment.type }}s/{{ name }}">{{ assignment.title }}</a> is due soon, on <span class="text-danger">{{ assignment.due }}!</span></li>
       {% endif %}
     {% endfor %}
     {% for pair in site.data.assignments %}
@@ -148,7 +148,7 @@ active: home
 
       {% if day.name == assignment.assigned %}
         {% assign anything = true %}
-          <li><a href="{{ site.baseurl }}/assignments/{{ name }}">{{ assignment.title }}</a> due {{ assignment.due }}</li>
+          <li><a href="{{ site.baseurl }}/{{ assignment.type }}s/{{ name }}">{{ assignment.title }}</a> due {{ assignment.due }}</li>
       {% endif %}
     {% endfor %}
 
