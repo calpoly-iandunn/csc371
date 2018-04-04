@@ -35,18 +35,18 @@ asgn03:
 
 lab01:
   title:      Lab 1
-  subtitle:   Unity Editor
+  subtitle:   "Roll A Ball: Environment and Player"
   type:       lab
   individual: true
-  assigned:   Monday 4/2
-  due:        Wednesday 4/4
+  assigned:   Wednesday 4/2
+  due:        Monday 4/9
 
 
 lab02:
   title:      Lab 2
-  subtitle:   Game Objects
+  subtitle:   "Roll A Ball: Camera and Play Area"
   type:       lab
   individual: true
-  assigned:   Wednesday 4/4
-  due:        Monday 4/9
+  assigned:   Monday 4/9
+  due:        Friday 4/13
 

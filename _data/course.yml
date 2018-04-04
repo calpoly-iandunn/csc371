@@ -20,10 +20,6 @@ tabs:
     title: Projects
     link: /project
 
-  - name: workshops
-    title: Workshops
-    link: /workshops
-
   - name: assignments
     title: Assignments
     link: /assignments
