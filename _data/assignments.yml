@@ -39,7 +39,7 @@ lab01:
   type:       lab
   individual: true
   assigned:   Wednesday 4/4
-  due:        Monday 4/9
+  due:        Friday 4/6
 
 
 lab02:
@@ -47,6 +47,15 @@ lab02:
   subtitle:   "Roll A Ball: Camera and Play Area"
   type:       lab
   individual: true
-  assigned:   Monday 4/9
-  due:        Friday 4/13
+  assigned:   Friday 4/6
+  due:        Wednesday 4/11
+
+
+lab03:
+  title:      Lab 3
+  subtitle:   "Roll A Ball: Game Mechanics"
+  type:       lab
+  individual: true
+  assigned:   Wednesday 4/11
+  due:        Wednesday 4/18
 
