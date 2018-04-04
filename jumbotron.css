@@ -1,11 +1,19 @@
-/* Move down content because we have a fixed navbar that is ~50px tall */
 body {
+  /* Move down content because we have a fixed navbar that is ~50px tall */
   padding-top: 50px;
   padding-bottom: 20px;
+
+  /* Slightly increase body text font size */
+  /*font-size: 1.1em;*/
 }
 
-.spacer {
+#spacer {
+  /* On most pages, we want to move the top of the page down a little bit further */
   padding-top: 20px;
+}
+
+.jumbotron p {
+  font-size: 1.1em;
 }
 
 .bold {
@@ -20,10 +28,6 @@ body {
   padding-top: 75px;
 }
 
-p {
-  font-size: 1.1em;
-}
-
 h2:before {
   color: #000;
   content:"\25AA";
@@ -33,6 +37,7 @@ h2:before {
 h2:after {
   content:' ';
   display: block;
+  color: #000;
   border: 2px solid #000;
   margin-top: 4px;
 }
@@ -89,40 +94,4 @@ pre {
   border-bottom: 2px solid black;
   padding: 3px;
   text-decoration: underline;
-}
-
-
-/*********
- * Print *
- *********/
-
-@media print {
-  body {
-    font-size: 0.8em;
-  }
-
-  h1 {
-    font-size: 1.5em;
-  }
-
-  h2 {
-    font-size: 1.2em;
-  }
-
-  h3, h4, h5 {
-    font-size: 1.1em;
-  }
-
-  img {
-    max-width: 300px;
-    max-height: 250px;
-  }
-
-  p > img {
-
-  }
-
-  .navbar {
-    display: none;
-  }
 }
