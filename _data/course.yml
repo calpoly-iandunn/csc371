@@ -12,10 +12,6 @@ tabs:
     title: References
     link: /references
 
-  - name: lectures
-    title: Lectures
-    link: /lectures
-
   - name: projects
     title: Projects
     link: /project
