@@ -4,7 +4,6 @@
   name: Week 1
   days:
   - name: Monday 4/2
-    reading:
     lecture:
       - Enrollment/Waitlist
       - text: Introduction
@@ -12,7 +11,6 @@
       - Class Survey
 
   - name: Wednesday 4/4
-    reading:
     lecture:
       - text: Broken Games Workshop
         outbound: https://docs.google.com/presentation/d/1PH75zJ737AYc7SWMprnixFeh4ag37s1WG4XMed4_XkE/edit?usp=sharing
@@ -44,6 +42,7 @@
 
   - name: Wednesday 4/11
     reading:
+      - "Chapter 7: Prototyping"
     lecture:
       - text: Iterative Prototyping
         outbound: https://docs.google.com/presentation/d/1MBxp0GzTHL8Rwu2f3RcKgsNmdZlQSKU5kZ6ldnTc33k/edit?usp=sharing
@@ -51,8 +50,6 @@
       - text: Physical Prototyping Workshop
 
   - name: Friday 4/13
-    reading:
-      - "Chapter 7: Prototyping"
     lecture:
       - text: "Game Maker's Toolkit - Nintendo"
         outbound: https://docs.google.com/presentation/d/1yZHQ_Zpu-LZa--rhjTC1LuwkmKyMFqTutZSfI8TgeP0/edit?usp=sharing
