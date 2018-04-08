@@ -9,7 +9,8 @@ auto-title: true
 <div class="alert alert-dismissible alert-warning">
   <button type="button" class="close" data-dismiss="alert">&times;</button>
   <strong>Warning:</strong> Project details are not yet finalized.
-  In particular, every day listed below and in attached documents is incorrect.
+  In particular, every date listed below and in attached documents is incorrect -
+  they refer to the last quarter this was taught.
 </div>
 
 
