@@ -36,6 +36,8 @@
     lecture:
       - text: Game Pitches
         link: /project/pitches.html
+      - text: Conceptualization
+        outbound: https://docs.google.com/presentation/d/1TYEsFvdTreeKUrxdc4QeaJ3JZ7ZLU657XRm9npHr_N4/edit?usp=sharing
     lab:
       - text: Brainstorming
         outbound: https://docs.google.com/document/d/1uBzAEzTRKy1jU5scGvkELFsAmFsjdWaXgTB8KRIQKZY/edit?usp=sharing
