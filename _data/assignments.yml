@@ -13,6 +13,7 @@ asgn01:
   due:        Friday 4/6
 
 asgn02:
+  display:  false
   title:    Assignment 2
   subtitle: "Diagramming Core Gameplay"
   type:     assignment
@@ -21,6 +22,7 @@ asgn02:
   due:      Wednesday 1/17
 
 asgn03:
+  display:  false
   title:    Assignment 3
   subtitle: Feature Design Exercise
   type:     assignment
