@@ -41,7 +41,7 @@
         tag: Lecture
         outbound: https://docs.google.com/presentation/d/1TYEsFvdTreeKUrxdc4QeaJ3JZ7ZLU657XRm9npHr_N4/edit?usp=sharing
       - text: Game Pitches
-        link: /project/pitches.html
+        link: /projects/pitches.html
     lab:
       - text: Brainstorming
         tag: Workshop
