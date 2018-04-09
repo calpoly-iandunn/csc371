@@ -42,13 +42,13 @@ Splitscreen is a reasonable alternative if multiplayer functionality is desired.
 
 ### Deliverables:
 
-1. [Physical Prototyping](digital/1/) due Wednesday 5/10.
+1. [Physical Prototyping](digital/1/) due TBA<!-- Wednesday 5/10 -->.
 
-2. [Software Prototyping](digital/2/) due Friday 5/19.
+2. [Software Prototyping](digital/2/) due TBA<!-- Friday 5/19 -->.
 
 3. [Production](digital/3/) (completed in four sprints with individual due-dates).
 
-4. [Design Document](digital/4/) due Friday 6/9.
+4. [Design Document](digital/4/) due TBA<!-- Friday 6/9 -->.
 
-5. [Team Evaluations](digital/5/) due Wednesday 6/14.
+5. [Team Evaluations](digital/5/) due TBA<!-- Wednesday 6/14 -->.
 
