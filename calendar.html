@@ -3,13 +3,8 @@ layout: page
 active: calendar
 title: "Calendar"
 auto-title: true
+full-page: true
 ---
-
-<div class="alert alert-dismissible alert-danger">
-  <button type="button" class="close" data-dismiss="alert">&times;</button>
-  <strong>Warning:</strong> This calendar shows the full calendar for the rest of the quarter,
-  which is likely to change significantly in the coming weeks.
-</div>
 
 <p>This calendar is mostly for planning purposes, but may be useful as an easy way to view deadlines across the quarter.</p>
 
@@ -17,12 +12,15 @@ auto-title: true
 
 <table class="tbl-outline">
 
-<tr><th>Week</th><th>Day</th><th>Reading</th><th>Lecture</th>
+<tr><th>Week</th><th>Day</th><th>Reading</th><th>Lecture</th><th>Lab</th>
 
 {% for pair in site.data.assignments %}
   {% assign name = pair[0] %}
   {% assign assignment = pair[1] %}
+
+  {% if assignment.display != false %}
   <th><a href="{{ site.baseurl }}/assignments/{{ name }}">{{ assignment.title }}</a></th>
+  {% endif %}
 {% endfor %}
 
 </tr>
@@ -39,7 +37,7 @@ auto-title: true
 
 
 {% if day.override %}
-    <td><ul><li>{{ day.override }}</li></ul></td><td></td>
+    <td colspan="3"><ul><li>{{ day.override }}</li></ul></td>
 {% else %}
 
     <!-- Columns -->
@@ -78,39 +76,25 @@ auto-title: true
 
     <!-- Assignments -->
 {% for pair in site.data.assignments %}
-    <td>
   {% assign name = pair[0] %}
   {% assign assignment = pair[1] %}
 
-  {% if assignment.type == 'program' %}
+  {% if assignment.display != false %}
+
+    <td>
     {% if day.name == assignment.due %}
       <a href="{{ site.baseurl }}/assignments/{{ name }}"><span class="oi oi-circle-x" title="{{assignment.title}} due" aria-hidden="true" style="color: red;"></span></a>
     {% endif %}
-
     {% if day.weekend == assignment.due %}
       <a href="{{ site.baseurl }}/assignments/{{ name }}"><span class="oi oi-circle-x" title="{{assignment.title}} due" aria-hidden="true" style="color: orange;"></span></a>
     {% endif %}
-
     {% if day.name == assignment.assigned %}
       <a href="{{ site.baseurl }}/assignments/{{ name }}"><span class="oi oi-arrow-circle-right" title="{{assignment.title}} assigned" aria-hidden="true" style="color: green;"></span></a>
     {% endif %}
-  {% endif %}
-
-  {% if assignment.type == 'lab' %}
-    {% if day.name == assignment.due %}
-      <a href="{{ site.baseurl }}/assignments/{{ name }}"><span class="oi oi-x" title="{{assignment.title}} due" aria-hidden="true" style="color: red;"></span></a>
-    {% endif %}
-
-    {% if day.weekend == assignment.due %}
-      <a href="{{ site.baseurl }}/assignments/{{ name }}"><span class="oi oi-x" title="{{assignment.title}} due" aria-hidden="true" style="color: orange;"></span></a>
-    {% endif %}
-
-    {% if day.name == assignment.assigned %}
-      <a href="{{ site.baseurl }}/assignments/{{ name }}"><span class="oi oi-arrow-thick-right" title="{{assignment.title}} assigned" aria-hidden="true" style="color: green;"></span></a>
-    {% endif %}
-  {% endif %}
-
     </td>
+
+  {% endif %}
+
 {% endfor %}
 
 

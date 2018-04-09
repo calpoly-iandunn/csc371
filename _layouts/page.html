@@ -5,7 +5,12 @@ layout: default
 
 <div class="spacer" id="spacer"></div>
 
+{% if page.full-page %}
+<div class="container-fluid" id="content">
+{% else %}
 <div class="container" id="content">
+{% endif %}
+
 
 {% if page.auto-title %}
 <h1>{{ page.title }}</h1>
