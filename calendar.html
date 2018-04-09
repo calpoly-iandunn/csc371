@@ -19,7 +19,7 @@ full-page: true
   {% assign assignment = pair[1] %}
 
   {% if assignment.display != false %}
-  <th><a href="{{ site.baseurl }}/assignments/{{ name }}">{{ assignment.title }}</a></th>
+  <th><a href="{{ site.baseurl }}/{{ assignment.type }}s/{{ name }}">{{ assignment.title }}</a></th>
   {% endif %}
 {% endfor %}
 
@@ -45,21 +45,31 @@ full-page: true
     <td>
       <ul>
   {% for item in day[column.name] %}
-    {% if item.link %}
-        <li><a href="{{ item.link | prepend: site.baseurl }}">{{ item.text }}</a>{% if item.due %} due {{ item.due }}{% endif %}</li>
-    {% elsif item.outbound %}
-        <li><a href="{{ item.outbound }}">{{ item.text }}</a>{% if item.due %} due {{ item.due }}{% endif %}</li>
-    {% elsif item.text %}
-        <li>{{ item.text }}{% if item.due %} due {{ item.due }}{% endif %}</li>
-    {% else %}
-      {% if item == "TBA" %}
-        <li><span class="text-warning">TBA</span></li>
-      {% elsif item == "None" %}
-        <li><span class="text-info">None</span></li>
-      {% else %}
-        <li>{{ item }}</li>
-      {% endif %}
+        <li>
+    {% if item.tag %}
+      {% assign color = "primary" %}
+      {% case item.tag %}
+        {% when 'Lecture' %}
+           {% assign color = "primary" %}
+        {% when 'Video' %}
+           {% assign color = "pink" %}
+        {% when 'Workshop' %}
+           {% assign color = "cyan" %}
+      {% endcase %}
+
+      <span class="item-tag bg-{{ color }}">{{ item.tag }}</span>
     {% endif %}
+
+    {% if item.link %}
+          <a href="{{ item.link | prepend: site.baseurl }}">{{ item.text }}</a>{% if item.due %} due {{ item.due }}{% endif %}</li>
+    {% elsif item.outbound %}
+          <a href="{{ item.outbound }}">{{ item.text }}</a>{% if item.due %} due {{ item.due }}{% endif %}</li>
+    {% elsif item.text %}
+          {{ item.text }}</li>
+    {% else %}
+          {{ item }}
+    {% endif %}
+      </li>
   {% endfor %}
 
   {% for date in site.data.dates %}
@@ -83,13 +93,13 @@ full-page: true
 
     <td>
     {% if day.name == assignment.due %}
-      <a href="{{ site.baseurl }}/assignments/{{ name }}"><span class="oi oi-circle-x" title="{{assignment.title}} due" aria-hidden="true" style="color: red;"></span></a>
+      <a href="{{ site.baseurl }}/{{ assignment.type }}s/{{ name }}"><span class="oi oi-circle-x" title="{{assignment.title}} due" aria-hidden="true" style="color: red;"></span></a>
     {% endif %}
     {% if day.weekend == assignment.due %}
-      <a href="{{ site.baseurl }}/assignments/{{ name }}"><span class="oi oi-circle-x" title="{{assignment.title}} due" aria-hidden="true" style="color: orange;"></span></a>
+      <a href="{{ site.baseurl }}/{{ assignment.type }}s/{{ name }}"><span class="oi oi-circle-x" title="{{assignment.title}} due" aria-hidden="true" style="color: orange;"></span></a>
     {% endif %}
     {% if day.name == assignment.assigned %}
-      <a href="{{ site.baseurl }}/assignments/{{ name }}"><span class="oi oi-arrow-circle-right" title="{{assignment.title}} assigned" aria-hidden="true" style="color: green;"></span></a>
+      <a href="{{ site.baseurl }}/{{ assignment.type }}s/{{ name }}"><span class="oi oi-arrow-circle-right" title="{{assignment.title}} assigned" aria-hidden="true" style="color: green;"></span></a>
     {% endif %}
     </td>
 

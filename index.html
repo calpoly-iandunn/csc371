@@ -85,7 +85,7 @@ active: home
 <a name="week_{{ week.number }}"></a>
 <h2 class="week-label">{{ week.name }}</h2>
 
-  {% capture week_class %}{% cycle 'primary', 'secondary' %}{% endcapture %}
+  {% capture week_class %}{% cycle 'primary', 'success' %}{% endcapture %}
 
 <div class="row">
 
@@ -110,15 +110,30 @@ active: home
         <ul>
 
       {% for item in day[column.name] %}
-        {% if item.link %}
-          <li><a href="{{ item.link | prepend: site.baseurl }}">{{ item.text }}</a>{% if item.due %} due {{ item.due }}{% endif %}</li>
-        {% elsif item.outbound %}
-          <li><a href="{{ item.outbound }}">{{ item.text }}</a>{% if item.due %} due {{ item.due }}{% endif %}</li>
-        {% elsif item.text %}
-          <li>{{ item.text }}{% if item.due %} due {{ item.due }}{% endif %}</li>
-        {% else %}
-          <li>{{ item }}</li>
+          <li>
+        {% if item.tag %}
+          {% assign color = "primary" %}
+          {% case item.tag %}
+            {% when 'Lecture' %}
+               {% assign color = "primary" %}
+            {% when 'Video' %}
+               {% assign color = "pink" %}
+            {% when 'Workshop' %}
+               {% assign color = "cyan" %}
+          {% endcase %}
+
+          <span class="item-tag bg-{{ color }}">{{ item.tag }}</span>
         {% endif %}
+        {% if item.link %}
+            <a href="{{ item.link | prepend: site.baseurl }}">{{ item.text }}</a>{% if item.due %} due {{ item.due }}{% endif %}
+        {% elsif item.outbound %}
+            <a href="{{ item.outbound }}">{{ item.text }}</a>{% if item.due %} due {{ item.due }}{% endif %}
+        {% elsif item.text %}
+            {{ item.text }}{% if item.due %} due {{ item.due }}{% endif %}
+        {% else %}
+            {{ item }}
+        {% endif %}
+          </li>
       {% endfor %}  {% comment %} items {% endcomment %}
 
         </ul>

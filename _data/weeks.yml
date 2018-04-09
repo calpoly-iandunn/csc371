@@ -7,12 +7,14 @@
     lecture:
       - Enrollment/Waitlist
       - text: Introduction
+        tag: Lecture
         outbound: https://docs.google.com/presentation/d/1ANTg6abA1mFHO2UnLQAzObMJV8L9GutCy4sRlCgGvDI/edit?usp=sharing
       - Class Survey
 
   - name: Wednesday 4/4
     lecture:
-      - text: Broken Games Workshop
+      - text: Broken Games
+        tag: Workshop
         outbound: https://docs.google.com/presentation/d/1PH75zJ737AYc7SWMprnixFeh4ag37s1WG4XMed4_XkE/edit?usp=sharing
 
   - name: Friday 4/6
@@ -20,6 +22,7 @@
       - text: "Chapter 1: The Role of the Game Designer"
     lecture:
       - text: Game Design Definitions
+        tag: Lecture
         outbound: https://docs.google.com/presentation/d/18NHbHuP2DJK636Q-A50QF6cCbemPoxAOGUOBuZkOVZE/edit?usp=sharing
       - text: Think about project ideas!
       - text: Game pitches are Monday 4/9!
@@ -34,12 +37,14 @@
     reading:
       - "Chapter 6: Conceptualization"
     lecture:
+      - text: Conceptualization
+        tag: Lecture
+        outbound: https://docs.google.com/presentation/d/1TYEsFvdTreeKUrxdc4QeaJ3JZ7ZLU657XRm9npHr_N4/edit?usp=sharing
       - text: Game Pitches
         link: /project/pitches.html
-      - text: Conceptualization
-        outbound: https://docs.google.com/presentation/d/1TYEsFvdTreeKUrxdc4QeaJ3JZ7ZLU657XRm9npHr_N4/edit?usp=sharing
     lab:
       - text: Brainstorming
+        tag: Workshop
         outbound: https://docs.google.com/document/d/1uBzAEzTRKy1jU5scGvkELFsAmFsjdWaXgTB8KRIQKZY/edit?usp=sharing
 
   - name: Wednesday 4/11
@@ -47,16 +52,18 @@
       - "Chapter 7: Prototyping"
     lecture:
       - text: Iterative Prototyping
+        tag: Lecture
         outbound: https://docs.google.com/presentation/d/1MBxp0GzTHL8Rwu2f3RcKgsNmdZlQSKU5kZ6ldnTc33k/edit?usp=sharing
     lab:
-      - text: Physical Prototyping Workshop
+      - text: Physical Prototyping
 
   - name: Friday 4/13
     lecture:
       - text: "Game Maker's Toolkit - Nintendo"
+        tag: Video
         outbound: https://docs.google.com/presentation/d/1yZHQ_Zpu-LZa--rhjTC1LuwkmKyMFqTutZSfI8TgeP0/edit?usp=sharing
     lab:
-      - text: Physical Prototyping Workshop
+      - text: Physical Prototyping
 
 ###############################################################################
 
@@ -67,33 +74,27 @@
     reading:
       - "Chapter 9: Playtesting"
     lecture:
+      - text: Playtesting
+        tag: Lecture
       - Physical Prototype Refinement
     lab:
       - text: Physical Prototype Playtesting
-    assignment:
-      - text: None
 
   - name: Wednesday 4/18
     reading:
+      - "Chapter 2: The Structure of Games"
+      - "Chapter 3: Working with Formal Elements"
     lecture:
-      - text: Collision Detection
-        outbound: https://docs.google.com/presentation/d/181I7LYsvtPRIhQQ1-1LC9-jv1byaOAwiRqCW_E2caBI/edit?usp=sharing
-      - text: Software Engineering
-        outbound: https://docs.google.com/presentation/d/1dr63EcK2mMas-s5PY9KkFXv98O7pupGBMbgS1lm0Ohs/edit?usp=sharing
+      - text: Formal Elements
+        tag: Lecture
     lab:
       - Lab Work Time
-    assignment:
 
   - name: Friday 4/20
-    reading:
-      - "Chapter 2: The Structure of Games"
     lecture:
       - Board Game Production
     lab:
-      - text: "Lab 4: UMG UI Designer Quick Start Guide"
-        link: /labs/4/
-        due: 5/3
-    assignment:
+      - Board Game Production
 
 ###############################################################################
 
@@ -102,20 +103,14 @@
   days:
   - name: Monday 4/23
     reading:
-      - "Chapter 3: Working with Formal Elements"
     lecture:
       - Board Game Production
     lab:
       - Board Game Production
-    assignment:
-      - text: Project Writeup 1.1
-        link: /project/1/1/
-        due: tonight by midnight
 
   - name: Wednesday 4/25
     reading:
     lecture:
-      - text: Midterm Review (Study Guide)
       - text: Board Game Playtesting
         outbound: https://docs.google.com/document/d/10XajC7b0zpgMQYT6BqxDmassOfRSuxLoQSGy1edcr5E/edit?usp=sharing
     lab:
@@ -127,8 +122,10 @@
 
   - name: Friday 4/27
     reading:
+      - "Chapter 4: Working with Dramatic Elements"
     lecture:
-      - Midterm Exam 1
+      - text: Dramatic Elements
+        tag: Lecture
     lab:
       - Lab Work Time
     assignment:
@@ -140,9 +137,9 @@
   days:
   - name: Monday 4/30
     reading:
-      - "Chapter 4: Working with Dramatic Elements"
     lecture:
       - text: "Emergent Storytelling"
+        tag: Video
         outbound: https://docs.google.com/presentation/d/1HA1uEbZvm9tiSaKYGTH9NPJAuzug2Bcjh1DOWC4N0q8/edit?usp=sharing
     lab:
       - Lab Work Time
@@ -154,9 +151,9 @@
   - name: Wednesday 5/2
     reading:
     lecture:
-      - Unreal Game Pitches
+      - Unity Game Pitches
     lab:
-      - Unreal Game Team Formation & Brainstorming
+      - Unity Game Team Formation & Brainstorming
     assignment:
       - text: None
 
@@ -165,11 +162,12 @@
       - "Chapter 8: Digital Prototyping"
     slides:
     lecture:
-      - Unreal Game Physical Prototyping
+      - text: Collision Detection
+        tag: Lecture
+        outbound: https://docs.google.com/presentation/d/181I7LYsvtPRIhQQ1-1LC9-jv1byaOAwiRqCW_E2caBI/edit?usp=sharing
+      - Unity Game Physical Prototyping
     lab:
-      - Unreal Game Physical Prototyping
-    assignment:
-      - text: None
+      - Unity Game Physical Prototyping
 
 ###############################################################################
 
@@ -178,33 +176,34 @@
   days:
   - name: Monday 5/7
     reading:
-    slides:
+      - "Chapter 14: The Design Document"
     lecture:
+      - text: Design Documents
+        tag: Lecture
     lab:
-    assignment:
 
   - name: Wednesday 5/9
     reading:
-      - "Chapter 14: The Design Document"
     lecture:
-      - Hand back midterms
       - text: AI Pathfinding
+        tag: Lecture
         outbound: https://docs.google.com/presentation/d/1l0_CrxgTSnueyKt7ZvJRCLDqwZpW6CnmX0A1VoUUiMI/edit?usp=sharing
       - text: Behavior Trees and Other AI
+        tag: Lecture
         outbound: https://docs.google.com/presentation/d/1rRMyWm3TmAe_NZHeMvZE3H-1bAMXITxf-vZxGDVp0t8/edit?usp=sharing
     lab:
-      - text: "Lab 5: Behavior Tree Quick Start Guide"
-        link: /labs/5/
-        due: 5/22
-    assignment:
 
   - name: Friday 5/11
     reading:
       - "Chapter 5: Working with System Dynamics"
     lecture:
+      - text: System Dynamics
+        tag: Lecture
       - text: Juice it or Lose it
+        tag: Video
         outbound: http://www.gdcvault.com/play/1016487/Juice-It-or-Lose
       - text: Game of Life
+        tag: Workshop
         outbound: http://pmav.eu/stuff/javascript-game-of-life-v3.1.1/
     lab:
       - Lab work time
@@ -227,8 +226,10 @@
       - "Chapter 10: Functionality, Completeness, and Balance"
     lecture:
       - text: Game Balance
+        tag: Lecture
         outbound: https://docs.google.com/presentation/d/1XChdcJT6nEpVT5f4z3hy32nG_h0odyzwQUU0dzc_1ww/edit?usp=sharing
       - text: "Mark Brown: Should Dark Souls Have An Easy Mode?"
+        tag: Video
         outbound: https://www.youtube.com/watch?v=K5tPJDZv_VE
     lab:
       - Lab work time
@@ -239,11 +240,14 @@
       - "Chapter 11: Fun and Accessibility"
     lecture:
       - text: Prisoner's Dilemma
+        tag: Lecture
         outbound: https://docs.google.com/presentation/d/1ZmMEVur8WDK9tSzvqh7Y0LHCOKrf1mkNjyyoWDLY7LY/edit?usp=sharing
-      - text: BattleBattle! Game Balancing Workshop
+      - text: BattleBattle! Game Balancing
+        tag: Workshop
         outbound: https://docs.google.com/presentation/d/1bSC7CFEoGDs0-1CjR2QitnXMXQqghwom36x9Qn-W_k8/edit?usp=sharing
     lab:
       - text: BattleBattle! Battle Royale
+        tag: Workshop
     assignment:
       - text: "Assignment 3: Feature Design"
         link: /assignments/3/
@@ -253,6 +257,7 @@
     reading:
     lecture:
       - text: BattleBattle! Battle Royale Final Showdown
+        tag: Workshop
     lab:
       - Digital Prototyping
     assignment:
@@ -267,6 +272,7 @@
       - "Chapter 12: Team Structures"
     lecture:
       - text: Game Genres
+        tag: Lecture
         outbound: https://docs.google.com/presentation/d/1QTcLQuI9F27_C20IUjtFivywWK756IxrTUmqevixYzw/edit?usp=sharing
     lab:
       - text: Digital Prototyping
@@ -280,23 +286,18 @@
     reading:
       - "Chapter 13: Stages of Development"
     lecture:
-      - text: Midterm 2 Review
-        outbound: https://docs.google.com/document/d/1ZucF_YO-hpZHAGznojwVMcQGd4-HPVYbO46cykqmvFg/edit?usp=sharing
+      - text: Work on Sprint 1
     lab:
       - text: Work on Sprint 1
-    assignment:
-      - text: None
 
   - name: Friday 5/25
     reading:
     lecture:
       - text: Sprint 1 Checkins
-        link: /project/2/3/
+        link: /projects/digital/3/
     lab:
       - text: Sprint 1 Checkins
-        link: /project/2/3/
-    assignment:
-      - text: None
+        link: /projects/digital/3/
 
 ###############################################################################
 
@@ -309,7 +310,6 @@
   - name: Wednesday 5/30
     reading:
     lecture:
-      - Midterm 2
     lab:
       - text: Work on Sprint 2
     assignment:
@@ -318,10 +318,10 @@
     reading:
     lecture:
       - text: Sprint 2 Checkins
-        link: /project/2/3/
+        link: /projects/digital/3/
     lab:
       - text: Sprint 2 Checkins
-        link: /project/2/3/
+        link: /projects/digital/3/
     assignment:
 
 ###############################################################################
@@ -332,31 +332,31 @@
   - name: Monday 6/4
     reading:
     lecture:
-      - text: VR Overview
+      - text: Virtual Reality
+        tag: Lecture
         outbound: https://docs.google.com/presentation/d/19tO57BFHZw67KERCO0udJBwVf5EPWuuCLYuOgAhFFwI/edit?usp=sharing
     lab:
-    assignment:
+      - Work on Sprint 3
 
   - name: Wednesday 6/6
     reading:
       - "Chapter 15: Understanding the Game Industry"
     lecture:
       - text: Playtesting Session
-        link: /project/2/3/
+        link: /projects/digital/3/
     lab:
       - text: Playtesting Session
-        link: /project/2/3/
-    assignment:
+        link: /projects/digital/3/
 
   - name: Friday 6/8
     reading:
       - "Chapter 16: Selling Yourself and Your Ideas to the Game Industry"
     lecture:
       - text: Sprint 3 Checkins
-        link: /project/2/3/
+        link: /projects/digital/3/
     lab:
       - text: Sprint 3 Checkins
-        link: /project/2/3/
+        link: /projects/digital/3/
     assignment:
       - text: Project Writeup 2.4
         link: /project/2/4/

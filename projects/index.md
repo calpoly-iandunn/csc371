@@ -6,14 +6,6 @@ auto-title: true
 ---
 
 
-<div class="alert alert-dismissible alert-warning">
-  <button type="button" class="close" data-dismiss="alert">&times;</button>
-  <strong>Warning:</strong> Project details are not yet finalized.
-  In particular, every date listed below and in attached documents is incorrect -
-  they refer to the last quarter this was taught.
-</div>
-
-
 ## Project 1: Physical Game
 
 Work in teams of 1-6 to create a physical/conventional game such as a board game, trading-card game, or pen-and-paper RPG.
@@ -24,13 +16,19 @@ When making digital games, you acquire a lot of technical debt and there can be 
 
 ### Deliverables:
 
-1. [Prototyping](physical/1/) due Monday 4/24.
+1. [Prototyping](physical/1/) due {{ site.data.assignments['physical/1'].due }}.
 
-2. [Production](physical/2/) due Monday 5/1.
+2. [Production](physical/2/) due {{ site.data.assignments['physical/2'].due }}.
 
 
 
 ## Project 2: Digital Game
+
+<div class="alert alert-dismissible alert-warning">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+  <strong>Warning:</strong> Due-dates have not been updated for the digital game project.
+  The write-up requirements will also be changing.
+</div>
 
 Work in teams of 2-6 to create a digital game using Unity.
 

@@ -14,7 +14,13 @@
     <!-- Course Tabs -->
     <ul class="navbar-nav mr-auto">
 {% for tab in site.data.course.tabs %}
-      <li {% if page.active == tab.name or layout.active == tab.name %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
+  {% if page.active %}
+      <li {% if page.active == tab.name %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
+  {% else if layout.active %}
+      <li {% if layout.active == tab.name %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
+  {% else %}
+      <li class="nav-item">
+  {% endif %}
         <a class="nav-link" href="{{ tab.link | prepend: site.baseurl }}">{{ tab.title }}</a>
       </li>
 {% endfor %}

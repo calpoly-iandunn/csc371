@@ -61,3 +61,22 @@ lab03:
   assigned:   Wednesday 4/11
   due:        Wednesday 4/18
 
+
+##############
+## Projects ##
+##############
+
+"physical/1":
+  title:     Physical Game Prototyping
+  subtitle:  "Writeup"
+  type:      project
+  assigned:  Wednesday 4/11
+  due:       Friday 4/20
+
+"physical/2":
+  title:     Physical Game Production
+  subtitle:  "Writeup"
+  type:      project
+  assigned:  Friday 4/20
+  due:       Monday 4/30
+

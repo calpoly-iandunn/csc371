@@ -1,3 +1,8 @@
+---
+---
+
+@import '_variables.scss';
+
 body {
   /* Move down content because we have a fixed navbar that is ~50px tall */
   padding-top: 50px;
@@ -83,6 +88,16 @@ pre {
   padding: 0.2em;
 }
 
+.item-tag {
+  text-transform: uppercase;
+  font-size: 0.7em;
+  font-weight: bold;
+
+  color: white;
+  border-radius: 0.25rem;
+  padding: 0.1em 0.4em;
+}
+
 
 /* table */
 
@@ -101,3 +116,16 @@ pre {
   padding: 3px;
   text-decoration: underline;
 }
+
+/* color backgrounds */
+
+.bg-blue { background-color: $blue !important; }
+.bg-indigo { background-color: $indigo !important; }
+.bg-purple { background-color: $purple !important; }
+.bg-pink { background-color: $pink !important; }
+.bg-red { background-color: $red !important; }
+.bg-orange { background-color: $orange !important; }
+.bg-yellow { background-color: $yellow !important; }
+.bg-green { background-color: $green !important; }
+.bg-teal { background-color: $teal !important; }
+.bg-cyan { background-color: $cyan !important; }
