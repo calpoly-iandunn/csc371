@@ -92,8 +92,6 @@
     lecture:
       - text: Formal Elements
         tag: Lecture
-    lab:
-      - Lab Work Time
 
   - name: Friday 4/20
     lecture:
@@ -109,23 +107,21 @@
   name: Week 4
   days:
   - name: Monday 4/23
-    reading:
     lecture:
-      - Board Game Production
+      - text: Board Game Production
+        tag: Project
     lab:
-      - Board Game Production
+      - text: Board Game Production
+        tag: Project
 
   - name: Wednesday 4/25
-    reading:
     lecture:
       - text: Board Game Playtesting
+        tag: Project
         outbound: https://docs.google.com/document/d/10XajC7b0zpgMQYT6BqxDmassOfRSuxLoQSGy1edcr5E/edit?usp=sharing
     lab:
       - text: Board Game Playtesting
-    assignment:
-      - text: Diagramming Core Gameplay
-        link: /assignments/2/
-        due: tonight by midnight
+        tag: Project
 
   - name: Friday 4/27
     reading:
@@ -133,9 +129,6 @@
     lecture:
       - text: Dramatic Elements
         tag: Lecture
-    lab:
-      - Lab Work Time
-    assignment:
 
 ###############################################################################
 
@@ -143,38 +136,29 @@
   name: Week 5
   days:
   - name: Monday 4/30
-    reading:
     lecture:
       - text: "Emergent Storytelling"
         tag: Video
         outbound: https://docs.google.com/presentation/d/1HA1uEbZvm9tiSaKYGTH9NPJAuzug2Bcjh1DOWC4N0q8/edit?usp=sharing
-    lab:
-      - Lab Work Time
-    assignment:
-      - text: Project Writeup 1.2
-        link: /project/1/2/
-        due: tonight by midnight
 
   - name: Wednesday 5/2
-    reading:
     lecture:
-      - Unity Game Pitches
+      - text: Unity Game Pitches
+        tag: Project
     lab:
-      - Unity Game Team Formation & Brainstorming
-    assignment:
-      - text: None
+      - text: Unity Game Team Formation & Brainstorming
+        tag: Project
 
   - name: Friday 5/4
     reading:
       - "Chapter 8: Digital Prototyping"
-    slides:
     lecture:
       - text: Collision Detection
         tag: Lecture
         outbound: https://docs.google.com/presentation/d/181I7LYsvtPRIhQQ1-1LC9-jv1byaOAwiRqCW_E2caBI/edit?usp=sharing
-      - Unity Game Physical Prototyping
     lab:
-      - Unity Game Physical Prototyping
+      - text: Unity Game Physical Prototyping
+        tag: Project
 
 ###############################################################################
 
