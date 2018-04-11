@@ -47,17 +47,7 @@ full-page: true
   {% for item in day[column.name] %}
         <li>
     {% if item.tag %}
-      {% assign color = "primary" %}
-      {% case item.tag %}
-        {% when 'Lecture' %}
-           {% assign color = "primary" %}
-        {% when 'Video' %}
-           {% assign color = "pink" %}
-        {% when 'Workshop' %}
-           {% assign color = "cyan" %}
-      {% endcase %}
-
-      <span class="item-tag bg-{{ color }}">{{ item.tag }}</span>
+      <span class="item-tag bg-{{ site.data.course.tags[item.tag] | default: 'primary' }}">{{ item.tag }}</span>
     {% endif %}
 
     {% if item.link %}

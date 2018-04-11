@@ -41,6 +41,7 @@
         tag: Lecture
         outbound: https://docs.google.com/presentation/d/1TYEsFvdTreeKUrxdc4QeaJ3JZ7ZLU657XRm9npHr_N4/edit?usp=sharing
       - text: Game Pitches
+        tag: Project
         link: /projects/pitches.html
     lab:
       - text: Brainstorming
@@ -56,6 +57,7 @@
         outbound: https://docs.google.com/presentation/d/1MBxp0GzTHL8Rwu2f3RcKgsNmdZlQSKU5kZ6ldnTc33k/edit?usp=sharing
     lab:
       - text: Physical Prototyping
+        tag: Project
 
   - name: Friday 4/13
     lecture:
@@ -64,6 +66,7 @@
         outbound: https://docs.google.com/presentation/d/1yZHQ_Zpu-LZa--rhjTC1LuwkmKyMFqTutZSfI8TgeP0/edit?usp=sharing
     lab:
       - text: Physical Prototyping
+        tag: Project
 
 ###############################################################################
 
@@ -76,9 +79,11 @@
     lecture:
       - text: Playtesting
         tag: Lecture
-      - Physical Prototype Refinement
+      - text: Physical Prototype Refinement
+        tag: Project
     lab:
       - text: Physical Prototype Playtesting
+        tag: Project
 
   - name: Wednesday 4/18
     reading:
@@ -92,9 +97,11 @@
 
   - name: Friday 4/20
     lecture:
-      - Board Game Production
+      - text: Board Game Production
+        tag: Project
     lab:
-      - Board Game Production
+      - text: Board Game Production
+        tag: Project
 
 ###############################################################################
 

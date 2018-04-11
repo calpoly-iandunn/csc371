@@ -45,6 +45,12 @@ schedule_columns:
   - name: lab
     title: Lab
 
+tags:
+  Lecture: primary
+  Video: pink
+  Workshop: cyan
+  Project: yellow
+
 meetings:
   lecture:
     when: "12:10pm - 1:00pm"
