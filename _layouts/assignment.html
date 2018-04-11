@@ -15,6 +15,9 @@ active: assignments
 <p><a href="{{ assignment.basecode }}" class="btn btn-success">The base code for this lab can be found on GitHub here</a>
 {% endif %}
 
+{% if assignment.polylearn %}
+<p><a href="{{ assignment.polylearn }}" class="btn btn-info">PolyLearn Assignment Page</a></p>
+{% endif %}
 
 <p>This assignment is due on <strong>{{ assignment.due }}</strong>.</p>
 
