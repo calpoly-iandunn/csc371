@@ -20,6 +20,10 @@ tabs:
     title: Assignments
     link: /assignments
 
+  - name: labs
+    title: Labs
+    link: /labs
+
 links:
   - name: calendar
     title: Calendar
