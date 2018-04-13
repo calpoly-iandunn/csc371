@@ -20,3 +20,8 @@ Some textbooks to consider if you want to learn more!
 - [Unity in Action](https://www.manning.com/books/unity-in-action)
 - [Introduction to Game Design, Prototyping, and Development](http://book.prototools.net/)
 - [Rules of Play: Game Design Fundamentals](https://www.amazon.com/Rules-Play-Design-Fundamentals-Press/dp/0262240459)
+
+
+### Course
+
+- [Videos](../videos/)
