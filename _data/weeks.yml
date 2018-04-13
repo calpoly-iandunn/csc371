@@ -190,9 +190,6 @@
     lecture:
       - text: System Dynamics
         tag: Lecture
-      - text: Juice it or Lose it
-        tag: Video
-        outbound: http://www.gdcvault.com/play/1016487/Juice-It-or-Lose
       - text: Game of Life
         tag: Workshop
         outbound: http://pmav.eu/stuff/javascript-game-of-life-v3.1.1/
@@ -299,8 +296,10 @@
     override: "Academic holiday - Memorial Day observed"
 
   - name: Wednesday 5/30
-    reading:
     lecture:
+      - text: Juice it or Lose it
+        tag: Video
+        outbound: http://www.gdcvault.com/play/1016487/Juice-It-or-Lose
     lab:
       - text: Work on Sprint 2
     assignment:
