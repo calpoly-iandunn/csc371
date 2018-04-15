@@ -79,6 +79,7 @@
     lecture:
       - text: Playtesting
         tag: Lecture
+        outbound: https://docs.google.com/presentation/d/1gB95E2nKKLeTFKuT3JXKNtqOJ4xa2WSG5-WyHj20kzM/edit?usp=sharing
       - text: Physical Prototype Refinement
         tag: Project
     lab:
