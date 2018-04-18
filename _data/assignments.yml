@@ -23,13 +23,13 @@ asgn02:
   polylearn:  https://polylearn.calpoly.edu/AY_2017-2018/mod/assign/view.php?id=414270
 
 asgn03:
-  display:  false
-  title:    Assignment 3
-  subtitle: Feature Design Exercise
-  type:     assignment
+  display:    false
+  title:      Assignment 3
+  subtitle:   Feature Design Exercise
+  type:       assignment
   individual: true
-  assigned: Friday 1/12
-  due:      Monday 1/22
+  assigned:   Friday 1/12
+  due:        Monday 1/22
 
 
 ##########
@@ -60,7 +60,7 @@ lab03:
   type:       lab
   individual: true
   assigned:   Wednesday 4/11
-  due:        Wednesday 4/18
+  due:        Friday 4/20
 
 
 ##############
