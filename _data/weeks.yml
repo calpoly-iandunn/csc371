@@ -80,24 +80,25 @@
       - text: Playtesting
         tag: Lecture
         outbound: https://docs.google.com/presentation/d/1gB95E2nKKLeTFKuT3JXKNtqOJ4xa2WSG5-WyHj20kzM/edit?usp=sharing
+    lab:
+      - text: Physical Prototyping
+        tag: Project
+
+  - name: Wednesday 4/18
+    lecture:
       - text: Physical Prototype Refinement
         tag: Project
     lab:
       - text: Physical Prototype Playtesting
         tag: Project
 
-  - name: Wednesday 4/18
+  - name: Friday 4/20
     reading:
       - "Chapter 2: The Structure of Games"
       - "Chapter 3: Working with Formal Elements"
     lecture:
       - text: Formal Elements
         tag: Lecture
-
-  - name: Friday 4/20
-    lecture:
-      - text: Board Game Production
-        tag: Project
     lab:
       - text: Board Game Production
         tag: Project
