@@ -99,6 +99,10 @@
     lecture:
       - text: Formal Elements
         tag: Lecture
+        outbound: https://docs.google.com/presentation/d/16p7n9W2GxJakCjj3u-BDvmuaB0bZHp9DNc3NQrFt7mQ/edit?usp=sharing
+      - text: Formal Elements
+        tag: Workshop
+        link: /workshops/FormalElements
     lab:
       - text: Board Game Production
         tag: Project
