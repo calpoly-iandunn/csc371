@@ -63,6 +63,15 @@ lab03:
   due:        Friday 4/20
 
 
+lab04:
+  title:      Lab 4
+  subtitle:   "2D Roguelike: Setup and Level Generation"
+  type:       lab
+  individual: true
+  assigned:   Monday 4/23
+  due:        Wednesday 5/2
+
+
 ##############
 ## Projects ##
 ##############
