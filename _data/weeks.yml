@@ -141,13 +141,13 @@
   name: Week 5
   days:
   - name: Monday 4/30
+    override: Class Cancelled
+
+  - name: Wednesday 5/2
     lecture:
       - text: "Emergent Storytelling"
         tag: Video
         outbound: https://docs.google.com/presentation/d/1HA1uEbZvm9tiSaKYGTH9NPJAuzug2Bcjh1DOWC4N0q8/edit?usp=sharing
-
-  - name: Wednesday 5/2
-    lecture:
       - text: Unity Game Pitches
         tag: Project
     lab:
