@@ -80,7 +80,6 @@ full-page: true
   {% assign assignment = pair[1] %}
 
   {% if assignment.display != false %}
-
     <td>
     {% if day.name == assignment.due %}
       <a href="{{ site.baseurl }}/{{ assignment.type }}s/{{ name }}"><span class="oi oi-circle-x" title="{{assignment.title}} due" aria-hidden="true" style="color: red;"></span></a>

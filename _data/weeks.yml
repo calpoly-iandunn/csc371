@@ -159,9 +159,8 @@
     reading:
       - "Chapter 8: Digital Prototyping"
     lecture:
-      - text: Collision Detection
+      - text: Game Math
         tag: Lecture
-        outbound: https://docs.google.com/presentation/d/181I7LYsvtPRIhQQ1-1LC9-jv1byaOAwiRqCW_E2caBI/edit?usp=sharing
     lab:
       - text: Unity Game Physical Prototyping
         tag: Project
@@ -175,9 +174,12 @@
     reading:
       - "Chapter 14: The Design Document"
     lecture:
-      - text: Design Documents
+      - text: Collision Detection
         tag: Lecture
+        outbound: https://docs.google.com/presentation/d/181I7LYsvtPRIhQQ1-1LC9-jv1byaOAwiRqCW_E2caBI/edit?usp=sharing
     lab:
+      - text: Unity Game Physical Prototyping
+        tag: Project
 
   - name: Wednesday 5/9
     reading:
@@ -189,6 +191,8 @@
         tag: Lecture
         outbound: https://docs.google.com/presentation/d/1rRMyWm3TmAe_NZHeMvZE3H-1bAMXITxf-vZxGDVp0t8/edit?usp=sharing
     lab:
+      - text: Unity Game Physical Prototyping
+        tag: Project
 
   - name: Friday 5/11
     reading:
@@ -198,17 +202,10 @@
         tag: Lecture
       - text: Game of Life
         tag: Workshop
-        outbound: http://pmav.eu/stuff/javascript-game-of-life-v3.1.1/
+        link: /workshops/GameOfLife
     lab:
-      - Lab work time
-      - Digital Prototyping
-      - text: Learn Git
-        link: /labs/git/
-        due: 5/15
-    assignment:
-      - text: Project Writeup 2.1
-        link: /project/2/1/
-        due: tonight by midnight
+      - text: Unity Game Digital Prototyping
+        tag: Project
 
 ###############################################################################
 
@@ -226,8 +223,8 @@
         tag: Video
         outbound: https://www.youtube.com/watch?v=K5tPJDZv_VE
     lab:
-      - Lab work time
-    assignment:
+      - text: Unity Game Digital Prototyping
+        tag: Project
 
   - name: Wednesday 5/15
     reading:
@@ -236,16 +233,10 @@
       - text: Prisoner's Dilemma
         tag: Lecture
         outbound: https://docs.google.com/presentation/d/1ZmMEVur8WDK9tSzvqh7Y0LHCOKrf1mkNjyyoWDLY7LY/edit?usp=sharing
+    lab:
       - text: BattleBattle! Game Balancing
         tag: Workshop
         outbound: https://docs.google.com/presentation/d/1bSC7CFEoGDs0-1CjR2QitnXMXQqghwom36x9Qn-W_k8/edit?usp=sharing
-    lab:
-      - text: BattleBattle! Battle Royale
-        tag: Workshop
-    assignment:
-      - text: "Assignment 3: Feature Design"
-        link: /assignments/3/
-        due: tonight by midnight
 
   - name: Friday 5/17
     reading:
@@ -253,8 +244,8 @@
       - text: BattleBattle! Battle Royale Final Showdown
         tag: Workshop
     lab:
-      - Digital Prototyping
-    assignment:
+      - text: Unity Game Digital Prototyping
+        tag: Project
 
 ###############################################################################
 
@@ -269,29 +260,24 @@
         tag: Lecture
         outbound: https://docs.google.com/presentation/d/1QTcLQuI9F27_C20IUjtFivywWK756IxrTUmqevixYzw/edit?usp=sharing
     lab:
-      - text: Digital Prototyping
-      - text: Work on Sprint 1
-    assignment:
-      - text: Project Writeup 2.2
-        link: /project/2/2/
-        due: tonight by midnight
+      - text: Unity Game Digital Prototyping
+        tag: Project
 
   - name: Wednesday 5/23
     reading:
       - "Chapter 13: Stages of Development"
     lecture:
-      - text: Work on Sprint 1
+      - text: Computer Graphics
+        tag: Lecture
     lab:
       - text: Work on Sprint 1
+        tag: Project
 
   - name: Friday 5/25
-    reading:
-    lecture:
-      - text: Sprint 1 Checkins
-        link: /projects/digital/3/
     lab:
       - text: Sprint 1 Checkins
         link: /projects/digital/3/
+        tag: Project
 
 ###############################################################################
 
@@ -308,16 +294,14 @@
         outbound: http://www.gdcvault.com/play/1016487/Juice-It-or-Lose
     lab:
       - text: Work on Sprint 2
+        tag: Project
     assignment:
 
   - name: Friday 6/1
-    reading:
-    lecture:
-      - text: Sprint 2 Checkins
-        link: /projects/digital/3/
     lab:
       - text: Sprint 2 Checkins
         link: /projects/digital/3/
+        tag: Project
     assignment:
 
 ###############################################################################
@@ -332,27 +316,24 @@
         tag: Lecture
         outbound: https://docs.google.com/presentation/d/19tO57BFHZw67KERCO0udJBwVf5EPWuuCLYuOgAhFFwI/edit?usp=sharing
     lab:
-      - Work on Sprint 3
+      - text: Work on Sprint 3
+        tag: Project
 
   - name: Wednesday 6/6
     reading:
       - "Chapter 15: Understanding the Game Industry"
-    lecture:
-      - text: Playtesting Session
-        link: /projects/digital/3/
     lab:
       - text: Playtesting Session
         link: /projects/digital/3/
+        tag: Project
 
   - name: Friday 6/8
     reading:
       - "Chapter 16: Selling Yourself and Your Ideas to the Game Industry"
-    lecture:
-      - text: Sprint 3 Checkins
-        link: /projects/digital/3/
     lab:
       - text: Sprint 3 Checkins
         link: /projects/digital/3/
+        tag: Project
     assignment:
       - text: Project Writeup 2.4
         link: /project/2/4/
