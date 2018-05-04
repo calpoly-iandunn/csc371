@@ -32,6 +32,8 @@ When making digital games, you acquire a lot of technical debt and there can be 
 
 Work in teams of 1-6 to create a digital game using Unity.
 
+[GitHub Classroom Repositories can be created here.](https://classroom.github.com/g/Xu2s6yg3)
+
 Once our conventional games are complete, we will move on to digital games.
 Digital games often have a more complicated development process,
 as both the gameplay aspects as well as the technology must be implemented.
