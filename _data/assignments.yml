@@ -90,3 +90,38 @@ lab04:
   assigned:  Friday 4/20
   due:       Monday 4/30
 
+"digital/1":
+  title:     Digital Game Physical Prototype
+  subtitle:  "Writeup"
+  type:      project
+  assigned:  Friday 5/4
+  due:       Friday 5/11
+
+"digital/2":
+  title:     Digital Game Digital Prototype
+  subtitle:  "Writeup"
+  type:      project
+  assigned:  Friday 5/11
+  due:       Monday 5/21
+
+"digital/3":
+  title:     Digital Game Production
+  subtitle:  "Writeup"
+  type:      project
+  assigned:  Monday 5/21
+  due:       Friday 6/8
+
+"digital/4":
+  title:     Digital Game Design Document
+  subtitle:  "Writeup"
+  type:      project
+  assigned:  Monday 5/7
+  due:       Friday 6/8
+
+"digital/5":
+  title:     Digital Game Team Evaluations
+  subtitle:  "Writeup"
+  type:      project
+  assigned:  Monday 6/11
+  due:       Friday 6/15
+
