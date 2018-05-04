@@ -161,8 +161,9 @@
     lecture:
       - text: Game Math
         tag: Lecture
+        link: /lectures/08-game-math
     lab:
-      - text: Unity Game Physical Prototyping
+      - text: Unity Game Brainstorming
         tag: Project
 
 ###############################################################################
