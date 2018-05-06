@@ -44,9 +44,9 @@ Splitscreen is a reasonable alternative if multiplayer functionality is desired.
 
 ### Deliverables:
 
-1. [Physical Prototyping](digital/1/) due {{ site.data.assignments['digital/1'].due }}.
+1. [Physical Prototype](digital/1/) due {{ site.data.assignments['digital/1'].due }}.
 
-2. [Software Prototyping](digital/2/) due {{ site.data.assignments['digital/2'].due }}.
+2. [Digital Prototype](digital/2/) due {{ site.data.assignments['digital/2'].due }}.
 
 3. [Production](digital/3/) (completed in three sprints with individual due-dates).
 
