@@ -72,6 +72,15 @@ lab04:
   due:        Wednesday 5/2
 
 
+git:
+  title:      Lab 0
+  subtitle:   "Unity and Git"
+  type:       lab
+  individual: true
+  assigned:   Wednesday 5/9
+  due:        Friday 5/11
+
+
 ##############
 ## Projects ##
 ##############
