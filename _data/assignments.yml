@@ -44,7 +44,6 @@ lab01:
   assigned:   Wednesday 4/4
   due:        Friday 4/6
 
-
 lab02:
   title:      Lab 2
   subtitle:   "Roll A Ball: Camera and Play Area"
@@ -52,7 +51,6 @@ lab02:
   individual: true
   assigned:   Friday 4/6
   due:        Wednesday 4/11
-
 
 lab03:
   title:      Lab 3
@@ -62,7 +60,6 @@ lab03:
   assigned:   Wednesday 4/11
   due:        Friday 4/20
 
-
 lab04:
   title:      Lab 4
   subtitle:   "2D Roguelike: Setup and Level Generation"
@@ -71,14 +68,21 @@ lab04:
   assigned:   Monday 4/23
   due:        Wednesday 5/2
 
-
 git:
   title:      Lab 0
   subtitle:   "Unity and Git"
   type:       lab
   individual: true
-  assigned:   Wednesday 5/9
+  assigned:   Monday 5/7
   due:        Friday 5/11
+
+lab05:
+  title:      Lab 5
+  subtitle:   "2D Roguelike: Game"
+  type:       lab
+  individual: true
+  assigned:   Monday 5/7
+  due:        Friday 5/17
 
 
 ##############
