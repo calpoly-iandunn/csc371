@@ -24,12 +24,6 @@ When making digital games, you acquire a lot of technical debt and there can be 
 
 ## Project 2: Digital Game
 
-<div class="alert alert-dismissible alert-info">
-  <button type="button" class="close" data-dismiss="alert">&times;</button>
-  <strong>Warning:</strong> Due-dates have been updated for the digital game project but may still move around a little bit.
-  The write-up requirements will also be changing slightly.
-</div>
-
 Work in teams of 1-6 to create a digital game using Unity.
 
 [GitHub Classroom Repositories can be created here.](https://classroom.github.com/g/Xu2s6yg3)
