@@ -185,12 +185,9 @@
   - name: Wednesday 5/9
     reading:
     lecture:
-      - text: AI Pathfinding
+      - text: Game AI
         tag: Lecture
         outbound: https://docs.google.com/presentation/d/1l0_CrxgTSnueyKt7ZvJRCLDqwZpW6CnmX0A1VoUUiMI/edit?usp=sharing
-      - text: Behavior Trees and Other AI
-        tag: Lecture
-        outbound: https://docs.google.com/presentation/d/1rRMyWm3TmAe_NZHeMvZE3H-1bAMXITxf-vZxGDVp0t8/edit?usp=sharing
     lab:
       - text: Unity Game Physical Prototyping
         tag: Project
