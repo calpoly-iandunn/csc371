@@ -183,9 +183,8 @@
         tag: Project
 
   - name: Wednesday 5/9
-    reading:
     lecture:
-      - text: Game AI
+      - text: "Game AI: Pathfinding"
         tag: Lecture
         outbound: https://docs.google.com/presentation/d/1l0_CrxgTSnueyKt7ZvJRCLDqwZpW6CnmX0A1VoUUiMI/edit?usp=sharing
     lab:
@@ -193,16 +192,11 @@
         tag: Project
 
   - name: Friday 5/11
-    reading:
-      - "Chapter 5: Working with System Dynamics"
     lecture:
-      - text: System Dynamics
-        tag: Lecture
-      - text: Game of Life
-        tag: Workshop
-        link: /workshops/GameOfLife
-    lab:
       - text: Unity Game Physical Prototyping
+        tag: Project
+    lab:
+      - text: Unity Game Physical Prototype Playtesting
         tag: Project
 
 ###############################################################################
@@ -212,35 +206,34 @@
   days:
   - name: Monday 5/14
     reading:
-      - "Chapter 10: Functionality, Completeness, and Balance"
     lecture:
-      - text: Game Balance
+      - text: "Game AI: Behavior"
         tag: Lecture
-        outbound: https://docs.google.com/presentation/d/1XChdcJT6nEpVT5f4z3hy32nG_h0odyzwQUU0dzc_1ww/edit?usp=sharing
-      - text: "Mark Brown: Should Dark Souls Have An Easy Mode?"
-        tag: Video
-        outbound: https://www.youtube.com/watch?v=K5tPJDZv_VE
+        outbound: https://docs.google.com/presentation/d/1l0_CrxgTSnueyKt7ZvJRCLDqwZpW6CnmX0A1VoUUiMI/edit?usp=sharing
     lab:
       - text: Unity Game Digital Prototyping
         tag: Project
 
   - name: Wednesday 5/16
     reading:
-      - "Chapter 11: Fun and Accessibility"
+      - "Chapter 5: Working with System Dynamics"
     lecture:
-      - text: Prisoner's Dilemma
+      - text: Object-Oriented Game Development
         tag: Lecture
-        outbound: https://docs.google.com/presentation/d/1ZmMEVur8WDK9tSzvqh7Y0LHCOKrf1mkNjyyoWDLY7LY/edit?usp=sharing
     lab:
-      - text: BattleBattle! Game Balancing
-        tag: Workshop
-        outbound: https://docs.google.com/presentation/d/1bSC7CFEoGDs0-1CjR2QitnXMXQqghwom36x9Qn-W_k8/edit?usp=sharing
+      - text: Unity Game Digital Prototyping
+        tag: Project
 
   - name: Friday 5/18
     reading:
+      - "Chapter 10: Functionality, Completeness, and Balance"
     lecture:
-      - text: BattleBattle! Battle Royale
-        tag: Workshop
+      - text: "System Dynamics & Game Balance"
+        tag: Lecture
+        outbound: https://docs.google.com/presentation/d/1XChdcJT6nEpVT5f4z3hy32nG_h0odyzwQUU0dzc_1ww/edit?usp=sharing
+      - text: "Mark Brown: Should Dark Souls Have An Easy Mode?"
+        tag: Video
+        outbound: https://www.youtube.com/watch?v=K5tPJDZv_VE
     lab:
       - text: Unity Game Digital Prototyping
         tag: Project
@@ -252,18 +245,21 @@
   days:
   - name: Monday 5/21
     reading:
-      - "Chapter 12: Team Structures"
+      - "Chapter 11: Fun and Accessibility"
     lecture:
-      - text: Game Genres
-        tag: Lecture
-        outbound: https://docs.google.com/presentation/d/1QTcLQuI9F27_C20IUjtFivywWK756IxrTUmqevixYzw/edit?usp=sharing
+      - text: Prisoner's Dilemma
+        tag: Workshop
+        outbound: https://docs.google.com/presentation/d/1ZmMEVur8WDK9tSzvqh7Y0LHCOKrf1mkNjyyoWDLY7LY/edit?usp=sharing
+      - text: BattleBattle! Game Balancing
+        tag: Workshop
+        outbound: https://docs.google.com/presentation/d/1bSC7CFEoGDs0-1CjR2QitnXMXQqghwom36x9Qn-W_k8/edit?usp=sharing
     lab:
-      - text: Unity Game Digital Prototyping
-        tag: Project
+      - text: BattleBattle! Battle Royale
+        tag: Workshop
 
   - name: Wednesday 5/23
     reading:
-      - "Chapter 13: Stages of Development"
+      - "Chapter 12: Team Structures"
     lecture:
       - text: Computer Graphics
         tag: Lecture
@@ -272,6 +268,10 @@
         tag: Project
 
   - name: Friday 5/25
+    lecture:
+      - text: Sprint 1 Checkins
+        link: /projects/digital/3/
+        tag: Project
     lab:
       - text: Sprint 1 Checkins
         link: /projects/digital/3/
@@ -286,6 +286,8 @@
     override: "Academic holiday - Memorial Day observed"
 
   - name: Wednesday 5/30
+    reading:
+      - "Chapter 13: Stages of Development"
     lecture:
       - text: Juice it or Lose it
         tag: Video
@@ -296,6 +298,10 @@
     assignment:
 
   - name: Friday 6/1
+    lecture:
+      - text: Sprint 2 Checkins
+        link: /projects/digital/3/
+        tag: Project
     lab:
       - text: Sprint 2 Checkins
         link: /projects/digital/3/
@@ -309,7 +315,11 @@
   days:
   - name: Monday 6/4
     reading:
+      - "Chapter 15: Understanding the Game Industry"
     lecture:
+      - text: Game Genres
+        tag: Lecture
+        outbound: https://docs.google.com/presentation/d/1QTcLQuI9F27_C20IUjtFivywWK756IxrTUmqevixYzw/edit?usp=sharing
       - text: Virtual Reality
         tag: Lecture
         outbound: https://docs.google.com/presentation/d/19tO57BFHZw67KERCO0udJBwVf5EPWuuCLYuOgAhFFwI/edit?usp=sharing
@@ -318,8 +328,10 @@
         tag: Project
 
   - name: Wednesday 6/6
-    reading:
-      - "Chapter 15: Understanding the Game Industry"
+    lecture:
+      - text: Playtesting Session
+        link: /projects/digital/3/
+        tag: Project
     lab:
       - text: Playtesting Session
         link: /projects/digital/3/
@@ -328,6 +340,10 @@
   - name: Friday 6/8
     reading:
       - "Chapter 16: Selling Yourself and Your Ideas to the Game Industry"
+    lecture:
+      - text: Sprint 3 Checkins
+        link: /projects/digital/3/
+        tag: Project
     lab:
       - text: Sprint 3 Checkins
         link: /projects/digital/3/
