@@ -220,6 +220,7 @@
     lecture:
       - text: Object-Oriented Game Development
         tag: Lecture
+        outbound: https://docs.google.com/presentation/d/1upheZpOkxzSR9LyqNUlfbK-y3DneSY87CjvTZfooSFc/edit?usp=sharing
     lab:
       - text: Unity Game Digital Prototyping
         tag: Project
