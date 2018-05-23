@@ -248,9 +248,6 @@
     reading:
       - "Chapter 11: Fun and Accessibility"
     lecture:
-      - text: Prisoner's Dilemma
-        tag: Workshop
-        outbound: https://docs.google.com/presentation/d/1ZmMEVur8WDK9tSzvqh7Y0LHCOKrf1mkNjyyoWDLY7LY/edit?usp=sharing
       - text: BattleBattle! Game Balancing
         tag: Workshop
         outbound: https://docs.google.com/presentation/d/1bSC7CFEoGDs0-1CjR2QitnXMXQqghwom36x9Qn-W_k8/edit?usp=sharing
@@ -264,12 +261,16 @@
     lecture:
       - text: Computer Graphics
         tag: Lecture
+        outbound: https://docs.google.com/presentation/d/1MrTQ_QgnLR6bbn6GXXfc5f1i-74WK5lSNoLghXIy2vs/edit?usp=sharing
     lab:
       - text: Work on Sprint 1
         tag: Project
 
   - name: Friday 5/25
     lecture:
+      - text: Prisoner's Dilemma
+        tag: Workshop
+        outbound: https://docs.google.com/presentation/d/1ZmMEVur8WDK9tSzvqh7Y0LHCOKrf1mkNjyyoWDLY7LY/edit?usp=sharing
       - text: Sprint 1 Checkins
         link: /projects/digital/3/
         tag: Project
