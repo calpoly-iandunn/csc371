@@ -268,9 +268,6 @@
 
   - name: Friday 5/25
     lecture:
-      - text: Prisoner's Dilemma
-        tag: Workshop
-        outbound: https://docs.google.com/presentation/d/1ZmMEVur8WDK9tSzvqh7Y0LHCOKrf1mkNjyyoWDLY7LY/edit?usp=sharing
       - text: Sprint 1 Checkins
         link: /projects/digital/3/
         tag: Project
@@ -291,6 +288,9 @@
     reading:
       - "Chapter 13: Stages of Development"
     lecture:
+      - text: Prisoner's Dilemma
+        tag: Workshop
+        outbound: https://docs.google.com/presentation/d/1ZmMEVur8WDK9tSzvqh7Y0LHCOKrf1mkNjyyoWDLY7LY/edit?usp=sharing
       - text: Juice it or Lose it
         tag: Video
         outbound: http://www.gdcvault.com/play/1016487/Juice-It-or-Lose
