@@ -142,7 +142,7 @@
   name: Week 5
   days:
   - name: Monday 4/30
-    override: Class Cancelled
+    override: Class was cancelled
 
   - name: Wednesday 5/2
     lecture:
@@ -316,18 +316,7 @@
   name: Week 10
   days:
   - name: Monday 6/4
-    reading:
-      - "Chapter 15: Understanding the Game Industry"
-    lecture:
-      - text: Game Genres
-        tag: Lecture
-        outbound: https://docs.google.com/presentation/d/1QTcLQuI9F27_C20IUjtFivywWK756IxrTUmqevixYzw/edit?usp=sharing
-      - text: Virtual Reality
-        tag: Lecture
-        outbound: https://docs.google.com/presentation/d/19tO57BFHZw67KERCO0udJBwVf5EPWuuCLYuOgAhFFwI/edit?usp=sharing
-    lab:
-      - text: Work on Sprint 3
-        tag: Project
+    override: Class was cancelled
 
   - name: Wednesday 6/6
     lecture:
@@ -341,19 +330,19 @@
 
   - name: Friday 6/8
     reading:
+      - "Chapter 15: Understanding the Game Industry"
       - "Chapter 16: Selling Yourself and Your Ideas to the Game Industry"
     lecture:
-      - text: Sprint 3 Checkins
-        link: /projects/digital/3/
-        tag: Project
+      - text: Game Genres
+        tag: Lecture
+        outbound: https://docs.google.com/presentation/d/1QTcLQuI9F27_C20IUjtFivywWK756IxrTUmqevixYzw/edit?usp=sharing
+      - text: Virtual Reality
+        tag: Lecture
+        outbound: https://docs.google.com/presentation/d/19tO57BFHZw67KERCO0udJBwVf5EPWuuCLYuOgAhFFwI/edit?usp=sharing
     lab:
       - text: Sprint 3 Checkins
         link: /projects/digital/3/
         tag: Project
-    assignment:
-      - text: Project Writeup 2.4
-        link: /project/2/4/
-        due: Sunday 6/11 by midnight
 
 ###############################################################################
 
